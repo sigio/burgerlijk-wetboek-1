@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2002 t/m 31-12-2002
+Geldend van 01-01-2003 t/m 31-05-2003
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -1089,7 +1089,7 @@ Artikel 88
 
 1.	Een echtgenoot behoeft de toestemming van de andere echtgenoot voor de volgende rechtshandelingen:
 	a.	overeenkomsten strekkende tot vervreemding, bezwaring of ingebruikgeving en rechtshandelingen strekkende tot beëindiging van het gebruik van een door de echtgenoten tezamen of door de andere echtgenoot alleen bewoonde woning of van zaken die bij een zodanige woning of tot de inboedel daarvan behoren;
-	b.	giften, met uitzondering van de gebruikelijke, van de niet bovenmatige en van die waarvoor tijdens zijn leven niets aan zijn vermogen wordt onttrokken;
+	b.	giften, met uitzondering van de gebruikelijke, niet bovenmatige;
 	c.	overeenkomsten die ertoe strekken dat hij, anders dan in de normale uitoefening van zijn beroep of bedrijf, zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt, of zich tot zekerheidstelling voor een schuld van de derde verbindt;
 	d.	overeenkomsten van koop op afbetaling, behalve van zaken welke kennelijk uitsluitend of hoofdzakelijk ten behoeve van de normale uitoefening van zijn beroep of bedrijf strekken.
 
@@ -1097,9 +1097,11 @@ Artikel 88
 
 3.	De toestemming moet schriftelijk worden verleend, indien de wet voor het verrichten van de rechtshandeling een vorm voorschrijft.
 
-4.	Toestemming voor een rechtshandeling als bedoeld in lid 1 onder c, is niet vereist, indien zij wordt verricht door een bestuurder van een naamloze vennootschap of van een besloten vennootschap met beperkte aansprakelijkheid, die daarvan alleen of met zijn medebestuurders de meerderheid der aandelen houdt en mits zij geschiedt ten behoeve van de normale uitoefening van het bedrijf van die vennootschap.
+4.	In afwijking van lid 1, onder b, is geen toestemming vereist voor giften welke de strekking hebben dat zij pas zullen worden uitgevoerd na het overlijden van degene die de gift doet, en niet reeds tijdens diens leven worden uitgevoerd. Bestaat de gift in de aanwijzing van een begunstigde bij een sommenverzekering die tijdens het leven van de verzekeringnemer is aanvaard of kan worden aanvaard, dan is daarvoor wel toestemming vereist.
 
-5.	Indien de andere echtgenoot door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn wil te verklaren of zijn toestemming niet verleent, kan de beslissing van de kantonrechter worden ingeroepen.
+5.	Toestemming voor een rechtshandeling als bedoeld in lid 1 onder c, is niet vereist, indien zij wordt verricht door een bestuurder van een naamloze vennootschap of van een besloten vennootschap met beperkte aansprakelijkheid, die daarvan alleen of met zijn medebestuurders de meerderheid der aandelen houdt en mits zij geschiedt ten behoeve van de normale uitoefening van het bedrijf van die vennootschap.
+
+6.	Indien de andere echtgenoot door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn wil te verklaren of zijn toestemming niet verleent, kan de beslissing van de kantonrechter worden ingeroepen.
 
 Artikel 89
 
@@ -1155,7 +1157,7 @@ Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten 
 
 Artikel 94
 
-1.	De gemeenschap omvat, wat haar baten betreft, alle tegenwoordige en toekomstige goederen der echtgenoten, met uitzondering van goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen.
+1.	De gemeenschap omvat, wat haar baten betreft, alle tegenwoordige en toekomstige goederen der echtgenoten, met uitzondering van goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen, en met uitzondering van het vruchtgebruik, bedoeld in afdeling 2 van titel 3 van Boek 4.
 
 2.	Zij omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten.
 
@@ -1251,11 +1253,9 @@ Artikel 107
 
 Artikel 108
 
-1.	Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 103 leden 2 en 3 van dit boek, en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. De wetsbepalingen betreffende de vereffening van een onder voorrecht van boedelbeschrijving aanvaarde nalatenschap zijn zoveel mogelijk van overeenkomstige toepassing.
+1.	Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 103 leden 2 en 3 van dit boek, en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. Afdeling 3 van titel 6 van Boek 4 betreffende de vereffening van nalatenschappen is zoveel mogelijk van overeenkomstige toepassing.
 
 2.	Indien hij die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid artikel 103 lid 4 van dit boek in te roepen.
-
-3.	De termijn van drie maanden, genoemd in artikel 1082, begint met de aanvang van de dag waarop hij aan artikel 104 lid 1 van dit boek heeft voldaan. De rechtbank kan de termijn op zijn verzoek op grond van bijzondere omstandigheden verlengen; deze verlenging kan ook na verloop van de termijn nog worden verzocht.
 
 Afdeling 4. Opheffing van de gemeenschap bij beschikking
 
@@ -1508,29 +1508,15 @@ Afdeling 3. Giften bij huwelijkse voorwaarden
 
 Artikel 146
 
-1.	Echtgenoten of aanstaande echtgenoten mogen bij huwelijkse voorwaarden aan elkander, of een van beiden aan de andere, giften doen.
-
-2.	Deze giften kunnen tot onderwerp hebben tegenwoordige en bij de akte nauwkeurig omschreven goederen, of de gehele of gedeeltelijke nalatenschap; onder een gift van de gedeeltelijke nalatenschap is begrepen de gift van een of meer bepaalde goederen uit de nalatenschap.
-
-3.	Deze giften kunnen slechts worden herroepen, wanneer de begiftigde in gebreke is de hem bij de gift opgelegde verplichtingen na te komen.
-
-4.	Deze giften zijn van waarde zonder uitdrukkelijke aanneming door degene aan wie zij gemaakt zijn.
-
-5.	Zij kunnen plaatshebben onder voorwaarden welker uitvoering van de wil van de schenker afhangt.
-
-6.	De giften van tegenwoordige en bepaaldelijk omschreven goederen zijn niet onderworpen aan de voorwaarde van overleving van de begiftigde, tenzij die voorwaarde uitdrukkelijk mocht zijn gemaakt.
+[Vervallen per 01-01-2003]
 
 Artikel 147
 
-1.	Giften van de gehele of gedeeltelijke nalatenschap zijn slechts in dezelfde gevallen als andere giften in huwelijkse voorwaarden herroepelijk.
-
-2.	De echtgenoot, die zijn gehele of gedeeltelijke nalatenschap heeft weggeschonken, kan over de goederen, in die gift begrepen, niet om niet beschikken, behalve over geringe sommen tot beloning of om andere redenen door de rechter te beoordelen.
-
-3.	Een gift van de gehele of gedeeltelijke nalatenschap strekt niet ten voordele van de kinderen of andere rechtverkrijgenden van de begiftigde echtgenoot, wanneer deze vóór of gelijktijdig met de schenker mocht overlijden.
+[Vervallen per 01-01-2003]
 
 Artikel 148
 
-Bij de huwelijkse voorwaarden kunnen ook andere personen dan de echtgenoten aan dezen of aan een dezer giften doen, echter alleen van tegenwoordige en bij de akte nauwkeurig omschreven goederen. Op deze giften zijn de bepalingen van artikel 146 van dit boek van toepassing.
+[Vervallen per 01-01-2003]
 
 Titel 9. Ontbinding van het huwelijk
 
@@ -1872,7 +1858,7 @@ Artikel 203
 
 1.	Erkenning kan geschieden:
 	a.	bij een akte van erkenning, opgemaakt door een ambtenaar van de burgerlijke stand;
-	b.	bij elke notariële akte.
+	b.	bij notariële akte.
 
 2.	De erkenning heeft gevolg vanaf het tijdstip waarop zij is gedaan.
 
@@ -2854,7 +2840,7 @@ Artikel 291a
 
 Artikel 292
 
-1.	Een ouder kan bij uiterste wilsbeschikking of bij uitsluitend hiertoe verleden notariële akte bepalen welke persoon dan wel welke twee personen na zijn dood voortaan als voogd onderscheidenlijk als gezamenlijke voogden het gezag over zijn kinderen zal uitoefenen.
+1.	Een ouder kan bij uiterste wilsbeschikking bepalen welke persoon dan wel welke twee personen na zijn dood voortaan als voogd onderscheidenlijk als gezamenlijke voogden het gezag over zijn kinderen zal uitoefenen.
 
 2.	Hij kan geen rechtspersoon als voogd aanwijzen.
 
@@ -3284,9 +3270,7 @@ Ondanks het ontbreken der vereiste machtiging zijn handelingen, door de voogd ve
 
 Artikel 353
 
-1.	De voogd kan een de minderjarige opgekomen erfenis niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.
-
-2.	Hij kan niet zonder machtiging van de kantonrechter een de minderjarige opgekomen erfenis verwerpen, noch van een deze toekomend aandeel in een ontbonden huwelijksgemeenschap afstand doen.
+De voogd kan niet zonder machtiging van de kantonrechter van een de minderjarige toekomend aandeel in een ontbonden huwelijksgemeenschap afstand doen.
 
 Artikel 354
 
@@ -3759,11 +3743,7 @@ Een op artikel 394 gegrond verzoek kan ten behoeve van een minderjarig kind door
 
 Artikel 406b
 
-1.	De erfgenamen van de in artikel 394 bedoelde verwekker of van de man die in artikel 394 daarmee gelijk is gesteld, kunnen na zijn overlijden verplicht worden tot betaling van een som ineens ter zake van levensonderhoud en studie van het kind dat de leeftijd van eenentwintig jaren nog niet heeft bereikt.
-
-2.	De in het vorige lid bedoelde som is ten hoogste gelijk aan het wettelijk erfdeel waartoe het kind gerechtigd zou zijn geweest, indien de erflater zijn vader was.
-
-3.	De aanspraken moeten door de wettelijke vertegenwoordiger van het kind of het kind zelf binnen een jaar na het overlijden van de erflater bij de rechtbank geldend worden gemaakt.
+[Vervallen per 01-01-2003]
 
 Artikel 406d
 
@@ -4073,7 +4053,7 @@ Artikel 441
 
 4.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.
 
-5.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen erfenis te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.
+5.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen nalatenschap te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.
 
 Artikel 442
 
