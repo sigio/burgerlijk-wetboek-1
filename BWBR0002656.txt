@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2002 t/m 31-07-2002
+Geldend van 01-08-2002 t/m 31-08-2002
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -1006,7 +1006,7 @@ Artikel 80c
 
 Het geregistreerd partnerschap eindigt:
 	a.	door de dood;
-	b.	door vermissing van één der partners en een daarop gevolgd nieuw geregistreerd partnerschap of huwelijk van de andere partner, overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel;
+	b.	indien de vermiste, die overeenkomstig de bepalingen van de tweede of derde afdeling van de achttiende titel van dit boek vermoedelijk overleden dan wel overleden is verklaard, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
 	c.	met wederzijds goedvinden door inschrijving door de ambtenaar van de burgerlijke stand van een door beide partners en een of meer advocaten of notarissen ondertekende en gedateerde verklaring waaruit blijkt dat en op welk tijdstip de partners omtrent de beëindiging van het geregistreerd partnerschap een overeenkomst hebben gesloten.
 	d.	door ontbinding op verzoek van één der partners;
 	e.	door omzetting van een geregistreerd partnerschap in een huwelijk.
@@ -1523,7 +1523,7 @@ Artikel 149
 
 Het huwelijk eindigt:
 	a.	door de dood;
-	b.	door vermissing van één der echtgenoten en een daarop gevolgd nieuw huwelijk of een daarop gevolgde registratie van een partnerschap van de andere echtgenoot, overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel van dit boek;
+	b.	indien de vermiste, die overeenkomstig de bepalingen van de tweede of derde afdeling van de achttiende titel van dit boek vermoedelijk overleden dan wel overleden is verklaard, nog in leven is op de dag waarop de achtergebleven echtgenoot een nieuw huwelijk of geregistreerd partnerschap is aangegaan: door de voltrekking van dit huwelijk of geregistreerd partnerschap;
 	c.	door echtscheiding, overeenkomstig de bepalingen van de tweede afdeling van deze titel;
 	d.	door ontbinding van het huwelijk na scheiding van tafel en bed, overeenkomstig de bepalingen van de tweede afdeling van de tiende titel van dit boek;
 	e.	door omzetting van een huwelijk in een geregistreerd partnerschap.
@@ -3176,7 +3176,7 @@ Artikel 338
 
 Artikel 339
 
-1.	Wanneer de goederen van de minderjarigen een waarde van € 4500 niet te boven gaan, kan de voogd een door hem ondertekende, volgens een door Onze Minister van Justitie vastgesteld model opgemaakte, verklaring daaromtrent in plaats van de boedelbeschrijving inleveren. De voogd van twee of meer kinderen van dezelfde ouders kan met een zodanige verklaring slechts volstaan, wanneer bovendien de goederen der minderjarigen tezamen een waarde van € 9000 niet te boven gaan.
+1.	Wanneer de goederen van de minderjarigen een waarde van € 11 250 niet te boven gaan, kan de voogd een door hem ondertekende, volgens een door Onze Minister van Justitie vastgesteld model opgemaakte, verklaring daaromtrent in plaats van de boedelbeschrijving inleveren. De voogd van twee of meer kinderen van dezelfde ouders kan met een zodanige verklaring slechts volstaan, wanneer bovendien de goederen der minderjarigen tezamen een waarde van € 22 500 niet te boven gaan.
 
 2.	De kantonrechter kan te allen tijde bepalen dat alsnog een beschrijving van het vermogen van de minderjarige, zoals dit op de datum van zijn beschikking is samengesteld, met overeenkomstige toepassing van het vorige artikel moet worden opgemaakt en ingeleverd.
 
@@ -3794,13 +3794,13 @@ Artikel 409
 
 Artikel 410
 
-1.	Voor zover de rechtbank niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.
+1.	Voor zover de rechtbank niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 339,340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.
 
 2.	De bewindvoerder komt als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.
 
-3.	Goedkeuring van een ingediende rekening door de kantonrechter brengt geen nadeel toe aan de bevoegdheid van de rechthebbenden om na het einde van het bewind over dezelfde tijdruimte rekening en verantwoording te vragen.
+3.	Goedkeuring van een ingediende rekening door de kantonrechter brengt geen nadeel toe aan de bevoegdheid van de rechthebbenden om na het einde van het bewind over dezelfde tijdruimte rekening en verantwoording te vragen, voor zover dit niet onredelijk is.
 
-4.	Voor andere belangen dan vermogensbelangen van de afwezige kan de bewindvoerder slechts na een daartoe strekkende bijzondere machtiging van de rechtbank opkomen.
+4.	De bewindvoerder kan ook voor andere dan vermogensbelangen van de afwezige opkomen, behoudens voor zover de rechtbank zulks heeft uitgesloten.
 
 5.	De rechtbank kan te allen tijde de bewindvoerder ontslaan en door een ander vervangen.
 
@@ -3821,24 +3821,27 @@ Artikel 412
 
 3.	Indien na het verlenen van de machtiging mocht blijken, dat de vermiste op de dag van het openvallen der nalatenschap heeft bestaan, kan de teruggave van de in bezit gekomen goederen en van de vruchten worden gevorderd, op de voet en onder de beperkingen als hierna bij de verklaring van vermoedelijk overlijden is aangegeven.
 
+4.	Het eerste tot en met derde lid is van overeenkomstige toepassing op een uitkering uit levensverzekering, waartoe de persoon wiens bestaan onzeker is de eerstgeroepen begunstigde is.
+
 Artikel 413
 
 1.	Is het bestaan van een persoon onzeker en is de in het volgende lid aangegeven tijdruimte verlopen, dan kunnen belanghebbenden de rechtbank verzoeken dat zij hun zal gelasten de vermiste op te roepen ten einde van zijn in leven zijn te doen blijken, en dat zij, zo hiervan niet blijkt, zal verklaren dat er rechtsvermoeden van overlijden van de vermiste bestaat.
 
 2.
 	a.	De in het vorige lid bedoelde tijdruimte beloopt vijf jaren, te rekenen van het vertrek van de vermiste of de laatste tijding van zijn leven.
-	b.	De termijn wordt verkort tot drie jaren, wanneer hij vermist wordt in verband met oorlogsomstandigheden, een natuurramp of een andere ramp.
-	c.	De termijn wordt verkort tot een jaar, wanneer hij heeft behoord tot de opvarenden van een schip waarvan gedurende die tijd geen berichten zijn binnengekomen, of wanneer hij is vermist ter gelegenheid van een noodlottige gebeurtenis aan een schip of een deel van de opvarenden overkomen. In het laatste geval loopt de termijn van de dag waarop de noodlottige gebeurtenis wordt geacht te hebben plaatsgegrepen. Het hier bepaalde geldt eveneens ten aanzien van de inzittenden van een luchtvaartuig.
+	b.	De termijn wordt verkort tot een jaar, indien de betrokkene gedurende die periode wordt vermist en de omstandigheden zijn dood waarschijnlijk maken.
+
+3.	Het gelasten van de oproeping van de vermiste en de verklaring van rechtsvermoeden van overlijden, bedoeld in het eerste lid, kunnen ook worden verzocht door het openbaar ministerie.
 
 Artikel 414
 
 1.	De rechtbank stelt dag en uur vast, waartegen de vermiste moet worden opgeroepen. De oproep loopt op een termijn van een maand of zoveel langer als de rechtbank mocht bevelen. De oproeping geschiedt overeenkomstig de derde afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering.
 
-2.	Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, wordt de in het vorige lid bedoelde beschikking tweemaal herhaald.
+2.	Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, verklaart de rechtbank dat er rechtsvermoeden van overlijden bestaat, onverminderd haar bevoegdheid de beschikking, bedoeld in het eerste lid, eerst nog eenmaal te herhalen alsmede het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die artikel 413 stelt.
 
-3.	Is ook op de derde oproeping niemand verschenen die behoorlijk van het in leven zijn van de vermiste heeft doen blijken, dan verklaart de rechtbank dat er rechtsvermoeden van overlijden bestaat, onverminderd haar bevoegdheid eerst nog het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die het vorige artikel stelt.
+3.	De beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, noemt de dag waarop de vermiste wordt vermoed te zijn overleden; als zodanig geldt de dag volgende op die van de laatste tijding van zijn leven, tenzij voldoende vermoedens bestaan, dat hij daarna nog enige tijd in leven was.
 
-4.	De beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, noemt de dag waarop de vermiste wordt vermoed te zijn overleden; als zodanig geldt de dag volgende op die van de laatste tijding van zijn leven, tenzij voldoende vermoedens bestaan, dat hij daarna nog enige tijd in leven was.
+4.	De rechtbank kan tevens bepalen, dat de kosten die een verzoeker als bedoeld in artikel 413 lid 1 heeft gemaakt, ten laste van het vermogen van de vermiste worden gebracht.
 
 Artikel 415
 
@@ -3856,7 +3859,7 @@ Artikel 417
 
 Artikel 418
 
-1.	Erfgenamen en legatarissen van hem, die vermoedelijk overleden is verklaard, zijn verplicht alvorens zij de goederen der nalatenschap in bezit nemen, ten genoegen van de kantonrechter zekerheid te stellen voor hetgeen zij aan de overledene, mocht deze terugkeren, of aan erfgenamen of legatarissen die een beter recht mochten hebben, moeten afdragen.
+1.	Erfgenamen en legatarissen van hem, die vermoedelijk overleden is verklaard, zijn verplicht alvorens zij de goederen der nalatenschap in bezit nemen, ten genoegen van de kantonrechter zekerheid te stellen voor hetgeen zij aan de vermoedelijk overleden verklaarde, mocht deze terugkeren, of aan erfgenamen of legatarissen die een beter recht mochten hebben, moeten afdragen.
 
 2.	De erfgenamen zijn verplicht na de inbezitneming een behoorlijke boedelbeschrijving op te maken.
 
@@ -3868,7 +3871,7 @@ Artikel 418
 
 6.	Erfgenamen en legatarissen zijn verplicht desgevraagd aan de kantonrechter de nodige inlichtingen te geven.
 
-7.	De in dit artikel genoemde verplichtingen vervallen, wanneer tien jaren zijn verlopen na de dag waarop de akte van overlijden overeenkomstig artikel 417 van dit boek is opgemaakt.
+7.	De in dit artikel genoemde verplichtingen vervallen op het door de kantonrechter bepaalde tijdstip, en uiterlijk na verloop van vijf jaren na de dag waarop de akte van overlijden overeenkomstig artikel 417 is opgemaakt. De rechtbank die de beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, geeft kan, gelet op de omstandigheden van het geval, daarbij tevens bepalen dat een of meer der in dit artikel genoemde verplichtingen niet zullen bestaan.
 
 Artikel 419
 
@@ -3878,7 +3881,7 @@ Artikel 420
 
 1.	Wanneer het aan de kantonrechter blijkt, dat een erfgenaam of legataris de hem in de twee voorgaande artikelen opgelegde verplichtingen niet is nagekomen, kan hij voor de goederen die aan die erfgenaam of legataris uit de nalatenschap toekomen, een bewindvoerder benoemen, wiens bewind eindigt, wanneer de kantonrechter beslist dat de betrokkene alsnog zijn wettelijke verplichtingen heeft nageleefd.
 
-2.	Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks ter griffie van de rechtbank een rekening in te dienen van zijn bewind.
+2.	Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 339, 340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks ter griffie van de rechtbank een rekening in te dienen van zijn bewind.
 
 3.	De bewindvoerder komt als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.
 
@@ -3906,17 +3909,13 @@ Artikel 423
 
 Artikel 424
 
-1.	Overlegging van een overeenkomstig artikel 417 van dit boek opgemaakte akte van overlijden is voor de achtergebleven echtgenoot of voor de achtergebleven geregistreerde partner niet voldoende om een huwelijk of een geregistreerd partnerschap aan te gaan; hij behoeft hiertoe bovendien een hem door de rechtbank op zijn verzoek verleend verlof.
-
-2.	De rechtbank kan het geven van het verlof uitstellen tot nog uiterlijk vijf jaren boven de in artikel 413 lid 2 van dit boek bedoelde tijd; zij kan ook, alvorens uitspraak te doen, het horen van getuigen, de overlegging van bewijsstukken, of nadere oproepingen en plaatsing daarvan in de door haar aan te wijzen dagbladen bevelen, wanneer zij dit in het belang van de vermiste nodig oordeelt.
-
-3.	Indien na het verleende verlof, maar vóór het aangaan van een huwelijk of een geregistreerd partnerschap, de vermiste terugkeert of iemand het bewijs van diens leven levert, vervalt het verlof van rechtswege.
-
-4.	Indien de achtergebleven echtgenoot of de achtergebleven geregistreerde partner krachtens het rechterlijk verlof een huwelijk of een geregistreerd partnerschap aangaat, doch de vermiste op dat moment nog in leven is, wordt het huwelijk of het geregistreerd partnerschap met de vermiste ontbonden door de voltrekking van het huwelijk of het geregistreerd partnerschap.
+[Vervallen.]
 
 Artikel 425
 
-Indien de achtergebleven echtgenote van een vermiste met inachtneming van het vorige artikel een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig artikel 417 van dit boek opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag.
+1.	Indien de achtergebleven echtgenote van een vermiste een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig artikel 417 van dit boek opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag.
+
+2.	De vermoedelijk overleden verklaarde voor wie bij diens terugkeer het gezag over zijn minderjarige kind niet is herleefd, kan de rechtbank verzoeken hem daarmede te belasten. Wanneer deze tezamen met de andere ouder verzoekt in het belang van hun kind hen gezamenlijk met het gezag te belasten, dan wel niet in het gezag is voorzien of een voogd het gezag uitoefent, wordt het verzoek slechts afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd. In de overige gevallen wordt het verzoek slechts ingewilligd indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
 
 Afdeling 3. Vaststelling van overlijden in bepaalde gevallen
 
@@ -3951,7 +3950,9 @@ De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt ee
 
 Artikel 430
 
-De akten, opgemaakt volgens artikel 429, gelden als akten van overlijden in de zin van artikel 19f, eerste lid.
+1.	De akten, opgemaakt volgens artikel 429, gelden als akten van overlijden in de zin van artikel 19f, eerste lid.
+
+2.	De artikelen 422, 423 en 425 zijn van overeenkomstige toepassing, indien een persoon die met toepassing van artikel 426 overleden is verklaard terugkeert alsmede indien bewezen wordt dat de dag van overlijden in de in artikel 429 bedoelde akte onjuist is vermeld.
 
 Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
 
