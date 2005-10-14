@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2005 t/m 14-10-2005
+Geldend van 15-10-2005 t/m 07-03-2006
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -328,7 +328,7 @@ Afdeling 5. Latere vermeldingen
 
 Artikel 20
 
-1.	De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap of van een huwelijk, alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste twee maanden oud is en die inhouden:
+1.	De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap of van een huwelijk, alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:
 	a.	een last tot wijziging van de voornamen of van de geslachtsnaam, een last tot wijziging van de vermelding van het geslacht, een adoptie, een herroeping van een adoptie, een vernietiging van een erkenning, een gerechtelijke vaststelling van het vaderschap, een gegrondverklaring van een ontkenning van het vaderschap of, of een vernietiging van zulk een uitspraak;
 	b.	de nietigverklaring van een huwelijk of van een geregistreerd partnerschap of de vernietiging van zulk een uitspraak tussen echtelieden of geregistreerde partners wier huwelijksakte onderscheidenlijk akte van een geregistreerd partnerschap, dan wel akte van omzetting van een geregistreerd partnerschap of huwelijk in de Nederlandse registers van de burgerlijke stand is opgenomen.
 
@@ -360,7 +360,7 @@ Bij algemene maatregel van bestuur wordt geregeld al wat betreft de aan de ambte
 
 Artikel 20e
 
-1.	Van de in artikel 20, eerste lid, genoemde uitspraken zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was niet eerder dan twee maanden na de dag van de beschikking een afschrift aan de ambtenaar van de burgerlijke stand.
+1.	Van de in artikel 20, eerste lid, genoemde uitspraken zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was niet eerder dan drie maanden na de dag van de beschikking een afschrift aan de ambtenaar van de burgerlijke stand.
 
 2.	Van besluiten houdende wijziging of vaststelling van namen en van naturalisatiebesluiten mede houdende wijziging of vaststelling van namen zendt Onze Minister van Justitie onverwijld een afschrift aan de ambtenaar van de burgerlijke stand onder wie de akte van geboorte van de betrokken persoon berust.
 
@@ -436,7 +436,7 @@ Artikel 24
 
 1.	Aanvulling van een register van de burgerlijke stand met een daarin ontbrekende akte of latere vermelding, doorhaling van een daarin ten onrechte voorkomende akte of latere vermelding, of verbetering van een daarin voorkomende akte of latere vermelding die onvolledig is of een misslag bevat, kan op verzoek van belanghebbenden of van het openbaar ministerie worden gelast door de rechtbank. De rechtbank kan bij haar beschikking tot verbetering van een akte of latere vermelding die onvolledig is of een misslag bevat, eveneens dezelfde verbetering gelasten ten aanzien van een akte of latere vermelding betreffende dezelfde persoon of zijn afstammelingen, die buiten haar rechtsgebied in de registers van de burgerlijke stand is opgenomen.
 
-2.	De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt niet eerder dan twee maanden na de dag van de beschikking een afschrift daarvan aan de ambtenaar van de burgerlijke stand van de gemeente, in welker registers de akte of latere vermelding is of had moeten zijn opgenomen. Is deze gemeente opgeheven, dan zendt hij het afschrift aan de ambtenaar van de gemeente in wier archieven de registers van de burgerlijk stand van de opgeheven gemeente berusten.
+2.	De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt niet eerder dan drie maanden na de dag van de beschikking een afschrift daarvan aan de ambtenaar van de burgerlijke stand van de gemeente, in welker registers de akte of latere vermelding is of had moeten zijn opgenomen. Is deze gemeente opgeheven, dan zendt hij het afschrift aan de ambtenaar van de gemeente in wier archieven de registers van de burgerlijk stand van de opgeheven gemeente berusten.
 
 Artikel 24a
 
@@ -507,7 +507,7 @@ Artikel 25e
 
 Artikel 25f
 
-1.	De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt niet eerder dan twee maanden na de dag van de beschikking een afschrift daarvan, aan de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage.
+1.	De griffier van het college waarvoor de zaak laatstelijk aanhangig was, zendt niet eerder dan drie maanden na de dag van de beschikking een afschrift daarvan, aan de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage.
 
 2.	Deze ambtenaar maakt van de beschikking, bedoeld in artikel 25c een akte van inschrijving op, die geldt als een akte van geboorte in de zin van artikel 19 van dit boek. Deze akte is in overeenstemming met de beschikking en vermeldt dit uitdrukkelijk.
 
@@ -4126,7 +4126,7 @@ Artikel 450
 
 3.	Het mentorschap kan eveneens worden ingesteld, indien te verwachten is dat een meerderjarige binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.
 
-4.	De rechter bij wie een vordering tot het verlenen van een voorlopige machtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot kennisneming van een vordering tot instelling van een mentorschap.
+4.	De rechter bij wie een verzoek tot het verlenen van een voorlopige machtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.
 
 Artikel 451
 
