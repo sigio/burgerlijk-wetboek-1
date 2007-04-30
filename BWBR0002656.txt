@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 25-04-2007 t/m 30-04-2007
+Geldend van 01-05-2007 t/m 31-12-2007
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -118,7 +118,9 @@ Artikel 12
 
 3.	Wanneer ten behoeve van een persoon een mentorschap is ingesteld, volgt hij voor alles wat de uitoefening van dit mentorschap betreft, de woonplaats van de mentor.
 
-4.	Wanneer de persoon, van wie de woonplaats wordt afgeleid, overlijdt of zijn gezag of zijn hoedanigheid verliest, duurt de afgeleide woonplaats voort, totdat een nieuwe woonplaats is verkregen.
+4.	Het eerste, tweede en derde lid zijn niet van toepassing voor zover het betreft de relatieve bevoegdheid van de rechter gedurende een curatele, een bewind als bedoeld in titel 19 en een mentorschap. Hetzelfde geldt indien ten aanzien van een persoon een curatele, een mentorschap of een bewind als bedoeld in titel 19 en tevens een bewind als bedoeld in afdeling 7 van titel 5 van Boek 4 of een bewind als bedoeld in artikel 182 van Boek 7 van kracht zijn en de bevoegde kantonrechter de andere kantonrechter als uitsluitend bevoegde heeft aangewezen.
+
+5.	Wanneer de persoon, van wie de woonplaats wordt afgeleid, overlijdt of zijn gezag of zijn hoedanigheid verliest, duurt de afgeleide woonplaats voort, totdat een nieuwe woonplaats is verkregen.
 
 Artikel 13
 
@@ -678,7 +680,7 @@ Artikel 35
 
 Artikel 36
 
-Voor zover een volgens het vorige artikel vereiste toestemming niet wordt verkregen, kan zij op verzoek van de minderjarige door die van de kantonrechter worden vervangen.
+Voor zover een volgens het vorige artikel vereiste toestemming niet wordt verkregen, kan zij op verzoek van de minderjarige door die van de rechtbank worden vervangen.
 
 Artikel 37
 
@@ -692,9 +694,9 @@ Hij die wegens een geestelijke stoornis onder curatele staat, mag geen huwelijk 
 
 Artikel 39
 
-1.	Heeft de kantonrechter de toestemming verleend, dan is de termijn van beroep veertien dagen en kan gedurende die termijn de beschikking niet worden ten uitvoer gelegd.
+1.	Heeft de rechter de toestemming verleend, dan is de termijn van beroep veertien dagen en kan gedurende die termijn de beschikking niet worden ten uitvoer gelegd.
 
-2.	Hij die tegen een verleende toestemming opkomt, is verplicht dit binnen de termijn van beroep bij deurwaardersexploit te doen aanzeggen aan de ambtenaar of ambtenaren van de burgerlijke stand ten overstaan van wie het huwelijk kan worden voltrokken. Door dit te verzuimen verliest hij het recht om de nietigverklaring van het huwelijk op grond van het ontbreken van zijn toestemming te vragen, indien het gerechtshof de beschikking van de kantonrechter vernietigt en het huwelijk reeds is voltrokken.
+2.	Hij die tegen een verleende toestemming opkomt, is verplicht dit binnen de termijn van beroep bij deurwaardersexploit te doen aanzeggen aan de ambtenaar of ambtenaren van de burgerlijke stand ten overstaan van wie het huwelijk kan worden voltrokken. Door dit te verzuimen verliest hij het recht om de nietigverklaring van het huwelijk op grond van het ontbreken van zijn toestemming te vragen, indien het gerechtshof de in het eerste lid bedoelde beschikking vernietigt en het huwelijk reeds is voltrokken.
 
 Artikel 40
 
@@ -765,7 +767,7 @@ Artikel 47
 
 Artikel 48
 
-Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huwelijk, geeft de ambtenaar van de burgerlijke stand van de gedane aangifte onverwijld kennis aan de kantonrechter van de woonplaats van de bedoelde ouder.
+Indien hij die wil hertrouwen het gezag heeft over kinderen uit een vorig huwelijk, geeft de ambtenaar van de burgerlijke stand van de gedane aangifte onverwijld kennis aan de rechtbank van de woonplaats van de bedoelde ouder.
 
 Artikel 49
 
@@ -1103,7 +1105,7 @@ Artikel 88
 
 5.	Toestemming voor een rechtshandeling als bedoeld in lid 1 onder c, is niet vereist, indien zij wordt verricht door een bestuurder van een naamloze vennootschap of van een besloten vennootschap met beperkte aansprakelijkheid, die daarvan alleen of met zijn medebestuurders de meerderheid der aandelen houdt en mits zij geschiedt ten behoeve van de normale uitoefening van het bedrijf van die vennootschap.
 
-6.	Indien de andere echtgenoot door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn wil te verklaren of zijn toestemming niet verleent, kan de beslissing van de kantonrechter worden ingeroepen.
+6.	Indien de andere echtgenoot door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn wil te verklaren of zijn toestemming niet verleent, kan de beslissing van de rechtbank worden ingeroepen.
 
 Artikel 89
 
@@ -1311,7 +1313,7 @@ Artikel 116
 
 Artikel 117
 
-1.	Huwelijkse voorwaarden vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij wier toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven; is de toestemming van de kantonrechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de kantonrechter is artikel 39 lid 1 van dit boek van overeenkomstige toepassing.
+1.	Huwelijkse voorwaarden vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij wier toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven; is de toestemming van de rechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de rechter is artikel 39 lid 1 van dit boek van overeenkomstige toepassing.
 
 2.	Vóór het huwelijk gemaakte huwelijkse voorwaarden beginnen te werken van het tijdstip der voltrekking van het huwelijk; geen ander tijdstip kan daarvoor worden aangewezen.
 
@@ -2096,7 +2098,7 @@ Artikel 235
 
 Artikel 236
 
-1.	Een verleende handlichting kan door de rechtbank worden ingetrokken, indien de minderjarige daarvan misbruik maakt of er gegronde vrees bestaat dat hij dit zal doen.
+1.	Een verleende handlichting kan door de kantonrechter worden ingetrokken, indien de minderjarige daarvan misbruik maakt of er gegronde vrees bestaat dat hij dit zal doen.
 
 2.	De intrekking geschiedt op verzoek van een van de ouders van de minderjarige, voor zover deze het gezag over hem uitoefenen en met inachtneming van artikel 253a, of op verzoek van de voogd.
 
@@ -2247,7 +2249,7 @@ Artikel 252
 	d.	de voorziening in het gezag over het kind is komen te ontbreken; of
 	e.	de ouder die het gezag heeft, dit gezamenlijk met een ander dan een ouder uitoefent.
 
-3.	Tegen de weigering van de aantekening is alleen beroep mogelijk, indien zij heeft plaatsgevonden op grond van onbevoegdheid van één of beide ouders tot het gezag anders dan vanwege minderjarigheid of ondercuratelestelling. Alsdan kan de kantonrechter worden verzocht de aantekening te gelasten. Hij wijst het verzoek af, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
+3.	Tegen de weigering van de aantekening is alleen beroep mogelijk, indien zij heeft plaatsgevonden op grond van onbevoegdheid van één of beide ouders tot het gezag anders dan vanwege minderjarigheid of ondercuratelestelling. Alsdan kan de rechtbank worden verzocht de aantekening te gelasten. Zij wijst het verzoek af, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
 Artikel 253
 
@@ -2279,23 +2281,23 @@ Artikel 253b
 
 2.	De in het eerste lid bedoelde moeder die ten tijde van haar bevalling onbevoegd was tot het gezag, verkrijgt dit van rechtswege op het tijdstip waarop zij daartoe bevoegd wordt, tenzij op dat tijdstip een ander met het gezag is belast.
 
-3.	Indien op bedoeld tijdstip een ander het gezag heeft, kan de tot het gezag bevoegde ouder de kantonrechter verzoeken hem met het gezag over het kind te belasten.
+3.	Indien op bedoeld tijdstip een ander het gezag heeft, kan de tot het gezag bevoegde ouder de rechtbank verzoeken hem met het gezag over het kind te belasten.
 
-4.	Wanneer de andere ouder het gezag over het kind uitoefent, wordt dit verzoek slechts ingewilligd, indien de kantonrechter dit in het belang van het kind wenselijk oordeelt.
+4.	Wanneer de andere ouder het gezag over het kind uitoefent, wordt dit verzoek slechts ingewilligd, indien de rechter dit in het belang van het kind wenselijk oordeelt.
 
 5.	Wanneer een voogd het gezag over het kind uitoefent, wordt het verzoek slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
 Artikel 253c
 
-1.	De tot het gezag bevoegde vader van het kind, die nimmer het gezag gezamenlijk met de moeder heeft uitgeoefend, kan de kantonrechter verzoeken hem met het gezag over het kind te belasten.
+1.	De tot het gezag bevoegde vader van het kind, die nimmer het gezag gezamenlijk met de moeder heeft uitgeoefend, kan de rechtbank verzoeken hem met het gezag over het kind te belasten.
 
-2.	Wanneer de moeder het gezag over het kind uitoefent, wordt dit verzoek slechts ingewilligd, indien de kantonrechter dit in het belang van het kind wenselijk oordeelt.
+2.	Wanneer de moeder het gezag over het kind uitoefent, wordt dit verzoek slechts ingewilligd, indien de rechter dit in het belang van het kind wenselijk oordeelt.
 
 3.	Wanneer niet in het gezag is voorzien of wanneer een voogd het gezag uitoefent, wordt het verzoek slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
 Artikel 253d
 
-1.	Indien de voorziening in het gezag over een kind als bedoeld in artikel 253b, eerste lid, van dit boek komt te ontbreken, kunnen zowel zijn moeder als zijn vader dan wel beiden voor zover zij tot het gezag bevoegd zijn - de kantonrechter verzoeken met het gezag onderscheidenlijk gezamenlijk gezag te worden belast. Indien de voorziening in het gezag komt te ontbreken ten gevolge van ontheffing of ontzetting van het gezag, wordt het verzoek tot de rechtbank gericht.
+1.	Indien de voorziening in het gezag over een kind als bedoeld in artikel 253b, eerste lid, van dit boek komt te ontbreken, kunnen zowel zijn moeder als zijn vader dan wel beiden voor zover zij tot het gezag bevoegd zijn - de rechtbank verzoeken met het gezag onderscheidenlijk gezamenlijk gezag te worden belast.
 
 2.	Het in het eerste lid bedoelde verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
@@ -2321,21 +2323,13 @@ Artikel 253g
 
 4.	De bepaling van het voorgaande lid is mede van toepassing indien de overleden ouder een voogd had aangewezen overeenkomstig artikel 292 van dit boek.
 
-5.	Tot het geven van de in dit artikel bedoelde beslissingen is de rechtbank bevoegd, indien:
-	a.	het betreft het overlijden van de ouder die na de gerechtelijke ontbinding van het huwelijk of na scheiding van tafel en bed het gezag alleen uitoefende of die na de uitoefening van het gezamenlijk gezag als bedoeld in artikel 252, eerste lid, van dit boek alleen met het gezag was belast;
-	b.	de overlevende ouder was ontheven of ontzet van het gezag en verzocht wordt deze met het gezag te belasten.
-
-In de overige gevallen is de kantonrechter bevoegd.
-
 Artikel 253h
 
 1.	Indien na het overlijden van één der ouders een voogd is benoemd, kan de rechter deze beslissing te allen tijde in dier voege wijzigen, dat de overlevende ouder mits deze daartoe bevoegd is, alsnog met het gezag wordt belast.
 
-2.	Hij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+2.	Zij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
 3.	Wanneer de andere ouder een voogd had aangewezen overeenkomstig artikel 292 van dit boek en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.
-
-4.	Het vijfde lid van artikel 253g van dit boek is van overeenkomstige toepassing.
 
 § 2a. Gezag na meerderjarigverklaring
 
@@ -2402,10 +2396,6 @@ Artikel 253o
 
 1.	Beslissingen waarbij een ouder alleen met het gezag is belast, gegeven ingevolge het bepaalde in de paragrafen 1, 2 en 2a van deze titel en het bepaalde in artikel 253n van dit boek kunnen op verzoek van de ouders of van een van hen door de rechtbank worden gewijzigd op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Een verzoek om alsnog gezamenlijk met het gezag over hun minderjarige kinderen te worden belast, kan slechts van beide ouders afkomstig zijn.
 
-2.	[vervallen.]
-
-3.	Een verzoek tot wijziging van een gezagsbeslissing wordt aan de kantonrechter gedaan, indien de te wijzigen beslissing door de kantonrechter is gegeven.
-
 Artikel 253p
 
 1.	In de gevallen waarin door de rechter het gezag wordt opgedragen aan beide ouders of aan een ouder alleen, neemt dit een aanvang zodra de desbetreffende beschikking in kracht van gewijsde is gegaan, of, indien zij uitvoerbaar bij voorraad is verklaard, daags nadat de beschikking is verstrekt of verzonden.
@@ -2418,13 +2408,13 @@ Artikel 253q
 
 1.	Wanneer een van de ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, oefent de andere ouder alleen het gezag over de kinderen uit. Wanneer de grond van de onbevoegdheid is weggevallen, herleeft van rechtswege het gezamenlijke gezag.
 
-2.	Wanneer beide ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, daartoe op een der in artikel 246 genoemde gronden onbevoegd zijn, benoemt de kantonrechter een voogd.
+2.	Wanneer beide ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, daartoe op een der in artikel 246 genoemde gronden onbevoegd zijn, benoemt de rechtbank een voogd.
 
-3.	Wanneer een ouder die alleen het gezag uitoefent, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, belast de kantonrechter de andere ouder met het gezag, tenzij gegronde vrees bestaat dat de belangen van de kinderen zouden worden verwaarloosd. Alsdan benoemt hij een voogd.
+3.	Wanneer een ouder die alleen het gezag uitoefent, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, belast de rechtbank de andere ouder met het gezag, tenzij gegronde vrees bestaat dat de belangen van de kinderen zouden worden verwaarloosd. Alsdan benoemt zij een voogd.
 
 4.	De in het tweede en derde lid bedoelde beslissingen worden gegeven op verzoek van een ouder, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming of ambtshalve.
 
-5.	Wanneer de grond van de onbevoegdheid van de in het derde lid eerstgenoemde ouder is vervallen, wordt hij, op zijn verzoek, wederom met het gezag belast, indien de kantonrechter overtuigd is dat het kind wederom aan de ouder mag worden toevertrouwd. Indien de ouders gezamenlijk met het gezag wensen te worden belast, dient het verzoek daartoe van beiden afkomstig te zijn.
+5.	Wanneer de grond van de onbevoegdheid van de in het derde lid eerstgenoemde ouder is vervallen, wordt hij, op zijn verzoek, wederom met het gezag belast, indien de rechtbank overtuigd is dat het kind wederom aan de ouder mag worden toevertrouwd. Indien de ouders gezamenlijk met het gezag wensen te worden belast, dient het verzoek daartoe van beiden afkomstig te zijn.
 
 Artikel 253r
 
@@ -2487,7 +2477,7 @@ Artikel 253v
 
 4.	Indien de rechtbank na beëindiging van het gezamenlijk gezag van de ouder en de ander, deze ander met de voogdij heeft belast, kan zij te allen tijde wegens wijziging van omstandigheden een ouder op diens verzoek in het belang van het kind met het gezag belasten dan wel de ouders die gezamenlijk het gezag hebben uitgeoefend, op hun beider verzoek in het belang van het kind gezamenlijk met het gezag belasten.
 
-5.	Artikel 253q, tweede lid, is van overeenkomstige toepassing met dien verstande dat de kantonrechter geen voogd benoemt dan nadat hij de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind hem met het gezag over het kind te belasten. Het verzoek, bedoeld in artikel 253q, tweede lid, kan tevens door de ander dan de ouder worden gedaan.
+5.	Artikel 253q, tweede lid, is van overeenkomstige toepassing met dien verstande dat de rechtbank geen voogd benoemt dan nadat zij de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind hem met het gezag over het kind te belasten. Het verzoek, bedoeld in artikel 253q, tweede lid, kan tevens door de ander dan de ouder worden gedaan.
 
 6.	De afdelingen 4 en 5 van deze titel zijn van overeenkomstige toepassing op het gezamenlijk gezag van de ouder en de ander, met dien verstande dat in geval van ontheffing of ontzetting van de ouder die gezamenlijk met de ander het gezag uitoefent, de ander niet alleen met het gezag wordt belast dan nadat de rechtbank de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken hem met het gezag over het kind te belasten.
 
@@ -2850,7 +2840,7 @@ Artikel 292
 
 2.	Hij kan geen rechtspersoon als voogd aanwijzen.
 
-3.	Hebben beide ouders van deze bevoegdheid gebruik gemaakt, en sterven zij, zonder dat men kan weten wie het eerst overleden is, dan bepaalt de kantonrechter ambtshalve wiens beschikking gevolg heeft.
+3.	Hebben beide ouders van deze bevoegdheid gebruik gemaakt, en sterven zij, zonder dat men kan weten wie het eerst overleden is, dan bepaalt de rechtbank ambtshalve wiens beschikking gevolg heeft.
 
 Artikel 293
 
@@ -2867,24 +2857,24 @@ Artikel 294
 
 Artikel 295
 
-De kantonrechter benoemt een voogd over alle minderjarigen, die niet onder ouderlijk gezag staan en in wier voogdij niet op wettige wijze is voorzien, tenzij deze benoeming aan de rechtbank is opgedragen.
+De rechtbank benoemt een voogd over alle minderjarigen, die niet onder ouderlijk gezag staan en in wier voogdij niet op wettige wijze is voorzien.
 
 Artikel 296
 
-1.	Is voorziening nodig in afwachting van het begin der voogdij overeenkomstig artikel 280 van dit boek, dan benoemt de kantonrechter een voogd voor de duur van deze omstandigheden.
+1.	Is voorziening nodig in afwachting van het begin der voogdij overeenkomstig artikel 280 van dit boek, dan benoemt de rechtbank een voogd voor de duur van deze omstandigheden.
 
-2.	Zodra bedoelde omstandigheden zijn vervallen, wordt deze voogd op verzoek van hem die hij vervangt, door de kantonrechter ontslagen.
+2.	Zodra bedoelde omstandigheden zijn vervallen, wordt deze voogd op verzoek van hem die hij vervangt, door de rechtbank ontslagen.
 
 Artikel 297
 
-1.	De kantonrechter benoemt insgelijks een voogd, wanneer voorziening nodig is wegens:
+1.	De rechtbank benoemt insgelijks een voogd, wanneer voorziening nodig is wegens:
 	a.	tijdelijke onmogelijkheid, waarin een voogd zich bevindt, het gezag uit te oefenen; of
 	b.	onbekendheid van bestaan of verblijfplaats van de voogd; of
 	c.	in gebreke blijven van de voogd, het gezag uit te oefenen.
 
-2.	Is de benoeming op het eerste lid onder c gegrond, dan kan de kantonrechter de benoemde voogd een beloning toekennen en is de in gebreke gebleven voogd jegens de minderjarige aansprakelijk voor de kosten die de vervanging veroorzaakt, alsmede, behoudens zijn verhaal op de benoemde voogd, voor diens verrichtingen.
+2.	Is de benoeming op het eerste lid onder c gegrond, dan kan de rechtbank de benoemde voogd een beloning toekennen en is de in gebreke gebleven voogd jegens de minderjarige aansprakelijk voor de kosten die de vervanging veroorzaakt, alsmede, behoudens zijn verhaal op de benoemde voogd, voor diens verrichtingen.
 
-3.	Zodra de in het eerste lid genoemde omstandigheden zijn vervallen, wordt de benoemde voogd op eigen verzoek of op verzoek van degene die hij vervangt, door de kantonrechter ontslagen, tenzij gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.
+3.	Zodra de in het eerste lid genoemde omstandigheden zijn vervallen, wordt de benoemde voogd op eigen verzoek of op verzoek van degene die hij vervangt, door de rechtbank ontslagen, tenzij gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.
 
 4.	Indien in geval van gezamenlijke uitoefening van de voogdij een van de in het eerste lid bedoelde omstandigheden zich voordoet ten aanzien van een van beide voogden, oefent de andere voogd het gezag over de kinderen alleen uit. Zodra deze omstandigheid is vervallen, herleeft de gezamenlijke voogdij. Het tweede lid is niet van toepassing.
 
@@ -2894,7 +2884,7 @@ Gedurende de in de beide voorgaande artikelen bedoelde voogdij is de uitoefening
 
 Artikel 299
 
-De kantonrechter benoemt de voogd op verzoek van bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve, behoudens artikel 282a.
+De rechtbank benoemt de voogd op verzoek van bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve, behoudens artikel 282a.
 
 Artikel 299a
 
@@ -2916,11 +2906,11 @@ Artikel 300
 
 Artikel 301
 
-1.	De ambtenaar van de burgerlijke stand geeft de kantonrechter onverwijld kennis:
+1.	De ambtenaar van de burgerlijke stand geeft de rechtbank onverwijld kennis:
 	a.	van het overlijden van ieder die minderjarige kinderen achterlaat;
 	b.	van de aangifte van geboorte van ieder kind, waarover de moeder niet van rechtswege het gezag uitoefent.
 
-2.	Indien het huwelijk van de overledene die minderjarige kinderen nalaat, gerechtelijk was ontbonden, of de overledene van tafel en bed gescheiden was, bericht de ambtenaar van de burgerlijke stand - zo de andere ouder nog leeft - deze omstandigheden tevens aan de kantonrechter; deze zendt alsdan de door hem ontvangen kennisgeving door aan de rechtbank, die over het verzoek tot ontbinding van het huwelijk of tot scheiding van tafel en bed heeft beslist.
+2.	Indien het huwelijk van de overledene die minderjarige kinderen nalaat, gerechtelijk was ontbonden, of de overledene van tafel en bed gescheiden was, bericht de ambtenaar van de burgerlijke stand - zo de andere ouder nog leeft - deze omstandigheden tevens aan de rechtbank. De rechtbank zendt, indien deze een andere is, de door haar ontvangen kennisgeving door aan de rechtbank die over het verzoek tot ontbinding van het huwelijk of tot scheiding van tafel en bed heeft beslist.
 
 § 4. Voogdij van rechtspersonen
 
@@ -2954,9 +2944,9 @@ Artikel 305
 
 Artikel 306
 
-1.	Zonder toestemming van de kantonrechter mag een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.
+1.	Zonder toestemming van de rechtbank mag een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.
 
-2.	De kantonrechter verleent deze toestemming slechts, indien hij de plaatsing voor de minderjarige wenselijk acht.
+2.	De rechter verleent deze toestemming slechts, indien hij de plaatsing voor de minderjarige wenselijk acht.
 
 Artikel 306a
 
@@ -3029,7 +3019,7 @@ Artikel 322
 1.	Iedere voogd kan zich van zijn bediening doen ontslaan, indien:
 	a.	hij aantoont, dat hij tengevolge van een sedert de aanvang van zijn bediening opgekomen geestelijk of lichamelijk gebrek niet meer in staat is deze waar te nemen;
 	b.	hij de vijfenzestigjarige leeftijd bereikt heeft;
-	c.	een daartoe bevoegd persoon zich schriftelijk heeft bereid verklaard de voogdij over te nemen, en de kantonrechter deze overneming in het belang van de minderjarigen acht.
+	c.	een daartoe bevoegd persoon zich schriftelijk heeft bereid verklaard de voogdij over te nemen, en de rechtbank deze overneming in het belang van de minderjarigen acht.
 
 2.	Bij gezamenlijke uitoefening van de voogdij is het eerste lid slechts van toepassing indien beide voogden zich van hun bediening willen doen ontslaan.
 
@@ -3041,9 +3031,9 @@ Op verzoek van de voogden gezamenlijk of van een van hen beëindigt de rechter d
 
 Artikel 324
 
-1.	Wanneer een voogd op een der in artikel 246 van dit boek genoemde gronden onbevoegd is tot de voogdij, ontslaat de kantonrechter hem en vervangt hem door een andere voogd.
+1.	Wanneer een voogd op een der in artikel 246 van dit boek genoemde gronden onbevoegd is tot de voogdij, ontslaat de rechtbank hem en vervangt hem door een andere voogd.
 
-2.	Hij doet dit op verzoek van de voogd, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve.
+2.	Zij doet dit op verzoek van de voogd, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, schuldeisers of andere belanghebbenden, of ambtshalve.
 
 3.	Indien in geval van gezamenlijke uitoefening van de voogdij een van de in het eerste lid genoemde gronden zich voordoet ten aanzien van een van beide voogden, oefent de andere voogd het gezag over de kinderen alleen uit.
 
@@ -3456,23 +3446,19 @@ Artikel 377a
 	c.	het kind dat twaalf jaren of ouder is, bij zijn verhoor van ernstige bezwaren tegen omgang met zijn ouder heeft doen blijken, of
 	d.	omgang anderszins in strijd is met zwaarwegende belangen van het kind.
 
-4.	Tot kennisneming van de in dit artikel bedoelde verzoeken is de rechtbank bevoegd. Indien evenwel een procedure inzake gezagstoewijzing bij de kantonrechter aanhangig is, kan een verzoek tot vaststelling van een omgangsregeling in verband daarmee aan de kantonrechter worden gedaan.
-
 Artikel 377b
 
 1.	De ouder die met het gezag is belast, is gehouden de niet met het gezag belaste ouder op de hoogte te stellen omtrent gewichtige aangelegenheden met betrekking tot de persoon en het vermogen van het kind en deze te raadplegen - zo nodig door tussenkomst van derden - over daaromtrent te nemen beslissingen. Op verzoek van een ouder kan de rechter ter zake een regeling vaststellen.
 
 2.	Indien het belang van het kind zulks vereist kan de rechter zowel op verzoek van de met het gezag belaste ouder als ambtshalve bepalen dat het eerste lid van dit artikel buiten toepassing blijft.
 
-3.	De artikelen 377a, vierde lid, en 377e van dit boek zijn van overeenkomstige toepassing.
+3.	Artikel 377e is van overeenkomstige toepassing.
 
 Artikel 377c
 
 1.	Onverminderd het bepaalde in artikel 377b van dit boek wordt de niet met het gezag belaste ouder desgevraagd door derden die beroepshalve beschikken over informatie inzake belangrijke feiten en omstandigheden die de persoon van het kind of diens verzorging en opvoeding betreffen, daarvan op de hoogte gesteld, tenzij die derde de informatie niet op gelijke wijze zou verschaffen aan degene die met het gezag over het kind is belast dan wel bij wie het kind zijn gewone verblijfplaats heeft, of het belang van het kind zich tegen het verschaffen van informatie verzet.
 
 2.	Indien de informatie is geweigerd, kan de rechter op verzoek van de in het eerste lid van dit artikel bedoelde ouder bepalen dat de informatie op de door hem aan te geven wijze moet worden verstrekt. De rechter wijst het verzoek in ieder geval af, indien het belang van het kind zich tegen het verschaffen van de informatie verzet.
-
-3.	Het vierde lid van artikel 377a van dit boek is van overeenkomstige toepassing.
 
 Artikel 377d
 
@@ -3482,31 +3468,29 @@ Artikel 377d
 
 Artikel 377e
 
-1.	De rechtbank kan op verzoek van de ouders of van een van hen een beslissing inzake de omgang alsmede een door de ouders onderling getroffen omgangsregeling wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
-
-2.	Een verzoek tot wijziging van een beslissing inzake de omgang wordt aan de kantonrechter gedaan, indien de te wijzigen beslissing door de kantonrechter is gegeven.
+De rechtbank kan op verzoek van de ouders of van een van hen een beslissing inzake de omgang alsmede een door de ouders onderling getroffen omgangsregeling wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
 Artikel 377f
 
 1.	Onverminderd het bepaalde in artikel 377a, kan de rechter op verzoek een omgangsregeling vaststellen tussen het kind en degene die in een nauwe persoonlijke betrekking staat tot het kind. De rechter kan het verzoek afwijzen, indien het belang van het kind zich tegen toewijzing verzet of indien het kind, dat twaalf jaar of ouder is, bezwaar maakt.
 
-2.	Het bepaalde in de artikelen 377a, vierde lid, 377d en 377e van dit boek is van overeenkomstige toepassing.
+2.	Het bepaalde in de artikelen 377d en 377e van dit boek is van overeenkomstige toepassing.
 
 Artikel 377g
 
-De rechter kan, indien hem blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve een beslissing geven op de voet van de artikelen 377a, 377b of 377f, dan wel zodanige beslissing op de voet van artikel 377e van dit boek wijzigen. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaren nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.
+De rechter kan, indien haar blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve een beslissing geven op de voet van de artikelen 377a, 377b of 377f, dan wel zodanige beslissing op de voet van artikel 377e van dit boek wijzigen. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaren nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.
 
 Artikel 377h
 
 1.	Ingeval van gezamenlijke gezagsuitoefening kan de rechter op verzoek van de ouders of een van hen een regeling vaststellen inzake de omgang tussen het kind en de ouder bij wie het kind zijn gewone verblijfplaats niet heeft, of inzake het verschaffen van informatie aan dan wel het raadplegen van die ouder als bedoeld in artikel 377b, eerste lid, dan wel inzake het verschaffen van informatie als bedoeld in artikel 377c, eerste en tweede lid, van dit boek.
 
-2.	De artikelen 377a, vierde lid, 377e en 377g van dit boek zijn van overeenkomstige toepassing.
+2.	De artikelen 377e en 377g van dit boek zijn van overeenkomstige toepassing.
 
 Titel 16. Curatele
 
 Artikel 378
 
-1.	Een meerderjarige kan door de rechtbank onder curatele worden gesteld:
+1.	Een meerderjarige kan door de kantonrechter onder curatele worden gesteld:
 	a.	wegens een geestelijke stoornis, waardoor de gestoorde, al dan niet met tussenpozen, niet in staat is of bemoeilijkt wordt zijn belangen behoorlijk waar te nemen;
 	b.	wegens verkwisting;
 	c.	wegens gewoonte van drankmisbruik, waardoor hij:
@@ -3570,11 +3554,11 @@ Artikel 385
 
 1.	Behoudens het in de artikelen 383 en 384 bepaalde vinden de artikelen 250 en 280, onder b, 281 lid 1 onder a en lid 2, 297-299, 322, onder a en c, 324, 336 en 372-377 bij curatele overeenkomstige toepassing, met dien verstande dat
 	a.	in geval van benoeming van een ouder tot curator een bereidverklaring als bedoeld in artikel 280 onder b niet is vereist;
-	b.	voor kantonrechter wordt gelezen rechtbank, behalve in geval van overeenkomstige toepassing van artikel 250;
+	b.	voor rechtbank of rechter wordt gelezen kantonrechter;
 	c.	aan de raad voor de kinderbescherming terzake geen bevoegdheden toekomen;
-	d.	de curator te allen tijde wegens gewichtige redenen op eigen verzoek, op verzoek van de uit hoofde van verkwisting of gewoonte van drankmisbruik onder curatele gestelde, op verzoek van het openbaar ministerie of ambtshalve door de rechtbank kan worden ontslagen.
+	d.	de curator te allen tijde wegens gewichtige redenen op eigen verzoek, op verzoek van de uit hoofde van verkwisting of gewoonte van drankmisbruik onder curatele gestelde, op verzoek van het openbaar ministerie of ambtshalve door de kantonrechter kan worden ontslagen.
 
-2.	Een curator die niet is de echtgenoot, geregistreerde partner dan wel andere levensgezel of bloedverwant in de rechte lijn van de onder curatele gestelde, kan bovendien ontslag verzoeken, wanneer hij de curatele tenminste acht jaren heeft uitgeoefend; het ontslag wordt verleend zodra de rechtbank zich in staat acht een geschikte opvolger te benoemen.
+2.	Een curator die niet is de echtgenoot, geregistreerde partner dan wel andere levensgezel of bloedverwant in de rechte lijn van de onder curatele gestelde, kan bovendien ontslag verzoeken, wanneer hij de curatele tenminste acht jaren heeft uitgeoefend; het ontslag wordt verleend zodra de kantonrechter zich in staat acht een geschikte opvolger te benoemen.
 
 Artikel 386
 
@@ -3789,21 +3773,21 @@ Afdeling 1. Onderbewindstelling in geval van afwezigheid
 
 Artikel 409
 
-1.	Indien iemand die zijn woonplaats heeft verlaten niet voldoende orde op het bestuur van zijn goederen heeft gesteld, en er noodzakelijkheid bestaat om daarin geheel of gedeeltelijk te voorzien of de afwezige te doen vertegenwoordigen, benoemt de rechtbank, op verzoek van belanghebbenden of het openbaar ministerie, een bewindvoerder, ten einde het bewind over het geheel of een gedeelte van de goederen van de afwezige te voeren en diens overige belangen waar te nemen.
+1.	Indien iemand die zijn woonplaats heeft verlaten niet voldoende orde op het bestuur van zijn goederen heeft gesteld, en er noodzakelijkheid bestaat om daarin geheel of gedeeltelijk te voorzien of de afwezige te doen vertegenwoordigen, benoemt de kantonrechter, op verzoek van belanghebbenden of het openbaar ministerie, een bewindvoerder, ten einde het bewind over het geheel of een gedeelte van de goederen van de afwezige te voeren en diens overige belangen waar te nemen.
 
 2.	Voor de toepassing van deze afdeling wordt met iemand die zijn woonplaats heeft verlaten, gelijk gesteld hij wiens bestaan onzeker is geworden of die onbereikbaar is, ook al staat niet vast dat hij zijn woonplaats heeft verlaten.
 
 Artikel 410
 
-1.	Voor zover de rechtbank niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 339,340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.
+1.	Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 339,340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.
 
 2.	De bewindvoerder komt als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.
 
 3.	Goedkeuring van een ingediende rekening door de kantonrechter brengt geen nadeel toe aan de bevoegdheid van de rechthebbenden om na het einde van het bewind over dezelfde tijdruimte rekening en verantwoording te vragen, voor zover dit niet onredelijk is.
 
-4.	De bewindvoerder kan ook voor andere dan vermogensbelangen van de afwezige opkomen, behoudens voor zover de rechtbank zulks heeft uitgesloten.
+4.	De bewindvoerder kan ook voor andere dan vermogensbelangen van de afwezige opkomen, behoudens voor zover de kantonrechter zulks heeft uitgesloten.
 
-5.	De rechtbank kan te allen tijde de bewindvoerder ontslaan en door een ander vervangen.
+5.	De kantonrechter kan te allen tijde de bewindvoerder ontslaan en door een ander vervangen.
 
 Artikel 411
 
@@ -3963,7 +3947,7 @@ Artikel 431
 
 2.	Indien te verwachten is dat een minderjarige op het tijdstip waarop hij meerderjarig zal worden, in de in het vorige lid bedoelde toestand zal verkeren, kan het bewind reeds voor de meerderjarigheid worden ingesteld.
 
-3.	De rechter bij wie een verzoek tot het verlenen van een voorlopige machtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
+3.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
 
 Artikel 432
 
@@ -3989,7 +3973,7 @@ Artikel 434
 
 Artikel 435
 
-1.	De rechter die het bewind instelt, benoemt daarbij of zo spoedig mogelijk daarna een bewindvoerder. In alle andere gevallen geschiedt de benoeming door de kantonrechter. De rechter vergewist zich van de bereidheid van de door hem te benoemen persoon.
+1.	De rechter die het bewind instelt, benoemt daarbij of zo spoedig mogelijk daarna een bewindvoerder. Hij vergewist zich van de bereidheid van de door hem te benoemen persoon.
 
 2.	Zo nodig kan een tijdelijke bewindvoerder worden benoemd.
 
@@ -4128,7 +4112,7 @@ Artikel 450
 
 3.	Het mentorschap kan eveneens worden ingesteld, indien te verwachten is dat een meerderjarige binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.
 
-4.	De rechter bij wie een verzoek tot het verlenen van een voorlopige machtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.
+4.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.
 
 Artikel 451
 
@@ -4144,7 +4128,7 @@ Artikel 451
 
 Artikel 452
 
-1.	De rechter die het mentorschap instelt, benoemt daarbij of zo spoedig mogelijk daarna een mentor. In geval van vervanging van de mentor geschiedt de benoeming door de kantonrechter. De rechter vergewist zich van de bereidheid en vormt zich een oordeel over de geschiktheid van de te benoemen persoon.
+1.	De rechter die het mentorschap instelt, benoemt daarbij of zo spoedig mogelijk daarna een mentor. Hij vergewist zich van de bereidheid en vormt zich een oordeel over de geschiktheid van de te benoemen persoon.
 
 2.	Zo nodig kan een tijdelijke mentor worden benoemd.
 
