@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2008 t/m 25-03-2008
+Geldend van 26-03-2008 t/m 31-08-2008
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -2761,7 +2761,7 @@ Artikel 281
 1.	De voogdij eindigt op de dag, waarop in kracht van gewijsde is gegaan de beschikking waarbij:
 	a.	de voogd is ontslagen of ontzet;
 	b.	het gezag over de onder zijn voogdij staande minderjarige aan een of beide ouders is opgedragen; of
-	c.	de voogdij overeenkomstig artikel 299a of 302 lid 4 van dit boek aan een andere voogd is opgedragen.
+	c.	de voogdij overeenkomstig artikel 299a van dit boek aan een andere voogd is opgedragen.
 
 2.	Is een beschikking als in het eerste lid bedoeld, uitvoerbaar verklaard bij voorraad, dan eindigt de voogdij daags nadat de beschikking is verstrekt of verzonden.
 
@@ -2794,7 +2794,7 @@ Na de dood van een voogd die de voogdij samen met een ander uitoefende, oefent d
 
 Artikel 283
 
-[Vervallen per 02-11-1995]
+De verzoeken die de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder procureur en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
 
 Artikel 284
 
@@ -3500,6 +3500,8 @@ Artikel 378
 
 2.	Indien te verwachten is dat ten aanzien van een minderjarige op het tijdstip waarop hij meerderjarig zal worden, van een der in het vorige lid genoemde gronden voor curatele sprake zal zijn, kan de curatele reeds voor de meerderjarigheid worden uitgesproken.
 
+3.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot ondercuratelestelling.
+
 Artikel 379
 
 De curatele kan worden verzocht door de betrokken persoon, zijn echtgenoot of andere levensgezel, geregistreerde partner, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot de vierde graad ingesloten, voogd of het openbaar ministerie.
@@ -3556,7 +3558,8 @@ Artikel 385
 	a.	in geval van benoeming van een ouder tot curator een bereidverklaring als bedoeld in artikel 280 onder b niet is vereist;
 	b.	voor rechtbank of rechter wordt gelezen kantonrechter;
 	c.	aan de raad voor de kinderbescherming terzake geen bevoegdheden toekomen;
-	d.	de curator te allen tijde wegens gewichtige redenen op eigen verzoek, op verzoek van de uit hoofde van verkwisting of gewoonte van drankmisbruik onder curatele gestelde, op verzoek van het openbaar ministerie of ambtshalve door de kantonrechter kan worden ontslagen.
+	d.	de curator te allen tijde wegens gewichtige redenen op eigen verzoek, op verzoek van de uit hoofde van verkwisting of gewoonte van drankmisbruik onder curatele gestelde, op verzoek van het openbaar ministerie of ambtshalve door de kantonrechter kan worden ontslagen;
+	e.	de curator de rekening en verantwoording, bedoeld in artikel 374, aflegt ten overstaan van de bij het einde van zijn bewind ter zake bevoegde kantonrechter.
 
 2.	Een curator die niet is de echtgenoot, geregistreerde partner dan wel andere levensgezel of bloedverwant in de rechte lijn van de onder curatele gestelde, kan bovendien ontslag verzoeken, wanneer hij de curatele tenminste acht jaren heeft uitgeoefend; het ontslag wordt verleend zodra de kantonrechter zich in staat acht een geschikte opvolger te benoemen.
 
@@ -3566,7 +3569,7 @@ Artikel 386
 
 2.	De inkomsten van hem die uit hoofde van een geestelijke stoornis onder curatele is gesteld, moeten in de eerste plaats worden besteed voor een voldoende verzorging van de betrokkene.
 
-3.	Voor de toepassing van de artikelen 365 tot en met 367 treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in artikel 385, lid 1 onder d in de plaats van de ontzetting van de voogd op grond van artikel 327 lid 1 onder b.
+3.	Voor de toepassing van de artikelen 365 tot en met 367 treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in artikel 385, lid 1 onder d in de plaats van de ontzetting van de voogd op grond van artikel 327 lid 1 onder b. Mededelingen en zendingen als bedoeld in artikel 371a, geschieden alleen dan indien artikel 12, vierde lid, op de desbetreffende curatele niet van toepassing is.
 
 4.	Indien een gehuwde of een geregistreerde partner onder curatele wordt gesteld, en tussen de echtgenoten of de geregistreerde partners het bestuur over hun goederen en de goederen der gemeenschap anders is verdeeld dan volgens de regels van de wet en van huwelijkse voorwaarden, bepaalt de rechter bij het uitspreken van de curatele, of en in hoeverre die verdeling ook voor de curator zal gelden.
 
@@ -3874,7 +3877,7 @@ Artikel 420
 
 Artikel 421
 
-Hetgeen in de vorige drie artikelen is bepaald omtrent erfgenamen, die goederen uit de nalatenschap ontvangen, is van overeenkomstige toepassing op de echtgenoot of geregistreerde partner, die goederen ontvangt ten gevolge van de ontbinding van enige gemeenschap van goederen of de beëindiging van een deelgenootschap. Voor het uit dezen hoofde ontvangene behoeft echter geen zekerheid te worden gesteld.
+Hetgeen in de vorige drie artikelen is bepaald omtrent erfgenamen, die goederen uit de nalatenschap ontvangen, is van overeenkomstige toepassing op de echtgenoot of geregistreerde partner, die goederen ontvangt ten gevolge van de ontbinding van enige gemeenschap van goederen of de afrekening uit hoofde van een verrekenbeding. Voor het uit dezen hoofde ontvangene behoeft echter geen zekerheid te worden gesteld.
 
 Artikel 422
 
@@ -3943,7 +3946,7 @@ Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
 
 Artikel 431
 
-1.	Indien een meerderjarige als gevolg van zijn lichamelijke of geestelijke toestand tijdelijk of duurzaam niet in staat is ten volle zijn vermogensrechtelijke belangen zelf behoorlijk waar te nemen, kan de kantonrechter een bewind instellen over één of meer van de goederen, die hem als rechthebbende toebehoren of zullen toebehoren. Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot een huwelijksgemeenschap waarin hij gehuwd is, en die niet uitsluitend onder het bestuur van zijn echtgenoot staan.
+1.	Indien een meerderjarige als gevolg van zijn lichamelijke of geestelijke toestand tijdelijk of duurzaam niet in staat is ten volle zijn vermogensrechtelijke belangen zelf behoorlijk waar te nemen, kan de kantonrechter een bewind instellen over één of meer van de goederen, die hem als rechthebbende toebehoren of zullen toebehoren. Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot zijn huwelijksgemeenschap of gemeenschap van geregistreerd partnerschap en die niet uitsluitend onder het bestuur van zijn echtgenoot dan wel geregistreerd partner staan.
 
 2.	Indien te verwachten is dat een minderjarige op het tijdstip waarop hij meerderjarig zal worden, in de in het vorige lid bedoelde toestand zal verkeren, kan het bewind reeds voor de meerderjarigheid worden ingesteld.
 
