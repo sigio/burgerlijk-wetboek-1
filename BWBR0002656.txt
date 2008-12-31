@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2008 t/m 31-12-2008
+Geldend van 01-01-2009 t/m 27-02-2009
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -1599,7 +1599,7 @@ Artikel 159
 
 Artikel 159a
 
-Een overeenkomst als bedoeld in de artikelen 158 en 159 van dit boek staat niet in de weg aan verhaal op grond van artikel 13 van de Invoeringswet Wet werk en bijstand en laat de vaststelling van het te verhalen bedrag onverlet.
+Een overeenkomst als bedoeld in de artikelen 158 en 159 van dit boek staat niet in de weg aan verhaal op grond van paragraaf 6.5 van de Wet werk en bijstand en laat de vaststelling van het te verhalen bedrag onverlet.
 
 Artikel 160
 
@@ -2014,13 +2014,15 @@ Artikel 227
 
 1.	Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens artikel 41 geen huwelijk met elkaar zouden mogen aangaan.
 
-2.	Het verzoek door twee personen tezamen kan slechts worden gedaan, indien zij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met elkaar hebben samengeleefd. Het verzoek door de adoptant die echtgenoot, geregistreerde partner of andere levensgezel van de ouder is, kan slechts worden gedaan, indien hij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met die ouder heeft samengeleefd.
+2.	Het verzoek door twee personen tezamen kan slechts worden gedaan, indien zij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met elkaar hebben samengeleefd. Het verzoek door de adoptant die echtgenoot, geregistreerde partner of andere levensgezel van de ouder is, kan slechts worden gedaan, indien hij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met die ouder heeft samengeleefd. De in de tweede zin bedoelde voorwaarde geldt evenwel niet indien het kind is of wordt geboren binnen de relatie van de adoptant en die ouder.
 
 3.	Het verzoek kan alleen worden toegewezen, indien de adoptie in het kennelijk belang van het kind is, op het tijdstip van het verzoek tot adoptie vaststaat en voor de toekomst redelijkerwijs te voorzien is dat het kind niets meer van zijn ouder of ouders in de hoedanigheid van ouder te verwachten heeft, en aan de voorwaarden, genoemd in artikel 228, wordt voldaan.
 
-4.	Zijn de voornamen van het kind niet bekend, dan stelt de rechter, nadat hij de adoptant of adoptanten en het kind, indien dat twaalf jaren of ouder is, heeft gehoord, bij de adoptiebeschikking tevens een of meer voornamen vast.
+4.	Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder en het kind door en tengevolge van kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting is verwekt en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring wordt overgelegd, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is, of niet is voldaan aan de voorwaarden, genoemd in artikel 228.
 
-5.	In zaken van adoptie is de minderjarige ouder bekwaam in rechte op te treden.
+5.	Zijn de voornamen van het kind niet bekend, dan stelt de rechter, nadat hij de adoptant of adoptanten en het kind, indien dat twaalf jaren of ouder is, heeft gehoord, bij de adoptiebeschikking tevens een of meer voornamen vast.
+
+6.	In zaken van adoptie is de minderjarige ouder bekwaam in rechte op te treden.
 
 Artikel 228
 
@@ -2030,13 +2032,15 @@ Artikel 228
 	c.	dat de adoptant of ieder der adoptanten ten minste achttien jaren ouder dan het kind is;
 	d.	dat geen der ouders het verzoek tegenspreekt;
 	e.	dat de minderjarige moeder van het kind op de dag van het verzoek de leeftijd van zestien jaren heeft bereikt;
-	f.	dat de adoptant het kind gedurende ten minste drie aaneengesloten jaren heeft verzorgd en opgevoed of, in geval van adoptie door twee personen tezamen, dat zij het kind gedurende ten minste een jaar hebben verzorgd en opgevoed; indien de echtgenoot, geregistreerde partner of andere levensgezel van de ouder het kind adopteert, geldt dat de adoptant en die ouder het kind gedurende ten minste een jaar hebben verzorgd en opgevoed, tenzij het kind wordt geboren uit de relatie van de moeder met een levensgezel van gelijk geslacht;
+	f.	dat de adoptant of de adoptanten het kind gedurende ten minste een jaar heeft of hebben verzorgd en opgevoed; indien de echtgenoot, geregistreerde partner of andere levensgezel van de ouder of adoptiefouder het kind adopteert en zij gezamenlijk het kind gedurende ten minste een jaar hebben verzorgd en opgevoed wordt de periode van een jaar voor de echtgenoot, geregistreerde partner of andere levensgezel gerekend vanaf het moment van feitelijk gezamenlijk verzorgen en opvoeden;
 	g.	dat de ouder of ouders niet of niet langer het gezag over het kind hebben. Indien evenwel de echtgenoot, geregistreerde partner of andere levensgezel van de ouder het kind adopteert, geldt dat deze ouder alleen of samen met voornoemde echtgenoot, geregistreerde partner of andere levensgezel het gezag heeft.
 
 2.	Aan de tegenspraak van een ouder als bedoeld in het eerste lid, onder d, kan worden voorbijgegaan:
 	a.	indien het kind en de ouder niet of nauwelijks in gezinsverband hebben samengeleefd; of
 	b.	indien de ouder het gezag over het kind heeft misbruikt of de verzorging en opvoeding van het kind op grove wijze heeft verwaarloosd; of
 	c.	indien de ouder onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII tot en met XV en XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht.
+
+3.	De voorwaarde, bedoeld in het eerste lid, onder f, geldt niet indien het kind wordt geboren binnen de relatie van de moeder met een levensgezel van gelijk geslacht.
 
 Artikel 229
 
@@ -2052,7 +2056,9 @@ Artikel 230
 
 1.	De adoptie heeft haar gevolgen van de dag, waarop de uitspraak in kracht van gewijsde is gegaan.
 
-2.	De adoptie blijft haar gevolgen behouden, ook al zou blijken, dat de rechter de door artikel 228 van dit boek gestelde voorwaarden ten onrechte als vervuld zou hebben aangenomen.
+2.	Indien het kind is geboren binnen de relatie van de ouder en de adoptant en de adoptie voor de geboorte van het kind is verzocht, werkt deze terug tot het tijdstip van geboorte van het kind; indien de adoptie uiterlijk zes maanden na de geboorte van het kind is verzocht, werkt deze terug tot het tijdstip van indiening van het verzoek. Het bepaalde in de eerste volzin is niet van toepassing indien voor de adoptie familierechtelijke betrekkingen waren gevestigd tussen het kind en een andere ouder en deze door de adoptie zijn verbroken. De adoptie kan in het geval, bedoeld in de eerste volzin, ook worden uitgesproken indien de adoptant na indiening van het verzoek is overleden.
+
+3.	De adoptie blijft haar gevolgen behouden, ook al zou blijken, dat de rechter de door artikel 228 van dit boek gestelde voorwaarden ten onrechte als vervuld zou hebben aangenomen.
 
 Artikel 231
 
@@ -2207,6 +2213,10 @@ Artikel 247
 1.	Het ouderlijk gezag omvat de plicht en het recht van de ouder zijn minderjarig kind te verzorgen en op te voeden.
 
 2.	Onder verzorging en opvoeding worden mede verstaan de zorg en de verantwoordelijkheid voor het geestelijk en lichamelijk welzijn en de veiligheid van het kind alsmede het bevorderen van de ontwikkeling van zijn persoonlijkheid. In de verzorging en opvoeding van het kind passen de ouders geen geestelijk of lichamelijk geweld of enige andere vernederende behandeling toe.
+
+Artikel 247a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 248
 
