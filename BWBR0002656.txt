@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2013 t/m 31-12-2013
+Geldend van 01-01-2014 t/m 05-01-2014
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -60,7 +60,7 @@ Artikel 5
 
 8.	Een verklaring van de ouders als bedoeld in het tweede, derde, vierde of zesde lid, kan slechts ten aanzien van de geslachtsnaam van hun eerste kind worden afgelegd. De eerste volzin is van overeenkomstige toepassing ten aanzien van het eerste kind over wie de ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in artikel 253sa zullen uitoefenen of uitoefenen. Onverminderd het zevende lid, hebben volgende kinderen van dezelfde ouders dan wel kinderen over wie dezelfde ouder en dezelfde echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege het gezag gezamenlijk zullen uitoefenen, dezelfde geslachtsnaam als het eerste kind, met dien verstande dat in het geval dat volgende kinderen blijkens de geboorteakte of krachtens toepasselijk recht een naam hebben die afwijkt van de naam van het eerste kind, de ouders kunnen verklaren dat het desbetreffende kind dezelfde geslachtsnaam zal hebben als het eerste kind. Indien voor de geboorte of ter gelegenheid van de aangifte naamskeuze is gedaan ten aanzien van een kind dat levenloos ter wereld komt of is gekomen, wordt deze keuze opgenomen in de akte, bedoeld in artikel 19i, eerste lid, en geldt zij alleen ten aanzien van dit kind.
 
-9.	Is één van de ouders voorafgaand aan het tijdstip waarop de naamskeuze uiterlijk moet zijn gedaan overleden en is de naamskeuze niet gedaan, dan legt de andere ouder een verklaring omtrent de naamskeuze af. Hetzelfde geldt indien één van de ouders wegens geestelijke stoornis onder curatele staat dan wel indien ten aanzien van hem of haar een mentorschap bestaat.
+9.	Is één van de ouders voorafgaand aan het tijdstip waarop de naamskeuze uiterlijk moet zijn gedaan overleden en is de naamskeuze niet gedaan, dan legt de andere ouder een verklaring omtrent de naamskeuze af. Hetzelfde geldt indien één van de ouders wegens diens lichamelijke of geestelijke toestand onder curatele staat dan wel indien ten aanzien van hem of haar een mentorschap bestaat.
 
 10.	Zijn de vader en moeder onbekend, dan neemt de ambtenaar van de burgerlijke stand in de geboorteakte een voorlopige voornaam en geslachtsnaam op, in afwachting van het koninklijk besluit waarbij de voornamen en de geslachtsnaam van het kind worden vastgesteld.
 
@@ -153,6 +153,10 @@ Artikel 16
 4.	De ambtenaar of buitengewoon ambtenaar van de burgerlijke stand wordt tot zijn betrekking niet toegelaten dan na voor de rechtbank tot wier rechtsgebied de gemeente behoort waar hij voor het eerst wordt benoemd de navolgende eed dan wel belofte te hebben afgelegd:
 
 "Ik zweer (beloof) dat ik de betrekking van ambtenaar van de burgerlijke stand met eerlijkheid en nauwkeurigheid zal vervullen en dat ik de wettelijke voorschriften, de burgerlijke stand betreffende, met de meeste nauwgezetheid zal opvolgen; dat ik voorts, tot het verkrijgen van mijn aanstelling, middellijk noch onmiddellijk, onder enige naam of voorwendsel, aan iemand iets heb gegeven of beloofd, en dat ik, om iets in deze betrekking te doen of te laten, van niemand enige beloften of geschenken zal aannemen, middellijk of onmiddellijk. Zo waarlijk helpe mij God almachtig". ("Dat verklaar en beloof ik").
+
+5.	Wanneer de eed dan wel belofte, bedoeld in het vierde lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed dan wel belofte als volgt:
+
+«Ik swar (ûnthjit) dat ik de funksje fan amtner fan de boargerlike stân mei earlikheid en soarchfâldichheid útoefenje sil en dat ik de wetlike foarskriften oangeande de boargerlike stân op ’en sekuersten neikomme sil; dat ik fierders, foar it krijen fan myn oanstelling, streekrjocht noch midlik, ûnder hokker namme of útwynsel dan ek, oan immen eat jûn of tasein haw, en dat ik, om eat yn dizze funksje te dwaan of te litten, fan gjinien tasizzingen of geskinken, likefolle hokker, oannimme sil, midlik of streekrjocht. Sa wier helpe my God almachtich». («Dat ferklearje en ûnthjit ik»).
 
 Artikel 16a
 
@@ -704,13 +708,13 @@ Voor zover een volgens het vorige artikel vereiste toestemming niet wordt verkre
 
 Artikel 37
 
-1.	Hij die wegens verkwisting of drankmisbruik onder curatele staat, mag geen huwelijk aangaan zonder de toestemming van zijn curator.
+1.	Hij die wegens gewoonte van drank- of drugsmisbruik onder curatele staat, mag geen huwelijk aangaan zonder de toestemming van zijn curator.
 
 2.	Voor zover die toestemming niet wordt verkregen, kan zij op verzoek van de onder curatele gestelde door toestemming van de kantonrechter worden vervangen.
 
 Artikel 38
 
-Hij die wegens een geestelijke stoornis onder curatele staat, mag geen huwelijk aangaan zonder toestemming van de kantonrechter.
+Hij die wegens een zijn lichamelijke of geestelijke toestand onder curatele staat, mag geen huwelijk aangaan zonder toestemming van de kantonrechter.
 
 Artikel 39
 
@@ -1905,6 +1909,10 @@ Artikel 202
 
 3.	Door de gegrondverklaring van de ontkenning ontstaat geen vordering tot teruggave van kosten van verzorging en opvoeding of van kosten van levensonderhoud en studie noch tot teruggave van het krachtens vruchtgenot genotene. Voorts ontstaat geen verplichting tot teruggave van genoten vermogensrechtelijke voordelen, voor zover degene die hen heeft genoten ten tijde van het doen van het verzoek daardoor niet was gebaat.
 
+Afdeling 2a. Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane moederschap
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Afdeling 3. Erkenning
 
 Artikel 203
@@ -1929,7 +1937,7 @@ Artikel 204
 
 3.	De toestemming van de moeder wier kind de leeftijd van zestien jaren nog niet heeft bereikt, dan wel de toestemming van het kind van twaalf jaren of ouder, kan op verzoek van de man die het kind wil erkennen, door de toestemming van de rechtbank worden vervangen, indien de erkenning de belangen van de moeder bij een ongestoorde verhouding met het kind of de belangen van het kind niet zou schaden, en de man de verwekker is van het kind.
 
-4.	Een man die wegens geestelijke stoornis onder curatele staat, mag slechts erkennen nadat daartoe toestemming is verkregen van de kantonrechter.
+4.	Een man die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, mag slechts erkennen nadat daartoe toestemming is verkregen van de kantonrechter.
 
 Artikel 205
 
@@ -3573,13 +3581,11 @@ Titel 16. Curatele
 
 Artikel 378
 
-1.	Een meerderjarige kan door de kantonrechter onder curatele worden gesteld:
-	a.	wegens een geestelijke stoornis, waardoor de gestoorde, al dan niet met tussenpozen, niet in staat is of bemoeilijkt wordt zijn belangen behoorlijk waar te nemen;
-	b.	wegens verkwisting;
-	c.	wegens gewoonte van drankmisbruik, waardoor hij:
-		1°.	zijn belangen niet behoorlijk waarneemt;
-		2°.	in het openbaar herhaaldelijk aanstoot geeft; of
-		3°.	eigen veiligheid of die van anderen in gevaar brengt.
+1.	Een meerderjarige kan door de kantonrechter onder curatele worden gesteld, wanneer hij tijdelijk of duurzaam zijn belangen niet behoorlijk waarneemt of zijn veiligheid of die van anderen in gevaar brengt, als gevolg van
+	a.	zijn lichamelijke of geestelijke toestand, dan wel
+	b.	gewoonte van drank- of drugsmisbruik,
+
+en een voldoende behartiging van die belangen niet met een meer passende en minder verstrekkende voorziening kan worden bewerkstelligd.
 
 2.	Indien te verwachten is dat ten aanzien van een minderjarige op het tijdstip waarop hij meerderjarig zal worden, van een der in het vorige lid genoemde gronden voor curatele sprake zal zijn, kan de curatele reeds voor de meerderjarigheid worden uitgesproken.
 
@@ -3587,13 +3593,15 @@ Artikel 378
 
 Artikel 379
 
-De curatele kan worden verzocht door de betrokken persoon, zijn echtgenoot of andere levensgezel, geregistreerde partner, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot de vierde graad ingesloten, voogd of het openbaar ministerie.
+1.	De curatele kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en in de zijlijn tot en met de vierde graad, degene die ingevolge artikel 253sa of 253t het gezag over de betrokken persoon uitoefent, zijn voogd, zijn bewindvoerder als bedoeld in titel 19 en zijn mentor als bedoeld in titel 20.
+
+2.	De curatele kan voorts worden verzocht door het openbaar ministerie en door de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt. In het laatste geval wordt in het verzoekschrift tevens vermeld waarom de in het eerste lid genoemde personen – bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen – niet tot indiening van een verzoek zijn overgegaan.
 
 Artikel 380
 
 1.	De rechter voor wie het verzoek tot ondercuratelestelling aanhangig is of laatstelijk aanhangig was, kan, desverzocht of ambtshalve, een provisionele bewindvoerder benoemen; de beschikking vermeldt het tijdstip waarop zij in werking treedt.
 
-2.	Hij regelt in deze beschikking de bevoegdheden van de bewindvoerder. Hij kan de bewindvoerder het bewind over bepaalde of alle goederen opdragen. Aan de bewindvoerder kan de rechter ook andere bevoegdheden toekennen, doch niet die welke een curator niet heeft. Voor zover de rechter niet anders bepaalt, kan degene wiens curatele is verzocht, met betrekking tot die goederen niet zonder medewerking van de bewindvoerder daden van beheer en van beschikking verrichten.
+2.	Hij regelt in deze beschikking de bevoegdheden van de bewindvoerder. Hij kan de bewindvoerder het bewind over bepaalde of alle goederen opdragen. Aan de bewindvoerder kan de rechter ook andere bevoegdheden toekennen, doch niet die welke een curator niet heeft. Voor zover de rechter niet anders bepaalt, kan degene wiens curatele is verzocht, met betrekking tot die goederen niet zonder medewerking van de bewindvoerder daden van beheer en van beschikking verrichten, noch overeenkomsten aangaan strekkende tot beschikking over die goederen.
 
 3.	In de beschikking kan tevens worden bepaald dat schulden die degene wiens curatele is verzocht, na de bekendmaking van de benoeming maakt, op de onder bewind gestelde goederen gedurende dit bewind en de curatele, indien deze volgt, niet kunnen worden verhaald.
 
@@ -3617,19 +3625,42 @@ Artikel 381
 
 Artikel 382
 
-Hij die uit hoofde van verkwisting of gewoonte van drankmisbruik onder curatele is gesteld, blijft bekwaam tot het verrichten van familierechtelijke handelingen voor zover de wet niet anders bepaalt.
+Hij die uit hoofde van gewoonte van drank- of drugsmisbruik onder curatele is gesteld, blijft bekwaam tot het verrichten van familierechtelijke handelingen voor zover de wet niet anders bepaalt.
 
 Artikel 383
 
-1.	De rechter benoemt bij het uitspreken van de curatele of, indien hij zich nog niet voldoende voorgelicht acht, zo spoedig mogelijk daarna een curator.
+1.	De rechter die de curatele instelt, benoemt daarbij of zo spoedig mogelijk daarna een curator. Hij vergewist zich van de bereidheid en vormt zich een oordeel omtrent de geschiktheid van de te benoemen persoon.
 
 2.	De rechter volgt bij de benoeming van de curator de uitdrukkelijke voorkeur van de betrokkene, tenzij gegronde redenen zich tegen zodanige benoeming verzetten.
 
 3.	Tenzij het vorige lid is toegepast, wordt, indien de onder curatele gestelde persoon gehuwd is, een geregistreerd partnerschap is aangegaan of anderszins een levensgezel heeft, bij voorkeur de echtgenoot, de geregistreerde partner dan wel andere levensgezel tot curator benoemd. Is de vorige zin niet van toepassing dan wordt bij voorkeur een van zijn ouders, kinderen, broers of zusters tot curator benoemd. Huwt de onder curatele gestelde, gaat hij een geregistreerd partnerschap aan of verkrijgt hij een andere levensgezel, dan kan ieder van hen verzoeken, dat de niet onder curatele staande echtgenoot, de geregistreerde partner dan wel de andere levensgezel in de plaats van de tegenwoordige curator wordt benoemd.
 
-4.	De taak van de curator vangt aan daags nadat de beslissing, houdende de benoeming, is verstrekt of verzonden. Met die dag eindigt het provisioneel bewind. De provisionele bewindvoerder is verplicht ten overstaan van de kantonrechter aan de curator rekening en verantwoording van zijn bemoeienissen af te leggen; wordt hij zelf tot curator benoemd, dan wordt de rekening en verantwoording aan de kantonrechter afgelegd. Indien de curator vóór de meerderjarigheid van de onder curatele gestelde is benoemd, vangt zijn taak aan op het tijdstip waarop de curatele in werking treedt.
+4.	Rechtspersonen met volledige rechtsbevoegdheid kunnen tot curator worden benoemd.
 
-5.	Indien het verzoek tot ondercuratelestelling wordt afgewezen, eindigt het bewind van de provisionele bewindvoerder daags na die uitspraak, tenzij de rechter anders bepaalt, en in ieder geval uiterlijk daags nadat de afwijzing in kracht van gewijsde is gegaan.
+5.	De volgende personen kunnen niet tot curator worden benoemd:
+	a.	handelingsonbekwamen;
+	b.	zij ten behoeve van wie een mentorschap is ingesteld;
+	c.	de bewindvoerder van de onder curatele gestelde in de zin artikel 287, derde lid, van de Faillissementswet;
+	d.	een direct betrokken of behandelend hulpverlener;
+	e.	personen behorende tot de leiding of tot het personeel van de instelling waar de onder curatele gestelde wordt verzorgd of die aan de onder curatele gestelde begeleiding biedt;
+	f.	personen verbonden met de instelling waar de onder curatele gestelde wordt verzorgd of die aan de onder curatele gestelde begeleiding biedt, doordat:
+		1°	de instelling of personen behorende tot de leiding van de instelling, alleen of samen meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kunnen uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kunnen benoemen of ontslaan,
+		2°	de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of
+		3°	de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
+
+6.	Zij van wie één of meer goederen onder een bewind als bedoeld in titel 19 staan, zij die in staat van faillissement verkeren en zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, kunnen niet tot curator worden benoemd, tenzij het gaat om een persoon als bedoeld in het derde lid en het bewind over het vermogen van de onder curatele gestelde door de medecurator wordt gevoerd.
+
+7.	[Dit lid is nog niet in werking getreden.]
+
+8.	[Dit lid is nog niet in werking getreden.]
+
+9.	[Dit lid is nog niet in werking getreden.]
+
+10.	De rechter kan twee curatoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee curatoren, dan kan ieder van hen de taken die aan een curator toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de curatoren vaststellen. Bij verschil van mening tussen de curatoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in artikel 379, tweede lid, de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
+
+11.	De taak van de curator vangt aan daags nadat de beslissing, houdende de benoeming, is verstrekt of verzonden. Met die dag eindigt het provisioneel bewind. De provisionele bewindvoerder is verplicht ten overstaan van de kantonrechter aan de curator rekening en verantwoording van zijn bemoeienissen af te leggen; wordt hij zelf tot curator benoemd, dan wordt de rekening en verantwoording aan de kantonrechter afgelegd. Indien de curator vóór de meerderjarigheid van de onder curatele gestelde is benoemd, vangt zijn taak aan op het tijdstip waarop de curatele in werking treedt.
+
+12.	Indien het verzoek tot ondercuratelestelling wordt afgewezen, eindigt het bewind van de provisionele bewindvoerder daags na die uitspraak, tenzij de rechter anders bepaalt, en in ieder geval uiterlijk daags nadat de afwijzing in kracht van gewijsde is gegaan.
 
 Artikel 384
 
@@ -3637,24 +3668,28 @@ Indien een beschikking, waarbij curatele is uitgesproken, in hoger beroep of cas
 
 Artikel 385
 
-1.	Behoudens het in de artikelen 383 en 384 bepaalde vinden de artikelen 250 en 280, onder b, 281 lid 1 onder a en lid 2, 297-299, 322, onder a en c, 324, 336 en 372-377 bij curatele overeenkomstige toepassing, met dien verstande dat
+1.	Behoudens het in de artikelen 383 en 384 bepaalde vinden de artikelen 250 en 280, onder b, 281 lid 1 onder a en lid 2, 322, eerste lid, onder a en c, 324, 336 en 372-377 bij curatele overeenkomstige toepassing, met dien verstande dat
 	a.	in geval van benoeming van een ouder tot curator een bereidverklaring als bedoeld in artikel 280 onder b niet is vereist;
 	b.	voor rechtbank of rechter wordt gelezen kantonrechter;
 	c.	aan de raad voor de kinderbescherming terzake geen bevoegdheden toekomen;
-	d.	de curator te allen tijde wegens gewichtige redenen op eigen verzoek, op verzoek van de uit hoofde van verkwisting of gewoonte van drankmisbruik onder curatele gestelde, op verzoek van het openbaar ministerie of ambtshalve door de kantonrechter kan worden ontslagen;
+	d.	de curator te allen tijde hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om curator te kunnen worden, door de kantonrechter kan worden ontslagen, zulks op verzoek van de medecurator of degene die gerechtigd is de curatele te verzoeken als bedoeld in artikel 379, dan wel ambtshalve. Artikel 448, tweede lid, derde lid en vijfde lid, is van overeenkomstige toepassing;
 	e.	de curator de rekening en verantwoording, bedoeld in artikel 374, aflegt ten overstaan van de bij het einde van zijn bewind ter zake bevoegde kantonrechter.
 
-2.	Een curator die niet is de echtgenoot, geregistreerde partner dan wel andere levensgezel of bloedverwant in de rechte lijn van de onder curatele gestelde, kan bovendien ontslag verzoeken, wanneer hij de curatele tenminste acht jaren heeft uitgeoefend; het ontslag wordt verleend zodra de kantonrechter zich in staat acht een geschikte opvolger te benoemen.
+2.	De curator doet telkens na verloop van vijf jaren, of zoveel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van de curatele. Hij laat zich daarbij met name uit over de vraag of de curatele dient voort te duren of door een minder ver strekkende voorziening kan worden vervangen. Feiten die voor de curatele en het voortduren daarvan van betekenis zijn deelt hij terstond aan de kantonrechter mede.
 
 Artikel 386
 
-1.	Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. Tenzij de beloning bij het uitspreken van de curatele anders is geregeld, komt de curator - de ouder-curator daaronder begrepen - als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen. Op grond van bijzondere omstandigheden kan de kantonrechter, hetzij ambtshalve, hetzij op verzoek van de curator of van de onder curatele gestelde, voor bepaalde of onbepaalde tijd de beloning anders regelen dan bij het uitspreken van de curatele of door de wet is aangegeven.
+1.	Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter.
 
-2.	De inkomsten van hem die uit hoofde van een geestelijke stoornis onder curatele is gesteld, moeten in de eerste plaats worden besteed voor een voldoende verzorging van de betrokkene.
+2.	De curator draagt zorg voor een doelmatige belegging van het vermogen van de onder curatele gestelde, voor zover dit niet besteed behoort te worden voor een voldoende verzorging van de onder curatele gestelde.
 
-3.	Voor de toepassing van de artikelen 365 tot en met 367 treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in artikel 385, lid 1 onder d in de plaats van de ontzetting van de voogd op grond van artikel 327 lid 1 onder b. Mededelingen en zendingen als bedoeld in artikel 371a, geschieden alleen dan indien artikel 12, vierde lid, op de desbetreffende curatele niet van toepassing is.
+3.	Tenzij de kantonrechter anders bepaalt, is de curator verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen; de curator is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.
 
-4.	Indien een gehuwde of een geregistreerde partner onder curatele wordt gesteld, en tussen de echtgenoten of de geregistreerde partners het bestuur over hun goederen en de goederen der gemeenschap anders is verdeeld dan volgens de regels van de wet en van huwelijkse voorwaarden, bepaalt de rechter bij het uitspreken van de curatele, of en in hoeverre die verdeling ook voor de curator zal gelden.
+4.	Voor de toepassing van de artikelen 365 tot en met 367 treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in artikel 385, lid 1 onder d in de plaats van de ontzetting van de voogd op grond van artikel 327 lid 1 onder b. Mededelingen en zendingen als bedoeld in artikel 371a, geschieden alleen dan indien artikel 12, vierde lid, op de desbetreffende curatele niet van toepassing is.
+
+5.	Indien een gehuwde of een geregistreerde partner onder curatele wordt gesteld, en tussen de echtgenoten of de geregistreerde partners het bestuur over hun goederen en de goederen der gemeenschap anders is verdeeld dan volgens de regels van de wet en van huwelijkse voorwaarden, bepaalt de rechter bij het uitspreken van de curatele, of en in hoeverre die verdeling ook voor de curator zal gelden.
+
+6.	De kantonrechter kan van de curator verlangen dat hij inzage geeft van zijn boeken, bescheiden en andere gegevensdragers. Hij kan voorts een afschrift daarvan verlangen.
 
 Artikel 387
 
@@ -3666,21 +3701,35 @@ Artikel 388
 
 Artikel 389
 
-1.	De curatele eindigt, wanneer bij in kracht van gewijsde gegane rechterlijke uitspraak is vastgesteld, dat de oorzaken die tot de curatele hebben aanleiding gegeven, niet meer aanwezig zijn.
+1.	De curatele eindigt:
+	a.	door het verstrijken van de tijdsduur waarvoor zij is ingesteld,
+	b.	door de dood van de betrokken persoon, of
+	c.	indien ten behoeve van hem bij in kracht van gewijsde gegane rechterlijke uitspraak ter vervanging van curatele een bewind als bedoeld in titel 19 dan wel een mentorschap als bedoeld in titel 20 is ingesteld.
 
-2.	Het verzoek daartoe kan worden gedaan door dezelfde personen die de curatele kunnen verzoeken.
+2.	De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van de curatele niet zinvol is gebleken, de curatele opheffen, zulks op verzoek van de curator of degene die gerechtigd is de curatele te verzoeken als bedoeld in artikel 379, alsmede ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
 
-3.	De curatele eindigt voorts, wanneer bij in kracht van gewijsde gegane rechterlijke uitspraak ten behoeve van de betrokken persoon een bewind als bedoeld in titel 19 dan wel een mentorschap als bedoeld in titel 20 van dit boek is ingesteld.
+3.	Degene die gerechtigd is de curatele te verzoeken als bedoeld in artikel 379, alsmede de curator, kan verzoeken om verlenging van een curatele die voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. Artikel 384 is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
 
 Artikel 390
 
-1.	Alle uitspraken waarbij een curatele wordt verleend of opgeheven, een provisioneel bewind wordt ingesteld of een uitspraak tot ondercuratelestelling wordt vernietigd, worden binnen tien dagen nadat zij kunnen worden ten uitvoer gelegd, vanwege de verzoekers in de Staatscourant benevens in twee door de rechter aan te wijzen dagbladen bekendgemaakt. Ingeval de verzoekers daarmede nalatig zijn, zijn zij hoofdelijk gehouden aan derden de daardoor veroorzaakte schade te vergoeden.
-
-2.	De bekendmaking van een ondercuratelestelling op eigen verzoek of op verzoek van het openbaar ministerie geschiedt vanwege de curator, indien deze bij de ondercuratelestelling is benoemd, of anders vanwege de griffier.
+Alle uitspraken waarbij een curatele wordt verleend of opgeheven of waarbij een uitspraak tot ondercuratelestelling wordt vernietigd, alsmede beschikkingen als in artikel 380 bedoeld, worden binnen tien dagen nadat zij kunnen worden ten uitvoer gelegd, vanwege de griffier in de Staatscourant bekendgemaakt.
 
 Artikel 391
 
-Ter griffie van de rechtbank Den Haag berusten openbare registers, waarin aantekening wordt gehouden van rechtsfeiten die betrekking hebben op curatele. Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden en op welke wijze deze aantekening geschiedt.
+1.	Door een bij algemene maatregel van bestuur aan te wijzen orgaan wordt een openbaar register gehouden, waarin rechtsfeiten worden aangetekend die betrekking hebben op curatele en op bewind als bedoeld in titel 19. In het register worden, voor iedere curatele en ieder in te schrijven bewind afzonderlijk, met vermelding van de dagtekening, ingeschreven:
+	1°	de naam en geboortedatum van de onder curatele gestelde en de rechthebbende;
+	2°	een uittreksel van de rechterlijke beslissingen, waarbij de curatele of het bewind wegens verkwisting dan wel het hebben van problematische schulden wordt ingesteld, verlengd of opgeheven;
+	3°	een uittreksel van de rechterlijke beslissingen, waarbij, voor zover de rechter zulks overeenkomstig artikel 436, derde lid, derde volzin, heeft bepaald, het bewind wegens een lichamelijke of geestelijke toestand wordt ingesteld, verlengd of opgeheven;
+	4°	de grond waarop de curatele is ingesteld;
+	5°	voor zover van toepassing, de datum waarop de curatele of het bewind eindigt;
+	6°	een uittreksel van de rechterlijke beslissingen, waarbij een curator of bewindvoerder wordt benoemd, geschorst of ontslagen;
+	7°	de naam en woonplaats van de curator of curatoren en de bewindvoerder of bewindvoerders en de taakverdeling, voor zover de rechter deze heeft vastgesteld.
+
+2.	Een ieder heeft kosteloze inzage in het register en kan tegen betaling een uittreksel daaruit verkrijgen, met inachtneming van het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde.
+
+3.	De griffier van de rechtbank geeft de in het eerste lid, onder 1° tot en met 7° genoemde gegevens, alsmede het bericht van het overlijden van de onder curatele gestelde dan wel rechthebbende, door aan het in het eerste lid bedoelde orgaan ten behoeve van het in het eerste lid genoemde register.
+
+4.	Het einde van de curatele en het bewind door het verstrijken van de tijdsduur waarvoor de maatregel is ingesteld, leidt tot doorhaling van de inschrijving in het openbaar register op de dag na het verstrijken van de tijdsduur. Een beschikking tot opheffing van de curatele of het bewind leidt tot doorhaling van de inschrijving in het openbaar register op het tijdstip waarop de beschikking in kracht van gewijsde is gegaan. Het overlijden van de onder curatele gestelde of de rechthebbende leidt tot doorhaling van de inschrijving in het openbaar register, nadat de griffie van de rechtbank het bericht van het overlijden heeft ontvangen.
 
 Titel 17. Levensonderhoud
 
@@ -4031,27 +4080,35 @@ Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
 
 Artikel 431
 
-1.	Indien een meerderjarige als gevolg van zijn lichamelijke of geestelijke toestand tijdelijk of duurzaam niet in staat is ten volle zijn vermogensrechtelijke belangen zelf behoorlijk waar te nemen, kan de kantonrechter een bewind instellen over één of meer van de goederen, die hem als rechthebbende toebehoren of zullen toebehoren. Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot zijn huwelijksgemeenschap of gemeenschap van geregistreerd partnerschap en die niet uitsluitend onder het bestuur van zijn echtgenoot dan wel geregistreerd partner staan.
+1.	Indien een meerderjarige tijdelijk of duurzaam niet in staat is ten volle zijn vermogensrechtelijke belangen behoorlijk waar te nemen, als gevolg van
+	a.	zijn lichamelijke of geestelijke toestand, dan wel
+	b.	verkwisting of het hebben van problematische schulden,
+
+kan de kantonrechter een bewind instellen over één of meer van de goederen, die hem als rechthebbende toebehoren of zullen toebehoren. Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot zijn huwelijksgemeenschap of gemeenschap van geregistreerd partnerschap en die niet uitsluitend onder het bestuur van zijn echtgenoot dan wel geregistreerd partner staan.
 
 2.	Indien te verwachten is dat een minderjarige op het tijdstip waarop hij meerderjarig zal worden, in de in het vorige lid bedoelde toestand zal verkeren, kan het bewind reeds voor de meerderjarigheid worden ingesteld.
 
-3.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
+3.	Het bewind kan eveneens worden ingesteld indien te verwachten is dat de rechthebbende binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.
+
+4.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
 
 Artikel 432
 
-1.	Instelling van het bewind kan worden verzocht door de rechthebbende, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot de vierde graad ingesloten, zijn voogd, zijn curator of zijn mentor als bedoeld in titel 20 van dit boek of het openbaar ministerie.
+1.	Instelling van het bewind kan worden verzocht door de rechthebbende, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en in de zijlijn tot en met de vierde graad, degene die ingevolge artikel 253sa of 253t het gezag over de rechthebbende uitoefent, zijn voogd, zijn curator als bedoeld in titel 16 en zijn mentor als bedoeld in titel 20. In het in artikel 431, derde lid, bedoelde geval kan het bewind uitsluitend worden verzocht door de rechthebbende.
 
-2.	De rechter voor wie een verzoek tot ondercuratelestelling aanhangig is, kan bij afwijzing daarvan ambtshalve overgaan tot instelling van het bewind.
+2.	Instelling van het bewind kan voorts worden verzocht door het openbaar ministerie en door de instelling waar de rechthebbende wordt verzorgd of die aan de rechthebbende begeleiding biedt. Instelling van een bewind wegens verkwisting of het hebben van problematische schulden kan tevens worden verzocht door het college van burgemeester en wethouders van de gemeente waar de rechthebbende woonplaats heeft. In beide laatste gevallen vermeldt het verzoekschrift tevens waarom de in het eerste lid genoemde personen – bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen – niet tot indiening van een verzoek zijn overgegaan.
 
-3.	Een verzoek tot instelling van een bewind ten behoeve van een rechthebbende die onder curatele is gesteld, wordt aanhangig gemaakt bij de rechter die bevoegd is over opheffing van de curatele te beslissen. Deze rechter kan, bij opheffing van een curatele, ook ambtshalve overgaan tot instelling van het bewind.
+3.	De rechter voor wie een verzoek tot ondercuratelestelling of tot opheffing van de curatele aanhangig is, kan bij afwijzing onderscheidenlijk bij inwilliging daarvan ambtshalve overgaan tot instelling van het bewind.
 
-4.	In geval van een bestuursopdracht, of een verzoek daartoe, als bedoeld in artikel 91 van dit boek, zijn het tweede en het derde lid van overeenkomstige toepassing.
+4.	Een verzoek tot instelling van een bewind ten behoeve van een rechthebbende die onder curatele is gesteld, wordt aanhangig gemaakt bij de rechter die bevoegd is over opheffing van de curatele te beslissen. Deze rechter kan, bij opheffing van een curatele, ook ambtshalve overgaan tot instelling van het bewind.
+
+5.	In geval van een bestuursopdracht, of een verzoek daartoe, als bedoeld in artikel 91 van dit boek, zijn het tweede en het derde lid van overeenkomstige toepassing.
 
 Artikel 433
 
 1.	Tenzij bij de onderbewindstelling anders is bepaald, omvat het bewind ook de goederen die geacht moeten worden in de plaats van een aan het bewind onderworpen goed te treden, benevens de vruchten en andere voordelen die een onder bewind staand goed oplevert.
 
-2.	De kantonrechter kan, hetzij op verzoek van een persoon als bedoeld in artikel 432, eerste lid, van een bewindvoerder of van het openbaar ministerie, hetzij ambtshalve, het ingestelde bewind tot een of meer andere goederen van de rechthebbende uitbreiden of een of meer goederen uit het bewind ontslaan; hij kan tevens handelingen als bedoeld in artikel 441 lid 2 onder f aanwijzen en de aanwijzing van zulke handelingen intrekken.
+2.	De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in artikel 432, eerste en tweede lid, hetzij ambtshalve, het ingestelde bewind tot een of meer andere goederen van de rechthebbende uitbreiden of een of meer goederen uit het bewind ontslaan en ook alsnog bepalen dat de regel van het eerste lid voor een of meer goederen niet zal gelden, in welk geval artikel 434, eerste lid, van overeenkomstige toepassing is. De kantonrechter kan tevens handelingen als bedoeld in artikel 441, tweede lid, onder f aanwijzen en de aanwijzing van zulke handelingen intrekken.
 
 Artikel 434
 
@@ -4061,19 +4118,37 @@ Artikel 434
 
 Artikel 435
 
-1.	De rechter die het bewind instelt, benoemt daarbij of zo spoedig mogelijk daarna een bewindvoerder. Hij vergewist zich van de bereidheid van de door hem te benoemen persoon.
+1.	De rechter die het bewind instelt, benoemt daarbij of zo spoedig mogelijk daarna een bewindvoerder. Hij vergewist zich van de bereidheid en vormt zich een oordeel over de geschiktheid van de te benoemen persoon.
 
 2.	Zo nodig kan een tijdelijke bewindvoerder worden benoemd.
 
 3.	De rechter volgt bij de benoeming van de bewindvoerder de uitdrukkelijke voorkeur van de rechthebbende, tenzij gegronde redenen zich tegen zodanige benoeming verzetten.
 
-4.	Tenzij het vorige lid is toegepast, wordt, indien de rechthebbende is gehuwd, een geregistreerd partnerschap is aangegaan of anderszins een levensgezel heeft, bij voorkeur de echtgenoot, de geregistreerde partner dan wel andere levensgezel tot bewindvoerder benoemd. Is de vorige zin niet van toepassing dan wordt bij voorkeur een van zijn ouders, kinderen, broers of zusters tot bewindvoerder benoemd. Huwt de rechthebbende, gaat hij een geregistreerd partnerschap aan of verkrijgt hij een andere levensgezel, dan kan ieder van hen verzoeken, dat de echtgenoot, de geregistreerde partner dan wel de andere levensgezel van de rechthebbende in de plaats van de tegenwoordige bewindvoerder wordt benoemd.
+4.	Tenzij het vorige lid is toegepast, wordt, indien de rechthebbende is gehuwd, een geregistreerd partnerschap is aangegaan of anderszins een levensgezel heeft, bij voorkeur de echtgenoot, de geregistreerde partner dan wel andere levensgezel tot bewindvoerder benoemd. Is de vorige zin niet van toepassing dan wordt bij voorkeur een van zijn ouders, kinderen, broers of zusters tot bewindvoerder benoemd. Huwt de rechthebbende, gaat hij een geregistreerd partnerschap aan of verkrijgt hij een andere levensgezel, dan kan ieder van hen verzoeken dat de echtgenoot, de geregistreerde partner dan wel de andere levensgezel van de rechthebbende in de plaats van de tegenwoordige bewindvoerder wordt benoemd.
 
-5.	Handelingsonbekwamen, zij van wie één of meer goederen onder een bewind als bedoeld in deze titel zijn gesteld, zij die in staat van faillissement verkeren en zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, kunnen niet bewindvoerder worden.
+5.	Rechtspersonen met volledige rechtsbevoegdheid kunnen tot bewindvoerder worden benoemd.
 
-6.	Rechtspersonen met volledige rechtsbevoegdheid kunnen tot bewindvoerder worden benoemd.
+6.	De volgende personen kunnen niet tot bewindvoerder worden benoemd:
+	a.	handelingsonbekwamen;
+	b.	zij ten behoeve van wie een mentorschap is ingesteld;
+	c.	zij van wie één of meer goederen onder een bewind als bedoeld in titel 19 staan;
+	d.	zij die in staat van faillissement verkeren;
+	e.	zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is;
+	f.	de bewindvoerder van de rechthebbende in de zin artikel 287, derde lid, van de Faillissementswet;
+	g.	een direct betrokken of behandelend hulpverlener;
+	h.	personen behorende tot de leiding of tot het personeel van de instelling waar de rechthebbende wordt verzorgd of die aan de rechthebbende begeleiding biedt;
+	i.	personen verbonden met de instelling waar de rechthebbende wordt verzorgd of die aan de rechthebbende begeleiding biedt, doordat:
+		1°	de instelling of personen behorende tot de leiding van de instelling, alleen of samen meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kunnen uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kunnen benoemen of ontslaan,
+		2°	de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of
+		3°	de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
 
-7.	De benoemde wordt bewindvoerder daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
+7.	[Dit lid is nog niet in werking getreden.]
+
+8.	[Dit lid is nog niet in werking getreden.]
+
+9.	[Dit lid is nog niet in werking getreden.]
+
+10.	De benoemde wordt bewindvoerder daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
 
 Artikel 436
 
@@ -4081,19 +4156,21 @@ Artikel 436
 
 2.	De artikelen 339, 363 en 364 van dit boek zijn van overeenkomstige toepassing.
 
-3.	Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven.
+3.	Indien tot het bewind registergoederen behoren, is de bewindvoerder verplicht zo spoedig mogelijk de desbetreffende rechterlijke beschikkingen en zijn benoeming in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3, te doen inschrijven. Is een onderneming of een aandeel in een vennootschap onder firma onder bewind gesteld, dan is de bewindvoerder verplicht de desbetreffende rechterlijke beschikkingen en zijn benoeming in het handelsregister te doen inschrijven. De kantonrechter kan, hetzij op verzoek van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in artikel 432, eerste en tweede lid, of van de bewindvoerder, hetzij ambtshalve bepalen dat een beschikking tot onderbewindstelling wegens een lichamelijke of geestelijke toestand, voor zover het bewind alle goederen betreft, die de rechthebbende toebehoren of zullen toebehoren, en een beschikking houdende benoeming, schorsing of ontslag van de bewindvoerder vanwege de griffier in het register, bedoeld in artikel 391, worden ingeschreven.
 
 4.	Tenzij de kantonrechter anders bepaalt, is de bewindvoerder verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen; de bewindvoerder is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt zoveel mogelijk van deze rekening gebruik te maken.
 
 5.	De kantonrechter kan te allen tijde de bewindvoerder ten verhore doen oproepen. Deze is verplicht alle door de kantonrechter gewenste inlichtingen te verstrekken.
 
+6.	De kantonrechter kan van de bewindvoerder verlangen dat hij inzage geeft van zijn boeken, bescheiden en andere gegevensdragers. Hij kan voorts een afschrift daarvan verlangen.
+
 Artikel 437
 
-1.	De rechter kan twee of meer bewindvoerders benoemen, indien hij dit in het belang van een goed bewind nodig acht.
+1.	De rechter kan twee bewindvoerders benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten.
 
-2.	Zijn er twee of meer bewindvoerders, dan kan, tenzij de rechter anders bepaalt, ieder van hen alle werkzaamheden die tot het bewind behoren, alleen verrichten.
+2.	Zijn er twee bewindvoerders, dan kan, tenzij de rechter anders bepaalt, ieder van hen alle werkzaamheden die tot het bewind behoren, alleen verrichten.
 
-3.	Bij verschil van mening tussen de bewindvoerders beslist op verzoek van een van hen de kantonrechter. Deze kan ook een verdeling van het loon vaststellen.
+3.	Bij verschil van mening tussen de bewindvoerders beslist op verzoek van één van hen of van een instelling als bedoeld in artikel 432, tweede lid, de kantonrechter. Deze kan ook een verdeling van het loon vaststellen.
 
 Artikel 438
 
@@ -4109,13 +4186,13 @@ Artikel 439
 
 Artikel 440
 
-1.	Gedurende het bewind kunnen schulden die voortspruiten uit een handeling, tijdens het bewind met of jegens de rechthebbende, anders dan in overeenstemming met artikel 438, lid 2, verricht door een schuldeiser die het bewind kende of had behoren te kennen, niet op de onder het bewind staande goederen worden verhaald.
+1.	Schulden die voortspruiten uit een handeling, tijdens het bewind met of jegens de rechthebbende, anders dan in overeenstemming met artikel 438, tweede lid, verricht door een schuldeiser die het bewind kende of had behoren te kennen, kunnen niet op de onder het bewind staande goederen worden verhaald. Het einde van het bewind brengt hierin geen wijziging.
 
-2.	Indien de onderbewindstelling alle goederen betreft die daarvoor krachtens artikel 431, eerste lid, in aanmerking komen, is het vorige lid van overeenkomstige toepassing ten aanzien van niet onder het bewind staande goederen waarop verhaal mogelijk zou zijn.
+2.	Indien het bewind alle goederen betreft die daarvoor krachtens artikel 431, eerste lid, in aanmerking komen, is het eerste lid van overeenkomstige toepassing ten aanzien van ten tijde van de handeling niet onder het bewind staande goederen waarop verhaal mogelijk zou zijn.
 
 Artikel 441
 
-1.	Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende.
+1.	Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende. De bewindvoerder kan voorts voor de rechthebbende alle handelingen verrichten die aan een goed bewind bijdragen.
 
 2.	Hij behoeft echter toestemming van de rechthebbende of, indien deze daartoe niet in staat of weigerachtig is, machtiging van de kantonrechter voor de volgende handelingen:
 	a.	beschikken en aangaan van overeenkomsten tot beschikking over een onder het bewind staand goed, tenzij de handeling als een gewone beheersdaad kan worden beschouwd of krachtens rechterlijk bevel geschiedt;
@@ -4147,7 +4224,7 @@ Een bewindvoerder is jegens de rechthebbende aansprakelijk, indien hij in de zor
 
 Artikel 445
 
-1.	De bewindvoerder legt, tenzij andere tijdstippen zijn bepaald, jaarlijks en aan het einde van het bewind rekening en verantwoording af aan de rechthebbende, alsmede aan het einde van zijn taak aan zijn opvolger. De rekening en verantwoording wordt afgelegd ten overstaan van de kantonrechter.
+1.	De bewindvoerder legt, tenzij andere tijdstippen zijn bepaald, jaarlijks en aan het einde van het bewind rekening en verantwoording af aan de rechthebbende, alsmede aan het einde van zijn taak aan zijn opvolger. De rekening en verantwoording wordt afgelegd ten overstaan van de kantonrechter. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt.
 
 2.	Indien de rechthebbende niet in staat is de rekening op te nemen, of het onzeker is wie de rechthebbende is, wordt de rekening en verantwoording afgelegd aan de kantonrechter. Goedkeuring van deze rekening en verantwoording door de kantonrechter belet niet dat de rechthebbende na het einde van het bewind nogmaals over dezelfde tijdsruimte rekening en verantwoording vraagt, voor zover dit niet onredelijk is.
 
@@ -4162,6 +4239,10 @@ Artikel 446
 2.	Bij zijn eindrekening en verantwoording draagt de bewindvoerder alle goederen af aan hem die na hem tot het beheer der goederen bevoegd is. De bewindvoerder is bevoegd de afdracht op te schorten tot de voldoening van een hem toekomend saldo.
 
 3.	Wordt de rekening en verantwoording aan de kantonrechter afgelegd, dan blijven, tenzij de kantonrechter anders bepaalt, de netto-opbrengst of de af te dragen goederen onder het bewind van de bewindvoerder, totdat de rechthebbende tot de ontvangst in staat is of de onzekerheid, wie rechthebbende is, is opgeheven.
+
+Artikel 446a
+
+De bewindvoerder doet telkens na verloop van vijf jaren, of zo veel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van het bewind. Hij laat zich daarbij met name uit over de vraag of het bewind dient voort te duren dan wel of een minder ver, of een verder strekkende voorziening aangewezen is. Feiten die voor het bewind en het voortduren daarvan van betekenis zijn, deelt hij terstond aan de kantonrechter mede.
 
 Artikel 447
 
@@ -4178,17 +4259,21 @@ Artikel 448
 	d.	door de instelling van een bewind als bedoeld in deze titel over één of meer van zijn goederen;
 	e.	door ontslag dat hem door de kantonrechter met ingang van een door deze bepaalde dag wordt verleend.
 
-2.	Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om bewindvoerder te kunnen worden, zulks op verzoek van een medebewindvoerder, de rechthebbende of het openbaar ministerie, dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het bewind treffen en de bewindvoerder schorsen.
+2.	Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om bewindvoerder te kunnen worden, zulks op verzoek van de medebewindvoerder of degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in artikel 432, eerste en tweede lid, dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het bewind treffen en de bewindvoerder schorsen. De kantonrechter kan hiertoe zo nodig ook zonder de bewindvoerder tevoren te hebben gehoord overgaan. In dat geval verliest de beschikking haar kracht na verloop van twee weken, tenzij de bewindvoerder binnen deze termijn in de gelegenheid is gesteld om te worden gehoord.
 
 3.	Een gewezen bewindvoerder blijft verplicht al datgene te doen, wat niet zonder nadeel voor de rechthebbende kan worden uitgesteld, totdat degene die na hem tot het beheer van de goederen bevoegd is, dit heeft aanvaard. In de gevallen genoemd in het eerste lid onder c, rust deze verplichting op zijn erfgenamen, onderscheidenlijk de bewindvoerder in de schuldsaneringsregeling natuurlijke personen of de curator, indien zij van het bewind kennisdragen; in het geval genoemd in het eerste lid onder d, geldt dit voor de bewindvoerder, belast met het daar bedoelde bewind.
 
 4.	Artikel 384 van dit boek is van overeenkomstige toepassing.
 
+5.	In geval van ontslag wegens gewichtige redenen of omdat de bewindvoerder niet meer voldoet aan de eisen om bewindvoerder te kunnen worden, kan de kantonrechter bepalen dat geen verdere rekening en verantwoording behoeft te worden afgelegd. Tevens kan de kantonrechter de boeken, bescheiden en andere gegevensdragers van de bewindvoerder, en alle aan de rechthebbende toekomende goederen in beslag nemen. Daartoe kan hij elke plaats betreden.
+
 Artikel 449
 
 1.	Het bewind eindigt door het verstrijken van de tijdsduur waarvoor het is ingesteld en door de dood of ondercuratelestelling van de rechthebbende.
 
-2.	De kantonrechter kan, indien de oorzaken die tot de onderbewindstelling aanleiding hebben gegeven, niet meer bestaan, het bewind opheffen op verzoek van de rechthebbende of het openbaar ministerie; de beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+2.	De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van het bewind niet zinvol is gebleken, het bewind opheffen, zulks op verzoek van de bewindvoerder of van degene die gerechtigd is onderbewindstelling te verzoeken als bedoeld in artikel 432, eerste en tweede lid, dan wel ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+
+3.	Degene die gerechtigd is de instelling van het bewind te verzoeken als bedoeld in artikel 432, eerste en tweede lid, alsmede de bewindvoerder, kan verzoeken om verlenging van het bewind dat voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. Artikel 384 is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
 
 Titel 20. Mentorschap ten behoeve van meerderjarigen
 
@@ -4204,11 +4289,11 @@ Artikel 450
 
 Artikel 451
 
-1.	Het mentorschap kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot en met de vierde graad, zijn voogd, zijn curator of zijn bewindvoerder als bedoeld in titel 19 van dit boek. In het in artikel 450, derde lid, van dit boek bedoelde geval kan het mentorschap uitsluitend worden verzocht door de betrokkene.
+1.	Het mentorschap kan worden verzocht door de betrokken persoon, zijn echtgenoot, zijn geregistreerde partner dan wel andere levensgezel, zijn bloedverwanten in de rechte lijn en die in de zijlijn tot en met de vierde graad, degene die ingevolge artikel 253sa of 253t het gezag over de betrokken persoon uitoefent, zijn voogd, zijn curator of zijn bewindvoerder als bedoeld in titel 19 van dit boek. In het in artikel 450, derde lid, van dit boek bedoelde geval kan het mentorschap uitsluitend worden verzocht door de betrokkene.
 
-2.	Het mentorschap kan, behoudens in het in artikel 450, derde lid, van dit boek bedoelde geval, voorts worden verzocht door het openbaar ministerie of door degene die de instelling waar de betrokkene duurzaam wordt verzorgd, exploiteert of die daarvan de leiding heeft. In het laatste geval wordt in het verzoekschrift tevens vermeld waarom de in het eerste lid genoemde personen - bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen - niet tot indiening van een verzoek zijn overgegaan.
+2.	Het mentorschap kan, behoudens in het in artikel 450, derde lid, bedoelde geval, voorts worden verzocht door het openbaar ministerie en door de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt. In het laatste geval wordt in het verzoekschrift tevens vermeld waarom de in het eerste lid genoemde personen - bloedverwanten in de zijlijn in de derde en vierde graad daaronder niet begrepen - niet tot indiening van een verzoek zijn overgegaan.
 
-3.	De rechter bij wie een verzoek tot ondercuratelestelling aanhangig is, kan bij afwijzing daarvan ambtshalve overgaan tot instelling van het mentorschap.
+3.	De rechter bij wie een verzoek tot ondercuratelestelling of tot opheffing van de curatele aanhangig is, kan bij afwijzing onderscheidenlijk bij inwilliging daarvan ambtshalve overgaan tot instelling van het mentorschap.
 
 4.	Een verzoek tot omzetting van curatele in mentorschap ten behoeve van een persoon die onder curatele is gesteld, wordt aanhangig gemaakt bij de rechter die bevoegd is over opheffing van de curatele te beslissen. Deze rechter kan, bij opheffing van de curatele, ook ambtshalve overgaan tot instelling van het mentorschap.
 
@@ -4224,14 +4309,17 @@ Artikel 452
 
 4.	Tenzij het vorige lid is toegepast, wordt, indien de betrokkene is gehuwd, een geregistreerd partnerschap is aangegaan of anderszins een levensgezel heeft, bij voorkeur de echtgenoot, de geregistreerde partner dan wel andere levensgezel tot mentor benoemd. Is de vorige zin niet van toepassing dan wordt bij voorkeur een van zijn ouders, kinderen, broers of zusters tot mentor benoemd. Huwt de betrokkene, gaat hij een geregistreerd partnerschap aan of verkrijgt hij een andere levensgezel, dan kan ieder van hen verzoeken, dat de echtgenoot, de geregistreerde partner dan wel de andere levensgezel van de betrokkene in de plaats van de tegenwoordige mentor wordt benoemd.
 
-5.	Indien ten behoeve van de betrokkene in een bewind als bedoeld in titel 19 van dit boek is voorzien, wordt, indien de bewindvoerder een natuurlijke persoon is, bij voorkeur de bewindvoerder tot mentor benoemd.
+5.	Een rechtspersoon met volledige rechtsbevoegdheid komt voor benoeming tot mentor in aanmerking.
 
-6.	Geen mentor kunnen worden:
+6.	De volgende personen kunnen niet tot mentor worden benoemd:
 	a.	handelingsonbekwamen;
 	b.	zij ten behoeve van wie een mentorschap is ingesteld;
-	c.	rechtspersonen;
-	d.	de direct betrokken of behandelend hulpverlener;
-	e.	personen behorende tot de leiding of tot het personeel van de instelling waar de betrokkene verblijft.
+	c.	de direct betrokken of behandelend hulpverlener;
+	d.	personen behorende tot de leiding of tot het personeel van de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt;
+	e.	personen verbonden met de instelling waar de betrokkene wordt verzorgd of die aan de betrokkene begeleiding biedt, doordat:
+		1°	de instelling of personen behorende tot de leiding van de instelling, alleen of samen meer dan de helft van de stemrechten in de algemene vergadering van de rechtspersoon kunnen uitoefenen, dan wel meer dan de helft van de bestuurders of van de commissarissen van de rechtspersoon kunnen benoemen of ontslaan,
+		2°	de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of
+		3°	de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
 
 7.	De taak van de mentor vangt aan daags nadat de beschikking, houdende de benoeming, is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
 
@@ -4283,7 +4371,11 @@ Artikel 459
 
 1.	De mentor doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter. De kantonrechter kan te allen tijde verschijning van de mentor in persoon gelasten. Deze is verplicht alle door de kantonrechter gewenste inlichtingen te verstrekken.
 
-2.	Aan het einde van zijn mentorschap doet de mentor van zijn werkzaamheden schriftelijk verslag aan zijn opvolger, aan de kantonrechter alsmede aan de betrokkene, indien het mentorschap door het verstrijken van de tijdsduur waarvoor het is ingesteld of door opheffing eindigt.
+2.	[Dit lid is nog niet in werking getreden.]
+
+3.	De mentor doet telkens na verloop van vijf jaren, of zo veel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van het mentorschap. Hij laat zich daarbij met name uit over de vraag of het mentorschap dient voort te duren dan wel of een minder ver, of een verder strekkende voorziening aangewezen is. Feiten die voor het mentorschap en het voortduren daarvan van betekenis zijn, deelt hij terstond aan de kantonrechter mede.
+
+4.	Aan het einde van zijn mentorschap doet de mentor van zijn werkzaamheden schriftelijk verslag aan zijn opvolger, aan de kantonrechter alsmede aan de betrokkene, indien het mentorschap door het verstrijken van de tijdsduur waarvoor het is ingesteld of door opheffing eindigt.
 
 Artikel 460
 
@@ -4300,7 +4392,7 @@ Artikel 461
 	d.	door zijn ondercuratelestelling of door instelling van een mentorschap te zijnen behoeve;
 	e.	door ontslag dat hem door de kantonrechter met ingang van een door deze bepaalde dag wordt verleend.
 
-2.	Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om mentor te kunnen worden, zulks op verzoek van de betrokkene, het openbaar ministerie of ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het mentorschap treffen en de mentor schorsen.
+2.	Het ontslag wordt hem verleend hetzij op eigen verzoek, hetzij wegens gewichtige redenen of omdat hij niet meer voldoet aan de eisen om mentor te kunnen worden, zulks op verzoek van de medementor of degene die gerechtigd is mentorschap te verzoeken als bedoeld in artikel 451, eerste en tweede lid, dan wel ambtshalve. Hangende het onderzoek kan de kantonrechter voorlopige voorzieningen in het mentorschap treffen en de mentor schorsen. De kantonrechter kan hiertoe zo nodig ook zonder de mentor tevoren te hebben gehoord overgaan. In dat geval verliest de beschikking haar kracht na verloop van twee weken, tenzij de mentor binnen deze termijn in de gelegenheid is gesteld om te worden gehoord.
 
 3.	Een gewezen mentor blijft verplicht al datgene te doen, wat niet zonder nadeel voor de betrokkene kan worden uitgesteld, totdat wederom een persoon bevoegd is ten aanzien van de aangelegenheden bedoeld in artikel 453, eerste lid, van dit boek. In de gevallen genoemd in het eerste lid, onder d, rust deze verplichting op diens curator of mentor, indien deze van het mentorschap kennisdraagt.
 
@@ -4310,4 +4402,6 @@ Artikel 462
 
 1.	Het mentorschap eindigt door het verstrijken van de tijdsduur waarvoor het is ingesteld en door de dood of ondercuratelestelling van de betrokkene.
 
-2.	De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat, het mentorschap opheffen op verzoek van de betrokkene, zijn mentor of het openbaar ministerie. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+2.	De kantonrechter kan, indien de noodzaak daartoe niet meer bestaat of voortzetting van het mentorschap niet zinvol is gebleken, het mentorschap opheffen, zulks op verzoek van de mentor of van degene die gerechtigd is mentorschap te verzoeken als bedoeld in artikel 451, eerste en tweede lid, dan wel ambtshalve. De beschikking treedt in werking zodra zij in kracht van gewijsde is gegaan, tenzij zij een eerder tijdstip van ingang aanwijst.
+
+3.	Degene die gerechtigd is de instelling van het mentorschap te verzoeken als bedoeld in artikel 451, eerste en tweede lid, alsmede de mentor, kan verzoeken om verlenging van het mentorschap dat voor een bepaalde tijdsduur is ingesteld. De kantonrechter beslist binnen twee maanden na het indienen van het verzoekschrift. Artikel 384 is van overeenkomstige toepassing. Tegen de afwijzing van een verzoek tot verlenging staat geen hogere voorziening open.
