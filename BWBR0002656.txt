@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2014 t/m 05-01-2014
+Geldend van 06-01-2014 t/m 14-02-2014
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -326,6 +326,8 @@ Artikel 19i
 
 3.	In de in de vorige leden bedoelde gevallen is ten aanzien van de aangifte het bepaalde in artikel 19h van overeenkomstige toepassing. In het in het tweede lid bedoelde geval blijft artikel 19e buiten toepassing.
 
+4.	In het geval, bedoeld in het eerste lid, verstrekt de ambtenaar van de burgerlijke stand aan het Centraal Bureau voor de Statistiek zo spoedig mogelijk de gegevens betreffende dat kind, die zijn vermeld in het daartoe door hem te gebruiken formulier dat door Onze Minister van Veiligheid en Justitie is vastgesteld.
+
 Artikel 19j
 
 1.	Bij algemene maatregel van bestuur wordt geregeld al wat betreft de aan de ambtenaar over te leggen stukken, het opmaken van de akten, onderscheidenlijk de voorlopige akten van geboorte en van overlijden, en de inhoud daarvan.
@@ -636,7 +638,7 @@ Artikel 29a
 
 1.	De Commissie bestaat uit ten minste negen en ten hoogste vijftien leden.
 
-2.	De Commissie bestaat uit ten minste een lid van de rechterlijke macht, ten minste een lid uit de kring van het wetenschappelijk onderzoek, ten minste twee leden uit de kring van de ambtenaren van de burgerlijke stand en ten minste twee leden uit de kring van de gemeentelijke basisadministratie.
+2.	De Commissie bestaat uit ten minste een lid van de rechterlijke macht, ten minste een lid uit de kring van het wetenschappelijk onderzoek, ten minste twee leden uit de kring van de ambtenaren van de burgerlijke stand en ten minste twee leden uit de kring van de basisregistratie personen.
 
 3.	Onze Minister van Justitie benoemt en ontslaat de in het voorgaande lid bedoelde leden in overeenstemming met Onze Minister van Binnenlandse Zaken. Voorts wijst hij een voorzitter en een secretaris aan.
 
@@ -751,7 +753,7 @@ Artikel 43
 Artikel 44
 
 1.	Voor de aangifte van het huwelijk worden de volgende bescheiden aan de ambtenaar van de burgerlijke stand overgelegd:
-	a.	de geboorteakte van ieder der aanstaande echtgenoten en van elk van hen een gewaarmerkt afschrift van gegevens uit de basisadministratie persoonsgegevens, tenzij zij niet als ingezetene in een basisadministratie persoonsgegevens behoeven te zijn ingeschreven;
+	a.	de geboorteakte van ieder der aanstaande echtgenoten en van elk van hen een gewaarmerkt afschrift van gegevens uit de basisregistratie personen, tenzij zij niet als ingezetenen zijn ingeschreven in de basisregistratie personen;
 	b.	een akte van huwelijkstoestemming, gegeven door hen, wier toestemming tot het huwelijk noodzakelijk is. De akte van huwelijkstoestemming wordt door een ambtenaar van de burgerlijke stand of door een notaris opgemaakt. De toestemming kan ook bij de huwelijksakte worden gegeven. Is de toestemming door de rechter verleend, dan wordt diens beschikking overgelegd;
 	c.	een akte van overlijden van allen, wier toestemming voor het huwelijk was vereist, als zij in leven waren geweest;
 	d.	ingeval van tweede of verder huwelijk dan wel huwelijk na registratie, bewijsstukken aantonende dat het vorige huwelijk dan wel het eerdere geregistreerd partnerschap geen beletsel voor een nieuw huwelijk oplevert;
@@ -765,7 +767,7 @@ Artikel 44
 
 2.	De verklaring, bedoeld in het eerste lid, onderdeel k, is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000.
 
-3.	Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inhoud van het in het eerste lid onder a bedoelde gewaarmerkt afschrift van gegevens uit de basisadministratie persoonsgegevens, alsmede de in hetzelfde lid onder k bedoelde verklaring.
+3.	Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inhoud van het in het eerste lid onder a bedoelde gewaarmerkt afschrift van gegevens uit de basisregistratie personen, alsmede de in hetzelfde lid onder k bedoelde verklaring.
 
 Artikel 45
 
