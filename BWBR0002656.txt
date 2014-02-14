@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 06-01-2014 t/m 14-02-2014
+Geldend van 15-02-2014 t/m 31-03-2014
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -789,7 +789,7 @@ Artikel 47
 
 1.	Indien een minderjarige een huwelijk wenst aan te gaan, onderzoekt de ambtenaar van de burgerlijke stand, van welke personen daartoe de toestemming wordt vereist.
 
-2.	Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg onverwijld van het voorgenomen huwelijk.
+2.	Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg onverwijld van het voorgenomen huwelijk.
 
 Artikel 48
 
@@ -2185,7 +2185,7 @@ Artikel 238
 
 4.	Zijn bemoeiingen laten de godsdienstige of levensbeschouwelijke grondslag van de instellingen van kinderbescherming onverlet.
 
-5.	Bij algemene maatregel van bestuur worden de zetel, de werkwijze, voor zover het de samenwerking met de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, betreft en de organisatie van de raad geregeld.
+5.	Bij algemene maatregel van bestuur worden de zetel, de werkwijze, voor zover het de samenwerking met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, betreft en de organisatie van de raad geregeld.
 
 Artikel 239
 
@@ -2221,7 +2221,7 @@ Artikel 241
 
 Artikel 241a
 
-Op de uitoefening van de voorlopige voogdij door een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg is artikel 243 van dit Boek van overeenkomstige toepassing.
+Op de uitoefening van de voorlopige voogdij door een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg is artikel 243 van dit Boek van overeenkomstige toepassing.
 
 Artikel 242
 
@@ -2891,7 +2891,7 @@ Na de dood van een voogd die de voogdij samen met een ander uitoefende, oefent d
 
 Artikel 283
 
-De verzoeken die de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
+De verzoeken die de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
 
 Artikel 284
 
@@ -3013,7 +3013,7 @@ Artikel 301
 
 Artikel 302
 
-1.	De rechter kan de voogdij opdragen aan een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg.
+1.	De rechter kan de voogdij opdragen aan een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.
 
 2.	Onverminderd diens bevoegdheid een natuurlijke persoon tot voogd te benoemen, kan de rechter de voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, uitsluitend opdragen aan een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon.
 
@@ -3023,11 +3023,11 @@ Artikel 302
 
 Artikel 303
 
-Voor zover de wet niet anders bepaalt, heeft de met voogdij belaste stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, dezelfde bevoegdheden en verplichtingen als andere voogden.
+Voor zover de wet niet anders bepaalt, heeft de met voogdij belaste stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, dezelfde bevoegdheden en verplichtingen als andere voogden.
 
 Artikel 304
 
-1.	Met de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg zijn de bestuurders hoofdelijk en persoonlijk aansprakelijk voor iedere schade, die te wijten is aan een niet-behoorlijke uitoefening van de voogdij.
+1.	Met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg zijn de bestuurders hoofdelijk en persoonlijk aansprakelijk voor iedere schade, die te wijten is aan een niet-behoorlijke uitoefening van de voogdij.
 
 2.	Iedere bestuurder zal zich echter van zijn aansprakelijkheid kunnen bevrijden door te bewijzen, dat hij geen schuld heeft aan de schade.
 
@@ -3041,7 +3041,7 @@ Artikel 305
 
 Artikel 306
 
-1.	Zonder toestemming van de rechtbank mag een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.
+1.	Zonder toestemming van de rechtbank mag een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.
 
 2.	De rechter verleent deze toestemming slechts, indien hij de plaatsing voor de minderjarige wenselijk acht.
 
