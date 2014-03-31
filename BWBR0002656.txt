@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 15-02-2014 t/m 31-03-2014
+Geldend van 01-04-2014 t/m 30-06-2014
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -22,11 +22,11 @@ Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dik
 
 Artikel 3
 
-1.	De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, een gerechtelijke vaststelling van het vaderschap of een adoptie als een geboorte.
+1.	De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, een gerechtelijke vaststelling van het ouderschap of een adoptie als een geboorte.
 
 2.	Door huwelijk of door geregistreerd partnerschap ontstaat tussen de ene echtgenoot dan wel de ene geregistreerde partner en een bloedverwant van de andere echtgenoot dan wel de andere geregistreerde partner aanverwantschap in dezelfde graad als er bloedverwantschap bestaat tussen de andere echtgenoot dan wel de andere geregistreerde partner en diens bloedverwant.
 
-3.	Door ontbinding van het huwelijk wordt de aanverwantschap niet opgeheven.
+3.	Door het eindigen van het huwelijk of geregistreerd partnerschap wordt de aanverwantschap niet opgeheven.
 
 Titel 2. Het recht op de naam
 
@@ -54,7 +54,7 @@ Artikel 5
 	a.	de geslachtsnaam van de vader in geval het kind door geboorte in familierechtelijke betrekking tot beide ouders komt te staan;
 	b.	de geslachtsnaam van de moeder in geval een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, van rechtswege gezamenlijk het gezag als bedoeld in artikel 253sa over het kind uitoefenen.
 
-6.	Indien de moeder na de geboorte van het kind op grond van artikel 199, onderdeel b, het vaderschap van de overleden echtgenoot ontkent en zij ten tijde van de geboorte en van de ontkenning is hertrouwd, kunnen de moeder en haar echtgenoot gezamenlijk ter gelegenheid van de ontkenning verklaren welke van hun beider geslachtsnamen het kind zal hebben. Van de verklaring van de ouders wordt een akte van naamskeuze opgemaakt. Bij gebreke van een verklaring heeft het kind de geslachtsnaam van de vader.
+6.	Indien de moeder na de geboorte van het kind op grond van artikel 199, onderdeel b, het vaderschap van de overleden echtgenoot of geregistreerde partner ontkent of op grond van artikel 198, tweede lid, het moederschap van de overleden echtgenote of geregistreerde parnter ontkent en zij ten tijde van de geboorte en van de ontkenning is hertrouwd of een nieuw partnerschap heeft laten registreren, kunnen de moeder en haar echtgenoot of geregistreerde partner gezamenlijk ter gelegenheid van de ontkenning verklaren welke van hun beider geslachtsnamen het kind zal hebben. Van de verklaring van de ouders wordt een akte van naamskeuze opgemaakt. Bij gebreke van een verklaring heeft het kind de geslachtsnaam van de echtgenoot of geregistreerde partner.
 
 7.	Indien een kind op het tijdstip van het ontstaan van de familierechtelijke betrekking met beide ouders zestien jaar of ouder is, verklaart het zelf ten overstaan van de ambtenaar van de burgerlijke stand of van de notaris of, in geval van adoptie of gerechtelijke vaststelling van het vaderschap, ten overstaan van de rechter of het de geslachtsnaam van de ene of de andere ouder zal hebben. Van deze verklaring wordt melding gemaakt in de akte van erkenning of in de rechterlijke uitspraak inzake adoptie of gerechtelijke vaststelling van het vaderschap.
 
@@ -68,6 +68,8 @@ Artikel 5
 
 12.	De geslachtsnaam van kinderen geboren uit een huwelijk met een lid van het koninklijk huis wordt bij koninklijk besluit bepaald.
 
+13.	In het tweede, vijfde en zesde lid wordt onder «moeder» verstaan de vrouw uit wie het kind is geboren. In deze leden wordt met «de vader» van het kind en zijn «vaderschap» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren onderscheidenlijk haar moederschap.
+
 Artikel 6
 
 De geslachtsnaam wordt ten aanzien van een ieder dwingend bewezen door de akte van geboorte.
@@ -80,7 +82,7 @@ Artikel 7
 
 3.	Een wijziging of vaststelling van de geslachtsnaam door de Koning heeft geen invloed op de geslachtsnaam van de kinderen van de betrokken persoon die voor de datum van het besluit meerderjarig zijn geworden of die niet onder zijn gezag staan.
 
-4.	Een wijziging of vaststelling van de geslachtsnaam door de Koning blijft in stand niettegenstaande een latere erkenning of gerechtelijke vaststelling van het vaderschap.
+4.	Een wijziging of vaststelling van de geslachtsnaam door de Koning blijft in stand niettegenstaande een latere erkenning of een gerechtelijke vaststelling van het ouderschap.
 
 5.	Bij algemene maatregel van bestuur worden regelen gesteld betreffende de gronden waarop de geslachtsnaamswijziging kan worden verleend, de wijze van indiening en behandeling van verzoeken als in het eerste en het tweede lid bedoeld en betreffende het voor wijziging van de geslachtsnaam verschuldigde recht.
 
@@ -258,7 +260,7 @@ Artikel 19a
 
 Artikel 19b
 
-Indien de plaats of de dag van de geboorte van het kind niet bekend is dan wel indien de naam, met inbegrip van de voornamen, van de moeder niet bekend is, wordt de geboorteakte ten aanzien van deze punten opgemaakt krachtens een bevel en overeenkomstig de aanwijzingen van het openbaar ministerie.
+Indien de plaats of de dag van de geboorte van het kind niet bekend is dan wel indien de naam, met inbegrip van de voornamen, van de moeder uit wie het kind is geboren niet bekend is, wordt de geboorteakte ten aanzien van deze punten opgemaakt krachtens een bevel en overeenkomstig de aanwijzingen van het openbaar ministerie.
 
 Artikel 19c
 
@@ -274,11 +276,11 @@ Artikel 19d
 
 Artikel 19e
 
-1.	Tot de aangifte van een geboorte is bevoegd de moeder van het kind.
+1.	Tot de aangifte van een geboorte is bevoegd de moeder uit wie het kind is geboren.
 
-2.	Tot de aangifte is verplicht de vader.
+2.	Tot de aangifte is verplicht de vader of de moeder uit wie het kind niet is geboren.
 
-3.	Wanneer de vader ontbreekt of verhinderd is de aangifte te doen, is tot aangifte verplicht:
+3.	Wanneer de persoon genoemd in het tweede lid ontbreekt of verhinderd is de aangifte te doen, is tot aangifte verplicht:
 	a.	ieder die bij het ter wereld komen van het kind tegenwoordig is geweest;
 	b.	de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks is geschied in een inrichting tot verpleging of verzorging bestemd, in een gevangenis of in een soortgelijke inrichting, het hoofd van die inrichting of een door hem bij onderhandse akte bijzonderlijk tot het doen van de aangifte aangewezen ondergeschikte.
 
@@ -292,7 +294,7 @@ Artikel 19e
 
 8.	Bij de aangifte kan de ambtenaar van de burgerlijke stand zich doen overleggen een door de arts of de verloskundige die bij het ter wereld komen van het kind tegenwoordig was, opgemaakte verklaring dat het kind uit de als moeder opgegeven persoon is geboren. Is het kind buiten de tegenwoordigheid van een arts of verloskundige ter wereld gekomen, dan kan hij zich een door een zodanige hulpverlener nadien opgemaakte verklaring doen overleggen.
 
-9.	Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het achtste lid of is in de verklaring vermeld dat de identiteit van de moeder onbekend is, dan is artikel 19b van toepassing.
+9.	Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het achtste lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is artikel 19b van toepassing.
 
 Artikel 19f
 
@@ -356,8 +358,8 @@ Afdeling 5. Latere vermeldingen
 
 Artikel 20
 
-1.	De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap, alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:
-	a.	een last tot wijziging van de voornamen of van de geslachtsnaam, een last tot wijziging van de vermelding van het geslacht, een adoptie, een herroeping van een adoptie, een vernietiging van een erkenning, een gerechtelijke vaststelling van het vaderschap, een gegrondverklaring van een ontkenning van het vaderschap of, of een vernietiging van zulk een uitspraak;
+1.	De ambtenaar van de burgerlijke stand voegt aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van akten van de burgerlijke stand en andere authentieke akten houdende naamskeuze, erkenning, ontkenning van het vaderschap of moederschap door de moeder, van besluiten houdende wijziging of vaststelling van namen, van bevestigingen van opties mede houdende vaststelling van namen en naturalisatiebesluiten mede houdende wijziging of vaststelling van namen alsmede van besluiten tot intrekking van zulke bevestigingen of besluiten, van de opgave van afwijkende namen die een persoon die meer dan één nationaliteit bezit, voert in overeenstemming met het recht van het land waarvan hij mede de nationaliteit bezit, van akten houdende beëindiging van een geregistreerd partnerschap, van akten van omzetting van een geregistreerd partnerschap,, alsmede van rechterlijke uitspraken waarvan de dagtekening ten minste drie maanden oud is en die inhouden:
+	a.	een last tot wijziging van de voornamen of van de geslachtsnaam, een last tot wijziging van de vermelding van het geslacht, een adoptie, een herroeping van een adoptie, een vernietiging van een erkenning, een gerechtelijke vaststelling van het ouderschap, een gegrondverklaring van een ontkenning van het vaderschap of moederschap of, of een vernietiging van zulk een uitspraak;
 	b.	de nietigverklaring van een huwelijk of van een geregistreerd partnerschap of de vernietiging van zulk een uitspraak tussen echtelieden of geregistreerde partners wier huwelijksakte onderscheidenlijk akte van een geregistreerd partnerschap, dan wel akte van omzetting van een geregistreerd partnerschap of huwelijk in de Nederlandse registers van de burgerlijke stand is opgenomen.
 
 2.	De ambtenaar van de burgerlijke stand voegt eveneens aan de onder hem berustende akten van de burgerlijke stand latere vermeldingen toe van in kracht van gewijsde gegane rechterlijke uitspraken die een echtscheiding of een ontbinding van een geregistreerd partnerschap, een ontbinding van een huwelijk na scheiding van tafel en bed of de vernietiging van zulk een uitspraak tussen echtelieden wier huwelijksakte, akte van registratie van een partnerschap of akte van omzetting van een geregistreerd partnerschap of huwelijk in de Nederlandse registers van de burgerlijke stand is opgenomen, inhouden.
@@ -444,9 +446,9 @@ Van de akten van de burgerlijke stand mogen slechts de bewaarders en het openbaa
 
 Artikel 23b
 
-1.	Een ieder is bevoegd zich door de ambtenaar die met de afgifte van afschriften en uittreksels van akten van de burgerlijke stand is belast, een uittreksel van een onder deze ambtenaar berustende akte van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een huwelijk in een registratie van een partnerschap, van omzetting van een registratie van een partnerschap in een huwelijk of van overlijden te doen afgeven. Het uittreksel bevat de bij algemene maatregel van bestuur te vermelden gegevens, waaruit de afstamming van de persoon of personen waarop de akte betrekking heeft, niet blijkt.
+1.	Een ieder is bevoegd zich door de ambtenaar die met de afgifte van afschriften en uittreksels van akten van de burgerlijke stand is belast, een uittreksel van een onder deze ambtenaar berustende akte van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een huwelijk in een registratie van een partnerschap, van omzetting van een registratie van een partnerschap in een huwelijk of van overlijden te doen afgeven. Het uittreksel bevat de bij algemene maatregel van bestuur te vermelden gegevens, waaruit de afstamming van de persoon of personen op wie de akte betrekking heeft, niet blijkt.
 
-2.	Van de in het eerste lid bedoelde akten alsmede van de akten van erkenning of ontkenning van het vaderschap door de moeder wordt een afschrift slechts afgegeven indien de verzoeker aantoont dat hij bij de verkrijging een gerechtvaardigd belang heeft. Van andere akten die de in het eerste lid bedoelde ambtenaar onder zijn berusting heeft, wordt steeds een afschrift afgegeven. Dit afschrift bevat de bij algemene maatregel van bestuur te vermelden gegevens.
+2.	Van de in het eerste lid bedoelde akten alsmede van de akten van erkenning of ontkenning van het vaderschap of moederschap door de moeder wordt een afschrift slechts afgegeven indien de verzoeker aantoont dat hij bij de verkrijging een gerechtvaardigd belang heeft. Van andere akten die de in het eerste lid bedoelde ambtenaar onder zijn berusting heeft, wordt steeds een afschrift afgegeven. Dit afschrift bevat de bij algemene maatregel van bestuur te vermelden gegevens.
 
 3.	Een verzoek om afgifte van een uittreksel of een afschrift dient op een bepaalde persoon of bepaalde personen betrekking te hebben.
 
@@ -868,9 +870,9 @@ Afdeling 4. De voltrekking van het huwelijk
 
 Artikel 58
 
-1.	Komt vast te staan dat op het tijdstip waarop de voltrekking van het huwelijk zal plaatsvinden meer dan zes maanden zullen zijn verstreken sinds de afgifte van een verklaring als bedoeld in artikel 44, eerste lid, onder k, dan doet de ambtenaar van de burgerlijke stand zich, alvorens tot de voltrekking van het huwelijk over te gaan, wederom een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.
+1.	Komt vast te staan dat op het tijdstip waarop de voltrekking van het huwelijk zal plaatsvinden meer dan zes maanden zullen zijn verstreken sinds de afgifte van een verklaring als bedoeld in artikel 44, eerste lid, onder k, dan doet de ambtenaar van de burgerlijke stand zich, alvorens tot de voltrekking van het huwelijk wordt overgegaan, wederom een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.
 
-2.	Indien de overlegging van een verklaring als bedoeld in artikel 44, eerste lid, onder k, op het tijdstip van de aangifte van het huwelijk niet werd vereist, doet de ambtenaar van de burgerlijke stand zich, alvorens tot voltrekking van het huwelijk over te gaan, alsnog een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.
+2.	Indien de overlegging van een verklaring als bedoeld in artikel 44, eerste lid, onder k, op het tijdstip van de aangifte van het huwelijk niet werd vereist, doet de ambtenaar van de burgerlijke stand zich, alvorens tot voltrekking van het huwelijk wordt overgegaan, alsnog een zodanige verklaring overleggen, tenzij zulks op grond van het derde lid niet vereist is.
 
 3.	De verklaring wordt opgesteld op verzoek van de aanstaande echtgenoot op wie zij betrekking heeft. Heeft deze geen woonplaats in Nederland, dan wordt zij opgesteld op verzoek van de andere aanstaande echtgenoot. De verklaring is niet vereist indien de aanstaande echtgenoten aannemelijk kunnen maken dat zij beiden buiten Nederland woonplaats hebben. De verklaring is evenmin vereist indien de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit, in Nederland rechtmatig verblijft op grond van artikel 8, onder b, d of e, van de Vreemdelingenwet 2000.
 
@@ -926,7 +928,7 @@ Afdeling 5. Nietigverklaring van een huwelijk
 Artikel 69
 
 1.	Voor zover hieronder niet anders is bepaald, kan op grond dat de echtgenoten niet de vereisten in zich verenigden om tezamen een huwelijk aan te gaan, de nietigverklaring van het huwelijk worden verzocht door:
-	a.	de bloedverwanten in de opgaande lijn van een der echtgenoten;
+	a.	de bloedverwanten in de rechte lijn van een der echtgenoten;
 	b.	ieder der echtgenoten;
 	c.	alle overige personen, die daarbij een onmiddellijk rechtsbelang hebben, echter deze alleen na de ontbinding van het huwelijk;
 	d.	het openbaar ministerie, echter alleen zolang het huwelijk niet is ontbonden.
@@ -1528,7 +1530,7 @@ Artikel 141
 
 5.	Het vierde lid is van overeenkomstige toepassing, indien een echtgenoot op eigen naam een onderneming uitoefent.
 
-6.	De vordering tot verrekening, bedoeld in het eerste lid, verjaart niet eerder dan drie jaren na de beëindiging van het huwelijk dan wel het onherroepelijk worden van de beschikking tot scheiding van tafel en bed. Deze termijn kan niet worden verkort.
+6.	De rechtsvordering tot verrekening, bedoeld in het eerste lid, verjaart niet eerder dan drie jaren na de beëindiging van het huwelijk dan wel na de inschrijving van de beschikking tot scheiding van tafel en bed in het register, bedoeld in artikel 116. Deze termijn kan niet worden verkort.
 
 Paragraaf 3. Finale verrekenbedingen
 
@@ -1868,18 +1870,25 @@ Een kind, zijn ouders en hun bloedverwanten staan in familierechtelijke betrekki
 
 Artikel 198
 
-Moeder van een kind is de vrouw uit wie het kind is geboren of die het kind heeft geadopteerd.
+1.	Moeder van een kind is de vrouw:
+	a.	uit wie het kind is geboren;
+	b.	die op het tijdstip van de geboorte van het kind is gehuwd of door een geregistreerd partnerschap is verbonden met de vrouw uit wie het kind is geboren, indien dit kind is verwekt door kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, sub 1, van de Wet donorgegevens kunstmatige bevruchting en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring is overgelegd, waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, tenzij de laatste zin van dit onderdeel of de eerste zin van artikel 199, onder b, geldt. De verklaring dient bij de aangifte van de geboorte te worden overgelegd aan de ambtenaar van de burgerlijke stand en werkt terug tot aan de geboorte van het kind. Indien het huwelijk of geregistreerd partnerschap na de kunstmatige donorbevruchting en voor de geboorte van het kind is ontbonden door de dood van de echtgenote of geregistreerde partner van de vrouw uit wie het kind is geboren, is de overleden echtgenote of geregistreerde partner eveneens moeder van het kind als de voornoemde verklaring wordt overgelegd bij de aangifte van de geboorte van het kind, zelfs indien de vrouw uit wie het kind is geboren was hertrouwd of een nieuw partnerschap had laten registreren;
+	c.	die het kind heeft erkend;
+	d.	wier ouderschap gerechtelijk is vastgesteld; of
+	e.	die het kind heeft geadopteerd.
+
+2.	De vrouw uit wie het kind is geboren kan, indien zij op het tijdstip van de kunstmatige donorbevruchting was gescheiden van tafel en bed of zij en haar echtgenote of geregistreerde partner sedert dat tijdstip gescheiden hebben geleefd, binnen een jaar na de geboorte van het kind ten overstaan van de ambtenaar van de burgerlijke stand verklaren dat haar overleden echtgenote of geregistreerde partner niet de moeder is van het kind, bedoeld in het eerste lid, onder b, van welke verklaring een akte wordt opgemaakt; was de vrouw uit wie het kind is geboren op het tijdstip van de geboorte hertrouwd of had zij een nieuw partnerschap laten registreren dan is in dat geval de huidige echtgenoot of geregistreerd partner de ouder van het kind.
 
 Artikel 199
 
 Vader van een kind is de man:
-	a.	die op het tijdstip van de geboorte van het kind met de vrouw uit wie het kind is geboren, is gehuwd, tenzij onderdeel b geldt;
-	b.	wiens huwelijk met de vrouw uit wie het kind is geboren, binnen 306 dagen voor de geboorte van het kind door zijn dood is ontbonden, zelfs indien de moeder was hertrouwd; indien echter de vrouw sedert de 306de dag voor de geboorte van het kind was gescheiden van tafel en bed of zij en haar echtgenoot sedert dat tijdstip gescheiden hebben geleefd, kan de vrouw binnen een jaar na de geboorte van het kind ten overstaan van de ambtenaar van de burgerlijke stand verklaren dat haar overleden echtgenoot niet de vader is van het kind, van welke verklaring een akte wordt opgemaakt; was de moeder op het tijdstip van de geboorte hertrouwd dan is in dat geval de huidige echtgenoot de vader van het kind;
+	a.	die op het tijdstip van de geboorte van het kind met de vrouw uit wie het kind is geboren, is gehuwd of een geregistreerd partnerschap is aangegaan, tenzij onderdeel b of de slotzin van artikel 198, eerste lid, onder b, geldt;
+	b.	wiens huwelijk of geregistreerd partnerschap met de vrouw uit wie het kind is geboren, binnen 306 dagen voor de geboorte van het kind door zijn dood is ontbonden, zelfs indien de moeder was hertrouwd of een nieuw partnerschap had laten registreren; indien echter de vrouw sedert de 306de dag voor de geboorte van het kind was gescheiden van tafel en bed of zij en haar echtgenoot of geregistreerde partner sedert dat tijdstip gescheiden hebben geleefd, kan de vrouw binnen een jaar na de geboorte van het kind ten overstaan van de ambtenaar van de burgerlijke stand verklaren dat haar overleden echtgenoot of geregistreerde partner niet de vader is van het kind, van welke verklaring een akte wordt opgemaakt; was de moeder op het tijdstip van de geboorte hertrouwd of had zij een nieuw partnerschap laten registreren dan is in dat geval de huidige echtgenoot of geregistreerde partner de vader of, in het geval, genoemd in artikel 198, eerste lid, onder b, de huidige echtgenote of geregistreerde partner de moeder van het kind;
 	c.	die het kind heeft erkend;
 	d.	wiens vaderschap gerechtelijk is vastgesteld; of
 	e.	die het kind heeft geadopteerd.
 
-Afdeling 2. Ontkenning van het door huwelijk ontstane vaderschap
+Afdeling 2. Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane vaderschap
 
 Artikel 200
 
@@ -1887,7 +1896,7 @@ Artikel 200
 	a.	door de vader of de moeder van het kind;
 	b.	door het kind zelf.
 
-2.	De vader of moeder kan het in artikel 199, onder a en b, bedoelde vaderschap niet ontkennen, indien de man vóór het huwelijk heeft kennis gedragen van de zwangerschap.
+2.	De vader of moeder kan het in artikel 199, onder a en b, bedoelde vaderschap niet ontkennen, indien de man vóór het huwelijk of geregistreerd partnerschap heeft kennis gedragen van de zwangerschap.
 
 3.	De vader of moeder kan het in artikel 199, onder a en b, bedoelde vaderschap evenmin ontkennen, indien de man heeft ingestemd met een daad die de verwekking van het kind tot gevolg kan hebben gehad.
 
@@ -1899,13 +1908,13 @@ Artikel 200
 
 Artikel 201
 
-1.	Overlijdt de vader of de moeder voor de afloop van de in artikel 200, vijfde lid, gestelde termijn, dan kan een afstammeling van deze echtgenoot in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze echtgenoot, de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van de verzoeker is gekomen.
+1.	Overlijdt de vader of de moeder voor de afloop van de in artikel 200, vijfde lid, gestelde termijn, dan kan een afstammeling van deze echtgenoot of geregistreerde partner in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze echtgenoot of geregistreerde partner, de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van de verzoeker is gekomen.
 
 2.	Overlijdt het kind voor de afloop van de in artikel 200, zesde lid, gestelde termijn, dan kan een afstammeling in de eerste graad van het kind de rechtbank verzoeken de ontkenning van het vaderschap gegrond te verklaren. Indien het kind meerderjarig was ten tijde van het overlijden, wordt het verzoek gedaan binnen een jaar na de dag van overlijden of binnen een jaar nadat het overlijden ter kennis van de verzoeker is gekomen. Overleed het kind gedurende de minderjarigheid, dan dient het verzoek te worden gedaan binnen een jaar nadat het kind, in leven zijnde, zelfstandig het verzoek had kunnen doen, dan wel, indien het overlijden op een later tijdstip ter kennis is gekomen van de verzoeker binnen een jaar na die kennisneming.
 
 Artikel 202
 
-1.	Nadat de beschikking houdende gegrondverklaring van een ontkenning van een door huwelijk ontstaan vaderschap in kracht van gewijsde is gegaan, wordt het door huwelijk ontstane vaderschap geacht nimmer gevolg te hebben gehad.
+1.	Nadat de beschikking houdende gegrondverklaring van een ontkenning van een door huwelijk of geregistreerd partnerschap ontstaan vaderschap in kracht van gewijsde is gegaan, wordt het door huwelijk of geregistreerd partnerschap ontstane vaderschap geacht nimmer gevolg te hebben gehad.
 
 2.	Te goeder trouw door derden verkregen rechten worden hierdoor nochtans niet geschaad.
 
@@ -1913,7 +1922,24 @@ Artikel 202
 
 Afdeling 2a. Ontkenning van het door huwelijk of geregistreerd partnerschap ontstane moederschap
 
-[Dit onderdeel is nog niet inwerking getreden]
+Artikel 202a
+
+1.	Het in artikel 198, eerste lid, onder b, bedoelde moederschap kan, op de grond dat de moeder niet de biologische moeder van het kind is, worden ontkend:
+	a.	door de moeder, bedoeld in artikel 198, eerste lid, onder a;
+	b.	door de moeder, bedoeld in artikel 198, eerste lid, onder b;
+	c.	door het kind zelf.
+
+2.	De moeder, bedoeld in artikel 198, eerste lid, onder a of onder b, kan het in artikel 198, eerste lid, onder b, bedoelde moederschap niet ontkennen, indien de moeder, bedoeld in het eerste lid, onder b, vóór het huwelijk of geregistreerd partnerschap heeft kennis gedragen van de zwangerschap of heeft ingestemd met de kunstmatige donorbevruchting, bedoeld in artikel 198, eerste lid, onder b.
+
+3.	Het verzoek tot gegrondverklaring van de ontkenning wordt door de moeder, bedoeld in artikel 198, eerste lid, onder a of onder b, bij de rechtbank ingediend binnen een jaar na de geboorte van het kind.
+
+4.	Het verzoek tot gegrondverklaring van de ontkenning wordt door het kind bij de rechtbank ingediend uiterlijk binnen drie jaren nadat het kind meerderjarig is geworden.
+
+Artikel 202b
+
+1.	Overlijdt de moeder, bedoeld in artikel 198, eerste lid, onder a of onder b, voor de afloop van de in artikel 202a, derde lid, gestelde termijn, dan kan een afstammeling van deze moeder in de eerste graad of, bij gebreke van zodanige afstammeling, een ouder van deze moeder, de rechtbank verzoeken de ontkenning van het moederschap gegrond te verklaren. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of nadat het overlijden ter kennis van verzoeker is gekomen.
+
+2.	Op de ontkenning van het moederschap zijn de artikelen 201, tweede lid, en 202 van overeenkomstige toepassing.
 
 Afdeling 3. Erkenning
 
@@ -1928,18 +1954,21 @@ Artikel 203
 Artikel 204
 
 1.	De erkenning is nietig, indien zij is gedaan:
-	a.	door een man die krachtens artikel 41 geen huwelijk met de moeder mag sluiten;
+	a.	door een persoon die krachtens artikel 41 geen huwelijk met de moeder mag sluiten of krachtens artikel 80a, zesde lid, geen geregistreerd partnerschap met de moeder mag aangaan;
 	b.	door een minderjarige die de leeftijd van zestien jaren nog niet heeft bereikt;
-	c.	indien het kind de leeftijd van zestien jaar nog niet heeft bereikt, zonder voorafgaande schriftelijke toestemming van de moeder;
+	c.	indien het kind de leeftijd van zestien jaar nog niet heeft bereikt, zonder voorafgaande schriftelijke toestemming van de moeder of de vader;
 	d.	zonder voorafgaande schriftelijke toestemming van het kind van twaalf jaren of ouder;
-	e.	door een op het tijdstip van de erkenning met een andere vrouw gehuwd man, tenzij de rechtbank heeft vastgesteld dat aannemelijk is dat tussen de man en de moeder een band bestaat of heeft bestaan die in voldoende mate met een huwelijk op één lijn valt te stellen of dat tussen de man en het kind een nauwe persoonlijke betrekking bestaat;
-	f.	terwijl er twee ouders zijn.
+	e.	terwijl er twee ouders zijn.
 
 2.	De in het vorige lid onder c en d vereiste toestemming kan ook geschieden ter gelegenheid van het opmaken van de akte van erkenning.
 
-3.	De toestemming van de moeder wier kind de leeftijd van zestien jaren nog niet heeft bereikt, dan wel de toestemming van het kind van twaalf jaren of ouder, kan op verzoek van de man die het kind wil erkennen, door de toestemming van de rechtbank worden vervangen, indien de erkenning de belangen van de moeder bij een ongestoorde verhouding met het kind of de belangen van het kind niet zou schaden, en de man de verwekker is van het kind.
+3.	De toestemming van de moeder wier kind de leeftijd van zestien jaren nog niet heeft bereikt, dan wel de toestemming van het kind van twaalf jaren of ouder, kan op verzoek van de persoon die het kind wil erkennen, door de toestemming van de rechtbank worden vervangen, tenzij dit de belangen van de moeder bij een ongestoorde verhouding met het kind schaadt of een evenwichtige sociaalpsychologische en emotionele ontwikkeling van het kind in het gedrang komt, mits deze persoon:
+	a.	de verwekker van het kind is; of
+	b.	de biologische vader van het kind, die niet de verwekker is en in een nauwe persoonlijke betrekking staat tot het kind.
 
-4.	Een man die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, mag slechts erkennen nadat daartoe toestemming is verkregen van de kantonrechter.
+4.	De toestemming van de moeder wier kind de leeftijd van zestien jaren nog niet heeft bereikt, dan wel de toestemming van het kind van twaalf jaren of ouder, kan op verzoek van de persoon die als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, door de toestemming van de rechtbank worden vervangen als dit in het belang is van het kind.
+
+5.	Een persoon die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, mag slechts erkennen nadat daartoe toestemming is verkregen van de kantonrechter.
 
 Artikel 205
 
@@ -1956,6 +1985,15 @@ Artikel 205
 
 5.	Voor het geval de erkenner of de moeder overlijdt voor de afloop van de in het derde lid gestelde termijn, is artikel 201, eerste lid, van overeenkomstige toepassing. Voor het geval het kind overlijdt voor de afloop van de in het vierde lid gestelde termijn, is artikel 201, tweede lid, van overeenkomstige toepassing.
 
+Artikel 205a
+
+1.	Een verzoek tot vernietiging van de door de moeder gedane erkenning kan, op de grond dat de moeder niet de biologische moeder van het kind is, bij de rechtbank worden ingediend:
+	a.	door het kind zelf, tenzij de erkenning tijdens zijn meerderjarigheid heeft plaatsgevonden;
+	b.	door de erkenner, indien zij door bedreiging, dwaling, bedrog of, tijdens haar minderjarigheid, door misbruik van omstandigheden daartoe is bewogen;
+	c.	door de andere moeder, indien zij door bedreiging, dwaling, bedrog of, tijdens haar minderjarigheid, door misbruik van omstandigheden bewogen is toestemming tot de erkenning te geven.
+
+2.	Op de vernietiging van de erkenning is artikel 205, tweede tot en met vijfde lid, van overeenkomstige toepassing.
+
 Artikel 206
 
 1.	Nadat de beschikking houdende vernietiging van de erkenning in kracht van gewijsde is gegaan, wordt de erkenning geacht nimmer gevolg te hebben gehad.
@@ -1964,28 +2002,28 @@ Artikel 206
 
 3.	Door de vernietiging ontstaat geen vordering tot teruggave van de kosten van verzorging en opvoeding of van levensonderhoud en studie noch tot teruggave van het krachtens vruchtgenot genotene. Voorts ontstaat geen verplichting tot teruggave van genoten vermogensrechtelijke voordelen die uit de erkenning zijn voortgevloeid, voor zover degene die hen heeft genoten ten tijde van het instellen van het verzoek daardoor niet was gebaat.
 
-Afdeling 4. Gerechtelijke vaststelling van het vaderschap
+Afdeling 4. Gerechtelijke vaststelling van het ouderschap
 
 Artikel 207
 
-1.	Het vaderschap van een man kan, ook indien deze is overleden, op de grond dat deze de verwekker is van het kind of op de grond dat de man als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, door de rechtbank worden vastgesteld op verzoek van:
+1.	Het ouderschap van een persoon kan, ook indien deze is overleden, op de grond dat deze de verwekker is van het kind of op de grond dat deze als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, door de rechtbank worden vastgesteld op verzoek van:
 	a.	de moeder, tenzij het kind de leeftijd van zestien jaar heeft bereikt;
 	b.	het kind.
 
-2.	Vaststelling van het vaderschap kan niet geschieden, indien:
+2.	Vaststelling van het ouderschap kan niet geschieden, indien:
 	a.	het kind twee ouders heeft;
-	b.	tussen de man en de moeder van het kind krachtens artikel 41 geen huwelijk zou mogen worden gesloten; of
-	c.	de in de aanhef van het eerste lid bedoelde man een minderjarige is die de leeftijd van zestien jaren nog niet heeft bereikt, tenzij hij voordat hij deze leeftijd heeft bereikt is overleden.
+	b.	tussen de in de aanhef van het eerste lid bedoelde persoon en de moeder van het kind krachtens artikel 41 geen huwelijk zou mogen worden gesloten of krachtens artikel 80a, zesde lid, geen partnerschap zou mogen worden geregistreerd;
+	c.	de in de aanhef van het eerste lid bedoelde persoon een minderjarige is die de leeftijd van zestien jaren nog niet heeft bereikt, tenzij hij voordat hij deze leeftijd heeft bereikt is overleden.
 
 3.	Het verzoek wordt door de moeder ingediend binnen vijf jaren na de geboorte van het kind of, in geval van onbekendheid met de identiteit van de vermoedelijke verwekker dan wel van onbekendheid met zijn verblijfplaats, binnen vijf jaren na de dag waarop de identiteit en de verblijfplaats aan de moeder bekend zijn geworden.
 
-4.	Overlijdt het kind voordat vaststelling van het vaderschap heeft kunnen plaatsvinden, dan kan een afstammeling van het kind in de eerste graad de vaststelling van het vaderschap aan de rechtbank verzoeken, mits de man bedoeld in het eerste lid, nog in leven is. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of binnen een jaar nadat het overlijden ter kennis van de verzoeker is gekomen.
+4.	Overlijdt het kind voordat vaststelling van het ouderschap heeft kunnen plaatsvinden, dan kan een afstammeling van het kind in de eerste graad de vaststelling van het ouderschap aan de rechtbank verzoeken, mits de in de aanhef van het eerste lid bedoelde persoon, nog in leven is. Het verzoek wordt gedaan binnen een jaar na de dag van overlijden of binnen een jaar nadat het overlijden ter kennis van de verzoeker is gekomen.
 
-5.	De vaststelling van het vaderschap, mits de beschikking daartoe in kracht van gewijsde is gegaan, werkt terug tot het moment van de geboorte van het kind. Te goeder trouw door derden verkregen rechten worden hierdoor nochtans niet geschaad. Voorts ontstaat geen verplichting tot teruggave van vermogensrechtelijke voordelen, voor zover degene die hen heeft genoten ten tijde van het doen van het verzoek daardoor niet was gebaat.
+5.	De vaststelling van het ouderschap, mits de beschikking daartoe in kracht van gewijsde is gegaan, werkt terug tot het moment van de geboorte van het kind. Te goeder trouw door derden verkregen rechten worden hierdoor nochtans niet geschaad. Voorts ontstaat geen verplichting tot teruggave van vermogensrechtelijke voordelen, voor zover degene die hen heeft genoten ten tijde van het doen van het verzoek daardoor niet was gebaat.
 
 Artikel 208
 
-Bij de uitspraak waarbij het vaderschap wordt vastgesteld, kan de rechter op een daartoe strekkend verzoek ten behoeve van het kind een bijdrage toekennen in de kosten van verzorging en opvoeding als bedoeld in artikel 404 of in de kosten van levensonderhoud en studie als bedoeld in artikel 395a.
+Bij de uitspraak waarbij het ouderschap wordt vastgesteld, kan de rechter op een daartoe strekkend verzoek ten behoeve van het kind een bijdrage toekennen in de kosten van verzorging en opvoeding als bedoeld in artikel 404 of in de kosten van levensonderhoud en studie als bedoeld in artikel 395a.
 
 Afdeling 5. Inroeping of betwisting van staat
 
@@ -2071,13 +2109,13 @@ Titel 12. Adoptie
 
 Artikel 227
 
-1.	Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens artikel 41 geen huwelijk met elkaar zouden mogen aangaan.
+1.	Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens artikel 41 geen huwelijk zouden mogen aangaan of krachtens artikel 80a, zesde lid, geen partnerschap zouden mogen aangaan.
 
 2.	Het verzoek door twee personen tezamen kan slechts worden gedaan, indien zij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met elkaar hebben samengeleefd. Het verzoek door de adoptant die echtgenoot, geregistreerde partner of andere levensgezel van de ouder is, kan slechts worden gedaan, indien hij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met die ouder heeft samengeleefd. De in de tweede zin bedoelde voorwaarde geldt evenwel niet indien het kind is of wordt geboren binnen de relatie van de adoptant en die ouder.
 
 3.	Het verzoek kan alleen worden toegewezen, indien de adoptie in het kennelijk belang van het kind is, op het tijdstip van het verzoek tot adoptie vaststaat en voor de toekomst redelijkerwijs te voorzien is dat het kind niets meer van zijn ouder of ouders in de hoedanigheid van ouder te verwachten heeft, en aan de voorwaarden, genoemd in artikel 228, wordt voldaan.
 
-4.	Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder en het kind door en tengevolge van kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting is verwekt en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring wordt overgelegd, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is, of niet is voldaan aan de voorwaarden, genoemd in artikel 228.
+4.	Indien het kind is of wordt geboren binnen de relatie van de adoptant en de ouder, en het kind door en tengevolge van kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting is verwekt en een door de stichting, bedoeld in die wet, ter bevestiging hiervan afgegeven verklaring wordt overgelegd waaruit blijkt dat de identiteit van de donor aan de vrouw bij wie de kunstmatige donorbevruchting heeft plaatsgevonden onbekend is, wordt het verzoek toegewezen, tenzij de adoptie kennelijk niet in het belang van het kind is of niet is voldaan aan de voorwaarden, genoemd in artikel 228.
 
 5.	Zijn de voornamen van het kind niet bekend, dan stelt de rechter, nadat hij de adoptant of adoptanten en het kind, indien dat twaalf jaren of ouder is, heeft gehoord, bij de adoptiebeschikking tevens een of meer voornamen vast.
 
@@ -2109,7 +2147,9 @@ Artikel 229
 
 3.	In afwijking van het tweede lid blijft de familierechtelijke betrekking tussen de geadopteerde en zijn ouder en diens bloedverwanten bestaan, indien de echtgenoot, geregistreerde partner of andere levensgezel van die ouder het kind adopteert.
 
-4.	Indien het kind op het tijdstip van de adoptie omgang heeft met een ouder ten aanzien van wie de familierechtelijke betrekking ophoudt te bestaan, kan de rechtbank bepalen dat zij gerechtigd blijven tot omgang met elkaar. De artikelen 377a, tweede en derde lid, 377e en 377g zijn van overeenkomstige toepassing.
+4.	De adoptiefouders die niet met elkaar zijn gehuwd of door een geregistreerd partnerschap zijn verbonden oefenen door adoptie het gezag over de geadopteerde gezamenlijk uit.
+
+5.	Indien het kind op het tijdstip van de adoptie omgang heeft met een ouder ten aanzien van wie de familierechtelijke betrekking ophoudt te bestaan, kan de rechtbank bepalen dat zij gerechtigd blijven tot omgang met elkaar. De artikelen 377a, tweede en derde lid, 377e en 377g zijn van overeenkomstige toepassing.
 
 Artikel 230
 
@@ -2241,7 +2281,9 @@ Afdeling 4. Registers betreffende het over minderjarigen uitgeoefende gezag
 
 Artikel 244
 
-Bij de rechtbanken berusten openbare registers, waarin aantekening gehouden wordt van rechtsfeiten die op het over minderjarigen uitgeoefende gezag betrekking hebben. Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden, en op welke wijze deze aantekening geschiedt.
+Bij de rechtbanken, dan wel op een andere bij algemene maatregel van bestuur aan te wijzen plaats of plaatsen, berusten openbare registers, waarin aantekening gehouden wordt van rechtsfeiten die op het over minderjarigen uitgeoefende gezag betrekking hebben.
+
+Bij algemene maatregel van bestuur wordt bepaald welke rechtsfeiten aangetekend worden, op welke wijze deze aantekening geschiedt en op welke wijze verstrekking van aangetekende gegevens plaatsvindt.
 
 Titel 14. Het gezag over minderjarige kinderen
 
@@ -2275,13 +2317,13 @@ Artikel 247
 
 3.	Het ouderlijk gezag omvat mede de verplichting van de ouder om de ontwikkeling van de banden van zijn kind met de andere ouder te bevorderen.
 
-4.	Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na het beëindigen van het geregistreerd partnerschap, of na het beëindigen van de samenleving indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.
+4.	Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.
 
-5.	Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, het beëindigen van het geregistreerd partnerschap, of het beëindigen van de samenleving indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan.
+5.	Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, de ontbinding van het geregistreerd partnerschap anders dan door de dood, of het beëindigen van de samenleving indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan.
 
 Artikel 247a
 
-Indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in artikel 815, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering.
+Indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering.
 
 Artikel 248
 
@@ -2345,14 +2387,14 @@ Artikel 253a
 1.	In geval van gezamenlijke uitoefening van het gezag kunnen geschillen hieromtrent op verzoek van de ouders of van een van hen aan de rechtbank worden voorgelegd. De rechtbank neemt een zodanige beslissing als haar in het belang van het kind wenselijk voorkomt.
 
 2.	De rechtbank kan eveneens op verzoek van de ouders of een van hen een regeling vaststellen inzake de uitoefening van het ouderlijk gezag. Deze regeling kan omvatten:
-	a.	een toedeling aan ieder der ouders van de zorg- en opvoedingstaken, alsmede en uitsluitend indien het belang van het kind dit vereist, een tijdelijk verbod aan een ouder om met het kind contact te hebben;
+	a.	een toedeling aan ieder der ouders van de zorg- en opvoedingstaken, alsmede met overeenkomstige toepassing van artikel 377a, derde lid, een tijdelijk verbod aan een ouder om met het kind contact te hebben;
 	b.	de beslissing bij welke ouder het kind zijn hoofdverblijfplaats heeft;
 	c.	de wijze waarop informatie omtrent gewichtige aangelegenheden met betrekking tot de persoon en het vermogen van het kind wordt verschaft aan de ouder bij wie het kind niet zijn hoofdverblijfplaats heeft dan wel de wijze waarop deze ouder wordt geraadpleegd;
 	d.	de wijze waarop informatie door derden overeenkomstig artikel 377c, eerste en tweede lid, wordt verschaft.
 
 3.	Indien op de ouders de verplichting van artikel 247a rust en zij daaraan niet hebben voldaan, houdt de rechter de beslissing op een in het tweede lid bedoeld verzoek ambtshalve aan, totdat aan die verplichting is voldaan. Aanhouding blijft achterwege indien het belang van het kind dit vergt.
 
-4.	De artikelen 377a, vierde lid, 377e en 377g zijn van overeenkomstige toepassing. Daar waar in deze bepalingen gesproken wordt over omgang of een omgangsregeling wordt in plaats daarvan gelezen: een verdeling van de zorg- en opvoedingstaken.
+4.	De artikelen 377e en 377g zijn van overeenkomstige toepassing. Daar waar in deze bepalingen gesproken wordt over omgang of een omgangsregeling wordt in plaats daarvan gelezen: een verdeling van de zorg- en opvoedingstaken.
 
 5.	De rechtbank beproeft alvorens te beslissen op een verzoek als in het eerste of tweede lid bedoeld, een vergelijk tussen de ouders en kan desverzocht en ook ambtshalve, zulks indien geen vergelijk tot stand komt en het belang van het kind zich daartegen niet verzet, een door de wet toegelaten dwangmiddel opleggen, dan wel bepalen dat de beschikking of onderdelen daarvan met toepassing van artikel 812, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering ten uitvoer kunnen worden gelegd.
 
@@ -2370,7 +2412,7 @@ Artikel 253aa
 
 Artikel 253b
 
-1.	Indien ten aanzien van een kind alleen het moederschap vaststaat of indien de ouders van een kind niet met elkaar gehuwd zijn dan wel gehuwd zijn geweest en zij het gezag niet gezamenlijk uitoefenen, oefent de moeder van rechtswege het gezag over het kind alleen uit, tenzij zij bij haar bevalling onbevoegd tot het gezag was.
+1.	Indien ten aanzien van een kind alleen het moederschap vaststaat van de vrouw uit wie het kind is geboren of indien de ouders van een kind niet met elkaar gehuwd zijn dan wel gehuwd zijn geweest en zij het gezag niet gezamenlijk uitoefenen, oefent de moeder uit wie het kind is geboren van rechtswege het gezag over het kind alleen uit, tenzij zij bij haar bevalling onbevoegd tot het gezag was.
 
 2.	De in het eerste lid bedoelde moeder die ten tijde van haar bevalling onbevoegd was tot het gezag, verkrijgt dit van rechtswege op het tijdstip waarop zij daartoe bevoegd wordt, tenzij op dat tijdstip een ander met het gezag is belast.
 
@@ -2382,21 +2424,21 @@ Artikel 253b
 
 Artikel 253c
 
-1.	De tot het gezag bevoegde vader van het kind, die nimmer het gezag gezamenlijk met de moeder heeft uitgeoefend, kan de rechtbank verzoeken de ouders met het gezamenlijk gezag dan wel hem alleen met het gezag over het kind te belasten.
+1.	De tot het gezag bevoegde ouder van het kind, die nimmer het gezag gezamenlijk met de moeder uit wie het kind is geboren heeft uitgeoefend, kan de rechtbank verzoeken de ouders met het gezamenlijk gezag dan wel hem alleen met het gezag over het kind te belasten.
 
 2.	Indien het verzoek ertoe strekt de ouders met het gezamenlijk gezag te belasten en de andere ouder met gezamenlijk gezag niet instemt, wordt het verzoek slechts afgewezen indien:
 	a.	er een onaanvaardbaar risico is dat het kind klem of verloren zou raken tussen de ouders en niet te verwachten is dat hierin binnen afzienbare tijd voldoende verbetering zou komen, of
 	b.	afwijzing anderszins in het belang van het kind noodzakelijk is.
 
-3.	Wanneer de andere ouder het gezag over het kind uitoefent, wordt het verzoek om de vader alleen met het gezag te belasten slechts ingewilligd, indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
+3.	Wanneer de andere ouder het gezag over het kind uitoefent, wordt het verzoek om de tot het gezag bevoegde ouder, bedoeld in het eerste lid, alleen met het gezag te belasten slechts ingewilligd, indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
 
-4.	Wanneer niet in het gezag is voorzien of wanneer een voogd het gezag uitoefent, wordt het verzoek om de vader alleen met het gezag te belasten slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
+4.	Wanneer niet in het gezag is voorzien of wanneer een voogd het gezag uitoefent, wordt het verzoek om de tot het gezag bevoegde ouder, bedoeld in het eerste lid, alleen met het gezag te belasten slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
-5.	Een verzoek om de ouders met het gezamenlijk gezag te belasten als bedoeld in het eerste lid, kan ook door de moeder worden gedaan.
+5.	Een verzoek om de ouders met het gezamenlijk gezag te belasten als bedoeld in het eerste lid, kan ook door de moeder uit wie het kind is geboren worden gedaan.
 
 Artikel 253d
 
-1.	Indien de voorziening in het gezag over een kind als bedoeld in artikel 253b, eerste lid, van dit boek komt te ontbreken, kunnen zowel zijn moeder als zijn vader dan wel beiden voor zover zij tot het gezag bevoegd zijn - de rechtbank verzoeken met het gezag onderscheidenlijk gezamenlijk gezag te worden belast.
+1.	Indien de voorziening in het gezag over een kind, bedoeld in artikel 253b, eerste lid, komt te ontbreken, kunnen beide ouders voor zover zij tot het gezag bevoegd zijn – de rechtbank verzoeken met het gezag onderscheidenlijk gezamenlijk gezag te worden belast.
 
 2.	Het in het eerste lid bedoelde verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
 
@@ -2426,7 +2468,7 @@ Artikel 253h
 
 1.	Indien na het overlijden van één der ouders een voogd is benoemd, kan de rechter deze beslissing te allen tijde in dier voege wijzigen, dat de overlevende ouder mits deze daartoe bevoegd is, alsnog met het gezag wordt belast.
 
-2.	Zij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+2.	Hij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
 
 3.	Wanneer de andere ouder een voogd had aangewezen overeenkomstig artikel 292 van dit boek en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.
 
@@ -2487,7 +2529,7 @@ Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door 
 
 Artikel 253n
 
-1.	Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de artikelen 251a, eerste lid, 252, eerste lid, 253q, vijfde lid, of 277, eerste lid, beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.
+1.	Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de artikelen 251, tweede lid, 252, eerste lid, 253q, vijfde lid, of 277, eerste lid, beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.
 
 2.	Het eerste en derde lid van artikel 251a zijn van overeenkomstige toepassing.
 
@@ -2597,6 +2639,10 @@ Artikel 253y
 1.	Het gezamenlijk gezag, bedoeld in de artikelen 253sa en 253t, eindigt op de dag waarop in kracht van gewijsde is gegaan de beschikking waarbij aan de ouders gezamenlijk gezag is toegekend of het gezamenlijk gezag van de ouder en de ander is beëindigd.
 
 2.	Is de beschikking, bedoeld in het eerste lid, uitvoerbaar bij voorraad verklaard, dan eindigt het gezamenlijk gezag van de ouder en de ander daags nadat de beschikking is verstrekt of verzonden.
+
+Afdeling 3B. Maatregel van opgroeiondersteuning
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Afdeling 4. Ondertoezichtstelling van minderjarigen
 
@@ -2933,11 +2979,13 @@ Artikel 291a
 
 Artikel 292
 
-1.	Een ouder kan bij uiterste wilsbeschikking bepalen welke persoon dan wel welke twee personen na zijn dood voortaan als voogd onderscheidenlijk als gezamenlijke voogden het gezag over zijn kinderen zal uitoefenen.
+1.	Een ouder kan bij uiterste wilsbeschikking of door hiervan aantekening te laten opnemen in het register, bedoeld in artikel 244, bepalen welke persoon dan wel welke twee personen na zijn dood voortaan als voogd onderscheidenlijk als gezamenlijke voogden het gezag over zijn kinderen zullen uitoefenen.
 
 2.	Hij kan geen rechtspersoon als voogd aanwijzen.
 
-3.	Hebben beide ouders van deze bevoegdheid gebruik gemaakt, en sterven zij, zonder dat men kan weten wie het eerst overleden is, dan bepaalt de rechtbank ambtshalve wiens beschikking gevolg heeft.
+3.	Hebben beide ouders van deze bevoegdheid gebruik gemaakt, en sterven zij, zonder dat men kan weten wie het eerst overleden is, dan bepaalt de rechtbank ambtshalve wiens beschikking of aantekening gevolg heeft.
+
+4.	Heeft een ouder bij beschikking en bij aantekening verschillende voogden aangewezen, dan heeft de laatst gedane aanwijzing gevolg.
 
 Artikel 293
 
@@ -3005,7 +3053,7 @@ Artikel 301
 
 1.	De ambtenaar van de burgerlijke stand geeft de rechtbank onverwijld kennis:
 	a.	van het overlijden van ieder die minderjarige kinderen achterlaat;
-	b.	van de aangifte van geboorte van ieder kind, waarover de moeder niet van rechtswege het gezag uitoefent.
+	b.	van de aangifte van geboorte van ieder kind, over wie de moeder uit wie het kind is geboren niet van rechtswege het gezag uitoefent.
 
 2.	Indien het huwelijk van de overledene die minderjarige kinderen nalaat, gerechtelijk was ontbonden, of de overledene van tafel en bed gescheiden was, bericht de ambtenaar van de burgerlijke stand - zo de andere ouder nog leeft - deze omstandigheden tevens aan de rechtbank. De rechtbank zendt, indien deze een andere is, de door haar ontvangen kennisgeving door aan de rechtbank die over het verzoek tot ontbinding van het huwelijk of tot scheiding van tafel en bed heeft beslist.
 
@@ -3652,11 +3700,22 @@ Artikel 383
 
 6.	Zij van wie één of meer goederen onder een bewind als bedoeld in titel 19 staan, zij die in staat van faillissement verkeren en zij ten aanzien van wie de schuldsaneringsregeling natuurlijke personen van toepassing is, kunnen niet tot curator worden benoemd, tenzij het gaat om een persoon als bedoeld in het derde lid en het bewind over het vermogen van de onder curatele gestelde door de medecurator wordt gevoerd.
 
-7.	[Dit lid is nog niet in werking getreden.]
+7.	Een andere persoon dan in het derde lid bedoeld, die ten behoeve van drie of meer personen curator, bewindvoerder of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een curator uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 386, derde lid, en in artikel 15i van boek 3.
 
-8.	[Dit lid is nog niet in werking getreden.]
+8.	De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over:
+	a.	zijn verklaring dat hij aan de in het zevende lid bedoelde kwaliteitseisen en verplichtingen voldoet,
+	b.	een verslag van een accountant als bedoeld in artikel 393, eerste lid, van boek 2, van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en
+	c.	een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in artikel 10 van boek 2, dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig titel 9 van boek 2. Artikel 396, zevende lid, van boek 2 is ten aanzien van artikel 393 lid 1 niet van toepassing.
 
-9.	[Dit lid is nog niet in werking getreden.]
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.
+
+9.	Van de overlegging van de in het achtste lid bedoelde verklaring van de accountant zijn vrijgesteld:
+	a.	zij die een financiële onderneming zijn die ingevolge de Wet op het financieel toezicht het bedrijf van bank mogen uitoefenen,
+	b.	notarissen,
+	c.	gerechtsdeurwaarders,
+	d.	accountants.
+
+Bij algemene maatregel van bestuur kunnen de in de vorige zin bedoelde ondernemingen en beroepsbeoefenaren geheel of gedeeltelijk worden vrijgesteld van de in het zevende lid bedoelde eisen inzake de werving, scholing en bedrijfsvoering.
 
 10.	De rechter kan twee curatoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee curatoren, dan kan ieder van hen de taken die aan een curator toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de curatoren vaststellen. Bij verschil van mening tussen de curatoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in artikel 379, tweede lid, de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
 
@@ -3681,7 +3740,7 @@ Artikel 385
 
 Artikel 386
 
-1.	Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter.
+1.	Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator, bedoeld in artikel 383, zevende lid, legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 383, achtste lid. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter.
 
 2.	De curator draagt zorg voor een doelmatige belegging van het vermogen van de onder curatele gestelde, voor zover dit niet besteed behoort te worden voor een voldoende verzorging van de onder curatele gestelde.
 
@@ -3754,7 +3813,7 @@ Artikel 393
 
 Artikel 394
 
-De verwekker van een kind dat alleen een moeder heeft, alsmede de man die als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, is als ware hij ouder verplicht tot het voorzien in de kosten van verzorging en opvoeding van het kind dan wel, na het bereiken van de meerderjarigheid van het kind, tot het voorzien in de kosten van levensonderhoud en studie overeenkomstig de artikelen 395a en 395b. Nadien bestaat deze verplichting slechts in geval van behoeftigheid van het kind.
+De verwekker van een kind dat alleen een moeder heeft, alsmede de persoon die als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, is als ware hij ouder verplicht tot het voorzien in de kosten van verzorging en opvoeding van het kind dan wel, na het bereiken van de meerderjarigheid van het kind, tot het voorzien in de kosten van levensonderhoud en studie overeenkomstig de artikelen 395a en 395b. Nadien bestaat deze verplichting slechts in geval van behoeftigheid van het kind.
 
 Artikel 395
 
@@ -3768,7 +3827,7 @@ Artikel 395a
 
 Artikel 395b
 
-1.	Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig artikel 394, de verwekker of de man die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in artikel 395a van dit boek bedoeld.
+1.	Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig artikel 394, de verwekker of de persoon die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in artikel 395a van dit boek bedoeld.
 
 2.	Hetzelfde geldt, indien met toepassing van Hoofdstuk XIII van de Wet op de jeugdzorg het bedrag is vastgesteld dat de ouder of stiefouder ter bestrijding van de kosten van de in artikel 69, eerste lid van die wet bedoelde maatregelen aan het Landelijk Bureau Inning Onderhoudsbijdragen moet uitkeren.
 
@@ -4144,11 +4203,22 @@ Artikel 435
 		2°	de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of
 		3°	de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
 
-7.	[Dit lid is nog niet in werking getreden.]
+7.	Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen bewindvoerder, curator of mentor is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een bewindvoerder uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 436, vierde lid, en artikel 15i van boek 3.
 
-8.	[Dit lid is nog niet in werking getreden.]
+8.	De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over:
+	a.	zijn verklaring dat hij aan de in het zevende lid bedoelde kwaliteitseisen en verplichtingen voldoet,
+	b.	een verslag van een accountant als bedoeld in artikel 393, eerste lid, van boek 2, van diens bevindingen over de wijze waarop aan de eisen en verplichtingen wordt voldaan, en
+	c.	een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in artikel 10 van boek 2, dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig titel 9 van boek 2. Artikel 396, zevende lid, van boek 2 is ten aanzien van artikel 393 lid 1 niet van toepassing.
 
-9.	[Dit lid is nog niet in werking getreden.]
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaringen en het verslag reeds aan de rechter heeft overgelegd, dan is hij van de overlegging vrijgesteld.
+
+9.	Van de overlegging van de in het achtste lid bedoelde verklaring van de accountant zijn vrijgesteld:
+	a.	zij die een financiële onderneming zijn die ingevolge de Wet op het financieel toezicht het bedrijf van bank mogen uitoefenen,
+	b.	notarissen,
+	c.	gerechtsdeurwaarders,
+	d.	accountants.
+
+Bij algemene maatregel van bestuur kunnen de in de vorige zin bedoelde ondernemingen en beroepsbeoefenaren geheel of gedeeltelijk worden vrijgesteld van de in het zevende lid bedoelde eisen inzake de werving, scholing en bedrijfsvoering
 
 10.	De benoemde wordt bewindvoerder daags nadat de beschikking is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
 
@@ -4232,7 +4302,9 @@ Artikel 445
 
 3.	De kantonrechter kan de bewindvoerder - hetzij op diens verzoek, hetzij ambtshalve - vrijstellen van de verplichting om de periodieke rekening en verantwoording te zijnen overstaan af te leggen; hij kan ook bepalen dat deze wijze van aflegging der rekening en verantwoording slechts om een door hem te bepalen aantal jaren zal geschieden.
 
-4.	Voor het overige vindt het aangaande de voogdijrekening in de paragrafen 10 en 11 van afdeling 6 van titel 14 bepaalde overeenkomstige toepassing.
+4.	De bewindvoerder, bedoeld in artikel 435, zevende lid, legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 435, achtste lid.
+
+5.	Voor het overige vindt het aangaande de voogdijrekening in de paragrafen 10 en 11 van afdeling 6 van titel 14 bepaalde overeenkomstige toepassing.
 
 Artikel 446
 
@@ -4323,7 +4395,18 @@ Artikel 452
 		2°	de persoon en de instelling deel uitmaken van een groep in de zin van artikel 24b van boek 2, of
 		3°	de bestuurder van de rechtspersoon tevens behoort tot de leiding of het personeel van de instelling.
 
-7.	De taak van de mentor vangt aan daags nadat de beschikking, houdende de benoeming, is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
+7.	Een andere persoon dan in het vierde lid bedoeld, die ten behoeve van drie of meer personen mentor, curator of bewindvoerder is, komt alleen dan voor benoeming in aanmerking indien deze wat zijn bedrijfsvoering en scholing betreft, alsmede, voor zover van toepassing, de werving, de scholing en begeleiding van en het toezicht op de personen door wie hij de taken van een mentor uitoefent, voldoet aan bij algemene maatregel van bestuur te stellen kwaliteitseisen, alsmede aan de verplichtingen bedoeld in artikel 15i van boek 3.
+
+8.	De persoon, bedoeld in het zevende lid, legt aan de rechter die hem benoemt, over:
+	a.	zijn verklaring dat hij aan de in het zevende lid bedoelde kwaliteitseisen en verplichtingen voldoet,
+	b.	een verslag van een accountant als bedoeld in artikel 393, eerste lid, van boek 2, dan wel van een door de kantonrechter benoemde deskundige, van diens bevindingen over de wijze waarop aan de eisen wordt voldaan, en
+	c.	een verklaring van de accountant omtrent de balans en staat van baten en lasten, bedoeld in artikel 10 van boek 2, dan wel, voor zover van toepassing, omtrent de jaarrekening overeenkomstig titel 9 van boek 2. Artikel 396, zevende lid, van boek 2 is ten aanzien van artikel 393 lid 1 niet van toepassing.
+
+Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de vorm en de inhoud van de verklaringen en het verslag, de benoeming van de deskundige, alsmede de wijze van overlegging. Toont de persoon aan dat hij in de twaalf maanden voorafgaande aan zijn benoeming de verklaring en het verslag, bedoeld in het zevende lid, onderdelen a en b, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van de verklaring en het verslag vrijgesteld. Toont de persoon aan dat hij in de 24 maanden voorafgaande aan zijn benoeming de verklaring, bedoeld in het zevende lid, onderdeel c, reeds aan de rechter heeft overgelegd, dan is hij van de overlegging van deze verklaring vrijgesteld.
+
+9.	De rechter kan twee mentoren benoemen, tenzij gegronde redenen zich tegen zodanige benoeming verzetten. Zijn er twee mentoren, dan kan ieder van hen de taken die aan een mentor toekomen, alleen verrichten. De rechter kan zo nodig een taakverdeling tussen de mentoren vaststellen. Bij verschil van mening tussen de mentoren beslist op verzoek van een van hen of op verzoek van een instelling als bedoeld in artikel 451, tweede lid, de kantonrechter. Deze kan ook een verdeling van de beloning vaststellen.
+
+10.	De taak van de mentor vangt aan daags nadat de beschikking, houdende de benoeming, is verstrekt of verzonden, tenzij de beschikking een later tijdstip vermeldt.
 
 Artikel 453
 
@@ -4373,7 +4456,7 @@ Artikel 459
 
 1.	De mentor doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter. De kantonrechter kan te allen tijde verschijning van de mentor in persoon gelasten. Deze is verplicht alle door de kantonrechter gewenste inlichtingen te verstrekken.
 
-2.	[Dit lid is nog niet in werking getreden.]
+2.	De mentor, bedoeld in artikel 452, zevende lid, legt jaarlijks de verklaring en het verslag over, bedoeld in artikel 452, achtste lid, onderdelen a en b. De mentor legt tweejaarlijks de verklaring over, bedoeld in artikel 452, achtste lid, onderdeel c. De kantonrechter kan ten aanzien van de verschillende onderdelen van het verslag een ander tijdstip van overlegging bepalen.
 
 3.	De mentor doet telkens na verloop van vijf jaren, of zo veel eerder als de kantonrechter bepaalt, aan deze verslag van het verloop van het mentorschap. Hij laat zich daarbij met name uit over de vraag of het mentorschap dient voort te duren dan wel of een minder ver, of een verder strekkende voorziening aangewezen is. Feiten die voor het mentorschap en het voortduren daarvan van betekenis zijn, deelt hij terstond aan de kantonrechter mede.
 
