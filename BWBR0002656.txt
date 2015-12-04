@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2015 t/m 04-12-2015
+Geldend van 05-12-2015 t/m 31-12-2015
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -700,11 +700,7 @@ Afdeling 1. Vereisten tot het aangaan van een huwelijk
 
 Artikel 31
 
-1.	Om een huwelijk te mogen aangaan moeten een man en een vrouw de leeftijd van achttien jaren hebben bereikt.
-
-2.	Het in het vorige lid vermelde huwelijksbeletsel bestaat niet wanneer zij die met elkander een huwelijk willen aangaan de leeftijd van zestien jaren hebben bereikt en de vrouw een verklaring van een arts overlegt dat zij zwanger is, dan wel haar kind reeds ter wereld heeft gebracht.
-
-3.	Onze Minister van Justitie kan om gewichtige redenen ontheffing verlenen van het in het eerste lid genoemde vereiste.
+Om een huwelijk te mogen aangaan moeten een man en een vrouw de leeftijd van achttien jaren hebben bereikt.
 
 Artikel 32
 
@@ -720,15 +716,11 @@ Artikel 34
 
 Artikel 35
 
-1.	Een minderjarige mag geen huwelijk aangaan zonder toestemming van zijn ouders.
-
-2.	Zijn de geestvermogens van een ouder zodanig gestoord, dat hij niet in staat is zijn wil te bepalen of de betekenis van zijn verklaring te begrijpen, dan is zijn toestemming niet vereist.
-
-3.	Een minderjarige, die onder voogdij staat, heeft bovendien de toestemming van zijn voogd nodig.
+[Vervallen per 05-12-2015]
 
 Artikel 36
 
-Voor zover een volgens het vorige artikel vereiste toestemming niet wordt verkregen, kan zij op verzoek van de minderjarige door die van de rechtbank worden vervangen.
+[Vervallen per 05-12-2015]
 
 Artikel 37
 
@@ -756,6 +748,10 @@ Artikel 41
 
 2.	Onze Minister van Justitie kan om gewichtige redenen ontheffing van het verbod verlenen aan hen die broeders, zusters of broeder en zuster door adoptie zijn.
 
+Artikel 41a
+
+Een huwelijk mag niet worden gesloten tussen hen die elkander, hetzij van nature hetzij familierechtelijk, als bloedverwanten bestaan in de derde of vierde graad in de zijlinie, tenzij de aanstaande echtgenoten bij de ambtenaar van de burgerlijke stand ieder een beëdigde verklaring hebben afgelegd, inhoudende dat zij hun vrije toestemming tot het huwelijk geven.
+
 Artikel 42
 
 Zij die met elkander een huwelijk willen aangaan, mogen niet tegelijkertijd een geregistreerd partnerschap zijn aangegaan.
@@ -768,18 +764,17 @@ Artikel 43
 
 Artikel 44
 
-1.	Ten behoeve van het kenbaar maken van hun voornemen om in het huwelijk te treden verstrekken de aanstaande echtgenoten aan de ambtenaar van de burgerlijke stand:
-	a.	hun geslachtsnaam, voornamen, woonplaats en geboortegegevens;
+1.	Ten behoeve van het kenbaar maken van hun voornemen om in het huwelijk te treden verstrekken de aanstaande echtgenoten van wie ten minste één uitsluitend of mede de Nederlandse nationaliteit bezit of in Nederland zijn gewone verblijfplaats heeft aan de ambtenaar van de burgerlijke stand:
+	a.	hun geslachtsnaam, voornamen, woonplaats en geboortegegevens, alsmede een verklaring dat zij elkaar niet als bloedverwanten bestaan in de derde of vierde graad in de zijlinie, dan wel een beëdigde verklaring als bedoeld in artikel 41a;
 	b.	indien toestemming tot het aangaan van een huwelijk is vereist, de gegevens van degenen wier toestemming noodzakelijk is, dan wel het bewijs dat deze hun toestemming hebben verleend. De toestemming kan ook ter gelegenheid van de huwelijksvoltrekking worden gegeven. Is de toestemming door de rechter verleend, dan verifieert de ambtenaar het bestaan daarvan bij de betrokken griffie;
 	c.	de overlijdensgegevens van allen wier toestemming voor het huwelijk was vereist, als zij in leven waren geweest;
 	d.	de gegevens inzake ontbinding van eventuele eerdere huwelijken of geregistreerde partnerschappen;
 	e.	in geval van stuiting, de gegevens inzake de opheffing daarvan;
 	f.	de ontheffing of de vergunning van Onze Minister van Justitie, ingeval deze is vereist;
 	g.	een vrijstelling krachtens artikel 62, indien deze is verkregen;
-	h.	de verklaring, bedoeld in artikel 31, tweede lid, ingeval deze vereist is;
-	i.	de namen en adressen van de personen die als getuigen bij de voltrekking van het huwelijk aanwezig zullen zijn;
-	j.	ingeval een aanstaande echtgenoot niet de Nederlandse nationaliteit bezit of rechtmatig in Nederland verblijft als bedoeld in artikel 8, onder b, d of e, van de Vreemdelingenwet 2000, een verklaring dat het voornemen om in het huwelijk te treden niet wordt aangegaan met het oogmerk om verblijfsrecht in Nederland te verkrijgen, alsmede een verklaring omtrent het verblijfsrecht van de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit;
-	k.	de naam van de gemeente in Nederland waar het huwelijk zal worden voltrokken.
+	h.	de namen en adressen van de personen die als getuigen bij de voltrekking van het huwelijk aanwezig zullen zijn;
+	i.	ingeval een aanstaande echtgenoot niet de Nederlandse nationaliteit bezit of rechtmatig in Nederland verblijft als bedoeld in artikel 8, onder b, d of e, van de Vreemdelingenwet 2000, een verklaring dat het voornemen om in het huwelijk te treden niet wordt aangegaan met het oogmerk om verblijfsrecht in Nederland te verkrijgen, alsmede een verklaring omtrent het verblijfsrecht van de aanstaande echtgenoot die niet de Nederlandse nationaliteit bezit;
+	j.	de naam van de gemeente in Nederland waar het huwelijk zal worden voltrokken.
 
 2.	Wanneer de aanstaande echtgenoten, van wie ten minste één de Nederlandse nationaliteit bezit, buiten Nederland hun woonplaats hebben, kunnen zij zich ten behoeve van hun voornemen om in het huwelijk te treden uitsluitend tot de ambtenaar van de burgerlijke stand van de gemeente ’s-Gravenhage wenden.
 
@@ -799,9 +794,7 @@ Wanneer het huwelijk binnen een jaar, te rekenen vanaf de datum waarop het voorn
 
 Artikel 47
 
-1.	Indien een minderjarige een huwelijk wenst aan te gaan, onderzoekt de ambtenaar van de burgerlijke stand, van welke personen daartoe de toestemming wordt vereist.
-
-2.	Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet onverwijld van het voorgenomen huwelijk.
+[Vervallen per 05-12-2015]
 
 Artikel 48
 
@@ -830,7 +823,7 @@ Afdeling 3. Stuiting van het huwelijk
 
 Artikel 50
 
-Een huwelijk kan worden gestuit, wanneer partijen niet de vereisten in zich verenigen om een huwelijk aan te gaan, dan wel wanneer het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland.
+Een huwelijk kan worden gestuit, wanneer partijen niet de vereisten in zich verenigen om een huwelijk aan te gaan, of wanneer partijen niet beiden hun vrije toestemming tot het huwelijk zullen geven dan wel wanneer het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland.
 
 Artikel 51
 
@@ -846,9 +839,11 @@ Artikel 53
 
 1.	Het openbaar ministerie is verplicht een voorgenomen huwelijk te stuiten, indien het met een der in de artikelen 31 tot en met 33, 41 en 42 omschreven huwelijksbeletselen bekend is.
 
-2.	Het openbaar ministerie is bevoegd het huwelijk te stuiten van een minderjarige, die onder toezicht is gesteld of onder voorlopige voogdij is geplaatst, indien het belang van die minderjarige zich tegen het aangaan van het huwelijk verzet; daarbij kan het belang dat de wederpartij bij het huwelijk heeft, mede in aanmerking worden genomen.
+2.	Het openbaar ministerie is bevoegd het huwelijk als schijnhandeling wegens strijd met de Nederlandse openbare orde te stuiten indien het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland.
 
-3.	Het openbaar ministerie is voorts bevoegd het huwelijk als schijnhandeling wegens strijd met de Nederlandse openbare orde te stuiten indien het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating tot Nederland.
+3.	Het openbaar ministerie is voorts bevoegd het huwelijk te stuiten indien genoegzaam is gebleken dat de aanstaande echtgenoten, of één hunner, het huwelijk onder invloed van dwang zullen aangaan.
+
+4.	Voor de uitoefening van de in de leden 2 en 3 bedoelde bevoegdheid door het openbaar ministerie is voorafgaande machtiging van de rechtbank vereist.
 
 Artikel 54
 
@@ -872,7 +867,7 @@ Het huwelijk mag niet worden voltrokken, voordat de stuiting is opgeheven. Mocht
 
 Artikel 57
 
-Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de artikelen 31 tot en met 33, 41 en 42 omschreven huwelijksbeletselen bekend is, mag geen medewerking verlenen aan een huwelijksvoltrekking of aan de vervulling van daaraan voorafgaande formaliteiten, ook al zou geen stuiting hebben plaatsgehad.
+Een ambtenaar van de burgerlijke stand aan wie het bestaan van een der in de artikelen 31 tot en met 33, 41, 41a en 42 omschreven huwelijksbeletselen bekend is, mag geen medewerking verlenen aan een huwelijksvoltrekking of aan de vervulling van daaraan voorafgaande formaliteiten, ook al zou geen stuiting hebben plaatsgehad.
 
 Afdeling 4. De voltrekking van het huwelijk
 
@@ -948,11 +943,11 @@ Artikel 70
 
 Artikel 71
 
-1.	Een echtgenoot kan de nietigverklaring van zijn huwelijk verzoeken, wanneer dit onder invloed van een onrechtmatige ernstige bedreiging is gesloten.
+1.	Een echtgenoot kan de nietigverklaring van zijn huwelijk verzoeken, wanneer hij dit onder invloed van dwang heeft gesloten. Tevens is het openbaar ministerie, na de echtgenoten in de gelegenheid te hebben gesteld hun mening omtrent de wenselijkheid van het indienen van het verzoek tot nietigverklaring kenbaar te maken, althans na deze daartoe behoorlijk te hebben opgeroepen, bevoegd tot het doen van het verzoek.
 
-2.	Een gelijk verzoek komt de echtgenoot toe, die bij de huwelijksvoltrekking gedwaald heeft hetzij in de persoon van de andere echtgenoot, hetzij omtrent de betekenis van de door hem afgelegde verklaring.
+2.	Voorts kan de echtgenoot, die bij de huwelijksvoltrekking gedwaald heeft hetzij in de persoon van de andere echtgenoot, hetzij omtrent de betekenis van de door hem afgelegde verklaring de nietigverklaring van zijn huwelijk verzoeken.
 
-3.	De bevoegdheid van de echtgenoot de nietigverklaring wegens bedreiging of dwaling te verzoeken vervalt, wanneer de echtgenoten zes maanden hebben samengewoond sedert het ophouden van de bedreiging of de ontdekking van de dwaling, zonder dat het verzoek is gedaan.
+3.	De bevoegdheid de nietigverklaring wegens dwaling te verzoeken vervalt, wanneer de echtgenoten zes maanden hebben samengewoond sedert de ontdekking van de dwaling zonder dat het verzoek is gedaan. De bevoegdheid de nietigverklaring wegens dwang te verzoeken vervalt, wanneer de echtgenoten drie jaar hebben samengewoond zonder dwang gericht op instandhouding van het huwelijk, zonder dat het verzoek is gedaan.
 
 Artikel 71a
 
@@ -968,7 +963,7 @@ De nietigverklaring van een huwelijk uit hoofde van een geestelijke stoornis kan
 
 Artikel 74
 
-De nietigverklaring van een huwelijk, dat aangegaan is door iemand die de vereiste leeftijd miste, kan niet worden verzocht wanneer deze op de dag van het verzoek de vereiste ouderdom heeft, noch wanneer de vrouw vóór de dag van het verzoek zwanger is geworden.
+De nietigverklaring van een huwelijk, dat aangegaan is door iemand die de vereiste leeftijd miste, kan niet worden verzocht wanneer deze op de dag van het verzoek de vereiste ouderdom heeft.
 
 Artikel 75
 
@@ -1019,13 +1014,13 @@ Artikel 80a
 
 3.	Registratie van partnerschap geschiedt bij een akte van registratie van partnerschap opgemaakt door een ambtenaar van de burgerlijke stand.
 
-4.	Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de artikelen 51, 52, 53, tweede en derde lid, en 54 tot en met 56 van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de artikelen 31, 32, 41 en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, mag hij niet meewerken aan een registratie of daaraan voorafgaande formaliteiten verrichten, ook al zou geen stuiting hebben plaatsgehad.
+4.	Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de artikelen 51, 52, 53, tweede tot en met vierde lid, en 54 tot en met 56 van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de artikelen 31, 32, 41 en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, mag hij niet meewerken aan een registratie of daaraan voorafgaande formaliteiten verrichten, ook al zou geen stuiting hebben plaatsgehad.
 
-5.	Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 35 tot en met 39, 41, 44 tot en met 49, 58, en 62 tot en met 66 van overeenkomstige toepassing.
+5.	Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 37 tot en met 39, 41, 41a, 44 tot en met 49, 58, en 62 tot en met 66 van overeenkomstige toepassing.
 
 6.	Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de artikelen 69 tot en met 73, 74, 75 tot en met 77, eerste lid en tweede lid.
 
-7.	Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78, 79 en 80 van overeenkomstige toepassing.
+7.	Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78 en 79 van overeenkomstige toepassing.
 
 Artikel 80b
 
@@ -2182,7 +2177,7 @@ Afdeling 1. Algemene bepalingen
 
 Artikel 233
 
-Minderjarigen zijn zij, die de ouderdom van achttien jaren niet hebben bereikt en niet gehuwd of geregistreerd zijn dan wel gehuwd of geregistreerd zijn geweest of met toepassing van artikel 253ha meerderjarig zijn verklaard.
+Minderjarigen zijn zij die de leeftijd van achttien jaren niet hebben bereikt en evenmin met toepassing van artikel 253ha meerderjarig zijn verklaard.
 
 Artikel 234
 
