@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2016 t/m 31-07-2016
+Geldend van 01-08-2016 t/m 31-12-2016
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -2255,7 +2255,7 @@ Artikel 241
 
 5.	De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het vierde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.
 
-6.	In afwijking van het tweede lid kan de kinderrechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in artikel 302, tweede lid.
+6.	In afwijking van het tweede lid kan de kinderrechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Veiligheid en Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in artikel 302, tweede lid.
 
 7.	De raad voor de kinderbescherming kan een onderzoek instellen naar de leefsituatie van een minderjarige die duurzaam wordt verzorgd en opgevoed bij anderen dan degenen die het ouderlijke gezag of de voogdij over hem uitoefenen, het gezin waarin hij wordt verzorgd en opgevoed of de wijze waarop het gezag of de voogdij over hem wordt uitgeoefend, indien er een redelijk vermoeden bestaat dat de minderjarige in strijd met een wettelijk voorschrift in dat gezin is opgenomen.
 
@@ -2868,7 +2868,7 @@ Artikel 268
 	a.	een ernstig vermoeden bestaat dat de grond, bedoeld in artikel 266, eerste lid, aanhef en onder a of b is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of
 	b.	een medische behandeling van een minderjarige jonger dan twaalf jaar of van de minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen terzake, noodzakelijk is om ernstig gevaar voor diens gezondheid af te wenden en een ouder die het gezag uitoefent toestemming daarvoor weigert.
 
-2.	Indien de ouders gezamenlijk het gezag uitoefenen, wordt gedurende de schorsing van het gezag van één van hen het gezag door de andere ouder alleen uitgeoefend, tenzij de kinderrechter een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over het kind belast. In dat geval is ook het gezag van deze ouder geschorst.
+2.	Indien de ouders gezamenlijk het gezag uitoefenen, wordt gedurende de schorsing van het gezag van één van hen het gezag door de andere ouder alleen uitgeoefend, tenzij de kinderrechter een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over de minderjarige belast. In dat geval is ook het gezag van deze ouder geschorst.
 
 3.	Betreft de schorsing beide ouders of een ouder die alleen het gezag uitoefent, dan belast de rechtbank een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over de minderjarige. De gecertificeerde instelling heeft de bevoegdheden van een voogd.
 
@@ -3138,11 +3138,7 @@ Artikel 304
 
 Artikel 305
 
-1.	De gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die hem toevertrouwde minderjarigen uit huis plaatst, houdt de raad voor de kinderbescherming schriftelijk op de hoogte van de plaatsen waar zij zich bevinden.
-
-2.	De plaatsen, waar een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, minderjarigen heeft geplaatst, worden door de raad voor de kinderbescherming bezocht, zo vaak hij dit ter beoordeling van de toestand der minderjarigen dienstig acht.
-
-3.	De artikelen 265b, vijfde lid, 265c, eerste en derde lid, 265j, tweede lid, eerste zin, en 265d, vierde lid, eerste zin, en 265k, eerste lid, zijn van overeenkomstige toepassing.
+[Vervallen per 01-08-2016]
 
 Artikel 306
 
@@ -3288,9 +3284,9 @@ Artikel 331
 
 2.	Indien de voogdij gezamenlijk wordt uitgeoefend, wordt na schorsing van de voogdij van één van hen de voogdij door de andere voogd alleen uitgeoefend, tenzij de kinderrechter een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over het kind belast. In dat geval is ook het gezag van deze andere voogd geschorst.
 
-4.	Artikel 329, eerste en tweede lid, is van overeenkomstige toepassing.
+3.	Artikel 329, eerste en tweede lid, is van overeenkomstige toepassing.
 
-5.	De schorsing in de uitoefening van het gezag vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn om een beëindiging van de voogdij is verzocht.
+4.	De schorsing in de uitoefening van het gezag vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn om een beëindiging van de voogdij is verzocht.
 
 Artikel 331a
 
@@ -3330,7 +3326,7 @@ Artikel 336a
 
 1.	Indien de minderjarige door een ander of anderen dan zijn voogd, als behorende tot het gezin met instemming van de voogd ten minste een jaar is verzorgd en opgevoed geworden, kan de voogd niet dan met toestemming van degenen die de verzorging en opvoeding op zich hebben genomen, wijziging in het verblijf van de minderjarige brengen.
 
-2.	Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de voogd door die van de rechtbank worden vervangen. Dit verzoek wordt slechts ingewilligd indien de kinderrechter dit in het belang van de minderjarige noodzakelijk oordeelt.
+2.	Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de voogd door die van de rechtbank worden vervangen. Dit verzoek wordt slechts ingewilligd indien de rechtbank dit in het belang van de minderjarige noodzakelijk oordeelt.
 
 3.	In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, tot beëindiging van de voogdij, dan wel een verzoek als bedoeld in artikel 299a, van dit boek aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.
 
