@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 28-02-2017 t/m 31-08-2017
+Geldend van 01-09-2017 t/m 31-12-2017
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -602,7 +602,7 @@ Afdeling 12. Voorziening tegen de weigering tot het opmaken van een akte van de 
 
 Artikel 27
 
-Naar aanleiding van een besluit van een ambtenaar van de burgerlijke stand om op grond van artikel 18c of 20c te weigeren een akte van de burgerlijke stand op te maken, een latere vermelding aan een akte toe te voegen of, buiten het geval van stuiting van het huwelijk of het geregistreerd partnerschap en dat van afgifte van een afschrift of een uittreksel, aan een verrichting mee te werken, hebben belanghebbende partijen de bevoegdheid zich binnen zes weken na de verzending van dat besluit bij verzoekschrift te wenden tot de rechtbank binnen welker rechtsgebied de standplaats van de ambtenaar van de burgerlijke stand is gelegen.
+Naar aanleiding van een besluit van een ambtenaar van de burgerlijke stand om op grond van artikel 18c of 20c te weigeren een akte van de burgerlijke stand op te maken, een latere vermelding aan een akte toe te voegen of, buiten het geval van stuiting van het huwelijk of het geregistreerd partnerschap en dat van afgifte van een afschrift of een uittreksel, aan een verrichting mee te werken, kunnen belanghebbende partijen binnen zes weken na de verzending van dat besluit een verzoek indienen bij de rechtbank binnen het rechtsgebied waar de standplaats van de ambtenaar van de burgerlijke stand is gelegen.
 
 Artikel 27a
 
@@ -1222,6 +1222,10 @@ Artikel 95
 1.	Een goed dat een echtgenoot anders dan om niet verkrijgt, blijft buiten de gemeenschap indien de tegenprestatie bij de verkrijging van dit goed voor meer dan de helft ten laste komt van zijn eigen vermogen. Voor zover de tegenprestatie ten laste van de gemeenschap komt, is de echtgenoot gehouden tot een vergoeding aan de gemeenschap. Het beloop van de vergoeding wordt bepaald overeenkomstig artikel 87, tweede en derde lid.
 
 2.	Indien een goed tot de gemeenschap gaat behoren en een echtgenoot bij de verkrijging uit zijn eigen vermogen aan de tegenprestatie heeft bijgedragen, komt deze echtgenoot een vergoedingsvordering toe, waarvan het beloop overeenkomstig artikel 87, tweede en derde lid, wordt bepaald.
+
+Artikel 95a
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 96
 
@@ -2267,15 +2271,19 @@ Artikel 242
 
 De raad voor de kinderbescherming stelt zich op de hoogte van alle gevallen, waarin maatregelen met betrekking tot het gezag over minderjarigen overwogen dienen te worden.
 
+Artikel 242a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 243
 
 1.	De colleges van burgemeester en wethouders en ambtenaren van de burgerlijke stand verschaffen de raad voor de kinderbescherming kosteloos alle inlichtingen, en verstrekken de raad kosteloos alle afschriften en uittreksels uit hun registers, die de raad ter uitvoering van zijn taak van hen vraagt. Wanneer de raad voor de kinderbescherming een taak vervult of een bevoegdheid uitoefent op grond van een van de bepalingen van deze titel of van de titels 9, 10, 14, 15 en 17 van dit boek, alsmede op grond van de daarmee verband houdende bepalingen van het Wetboek van Burgerlijke Rechtsvordering, verschaffen de bij algemene maatregel van bestuur aan te wijzen instanties of personen de raad kosteloos die inlichtingen die voor een goede uitoefening van hun taak noodzakelijk zijn.
 
 2.	Alle verzoeken die de raad voor de kinderbescherming ter uitvoering van zijn taak tot de rechter richt, worden kosteloos behandeld; de grossen, afschriften en uittreksels, die hij tot dat doel aanvraagt, worden hem door de griffiers vrij van alle kosten uitgereikt.
 
-3.	Exploiten door de deurwaarders ten verzoeke van de raad voor de kinderbescherming uitgebracht, worden volgens het gewone tarief vergoed. Advocaten kunnen voor hun aan de raad voor de kinderbescherming bewezen diensten salaris in rekening brengen.
+3.	Exploten door de deurwaarders ten verzoeke van de raad voor de kinderbescherming uitgebracht, worden volgens het gewone tarief vergoed. Advocaten kunnen voor hun aan de raad voor de kinderbescherming bewezen diensten salaris in rekening brengen.
 
-4.	Wanneer de raad voor de kinderbescherming op grond van een van de bepalingen van deze titel, of van de titels 9, 10, 12, 14, 15 en 17 van dit boek in rechte optreedt, kan hij dit zonder advocaat doen, behalve in gedingen die met een dagvaarding aanvangen.
+4.	Wanneer de raad voor de kinderbescherming op grond van een van de bepalingen van deze titel, of van de titels 9, 10, 12, 14, 15 en 17 van dit boek in rechte optreedt, kan hij dit zonder advocaat doen, behalve in zaken waarbij een vordering wordt ingesteld.
 
 Afdeling 4. Registers betreffende het over minderjarigen uitgeoefende gezag
 
@@ -2954,7 +2962,7 @@ Artikel 280
 
 De voogdij begint:
 	a.	voor de voogd die door een ouder is benoemd: op het tijdstip waarop hij zich na het overlijden van deze ouder bereid verklaart de voogdij te aanvaarden. De verklaring moet door de betrokkene in persoon of bij bijzondere gevolmachtigde worden afgelegd ter griffie van de rechtbank die overeenkomstig de tweede afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering in zaken betreffende minderjarigen bevoegd is. De verklaring moet worden afgelegd binnen veertien dagen, of - indien de persoon, die de verklaring moet afleggen, zich buiten Nederland bevindt - binnen twee maanden, nadat de benoeming is betekend. Tot betekening kan iedere belanghebbende, alsmede de raad voor de kinderbescherming opdracht geven.
-	b.	voor de voogd die - nadat hij zich bereid heeft verklaard de voogdij te aanvaarden - door de rechter is benoemd: op de dag, waarop de beslissing die de benoeming inhoudt, in kracht van gewijsde is gegaan, of - zo deze uitvoerbaar bij voorraad is verklaard - daags nadat de beslissing die de benoeming inhoudt, is verstrekt of verzonden. Een mondelinge bereidverklaring geschiedt ten overstaan van de rechter die benoemt; een schriftelijke bereidverklaring wordt neergelegd ter griffie waar de benoeming zal geschieden.
+	b.	voor de voogd die - nadat hij zich bereid heeft verklaard de voogdij te aanvaarden - door de rechter is benoemd: op de dag, waarop de beslissing die de benoeming inhoudt, in kracht van gewijsde is gegaan, of - zo deze uitvoerbaar bij voorraad is verklaard - daags nadat de beslissing die de benoeming inhoudt, is verstrekt of verzonden. Een mondelinge bereidverklaring geschiedt ten overstaan van de rechter die benoemt; een schriftelijke bereidverklaring wordt ingediend ter griffie waar de benoeming zal geschieden.
 
 Artikel 281
 
@@ -3395,6 +3403,23 @@ Artikel 344
 2.	De kantonrechter kan aanwijzingen geven omtrent de wijze, waarop spaarbankboekjes en gelden van de minderjarige moeten worden bewaard. De kantonrechter onder wiens goedkeuring een verdeling tot stand komt, kan ter gelegenheid daarvan aanwijzingen als hier bedoeld geven. Overigens is de kantonrechter, aangewezen in de tweede afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering bevoegd.
 
 3.	Voor effecten aan toonder, spaarbankboekjes en gelden, die de minderjarige tezamen met een of meer andere personen toekomen, geldt het bepaalde in de vorige leden, wanneer de voogd die onder zijn berusting heeft.
+
+Artikel 345
+
+[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
+
+1.	De voogd behoeft machtiging van de kantonrechter om de navolgende handelingen voor rekening van de minderjarige te verrichten:
+	a.	aangaan van overeenkomsten strekkende tot beschikking over goederen van de minderjarige, tenzij de handeling geld betreft, als een gewone beheersdaad kan worden beschouwd, of krachtens rechterlijk bevel geschiedt;
+	b.	giften doen, andere dan gebruikelijke, niet bovenmatige;
+	c.	een making of gift, waaraan lasten of voorwaarden zijn verbonden, aannemen;
+	d.	geld lenen of de minderjarige als borg of hoofdelijke medeschuldenaar verbinden;
+	e.	overeenkomen dat een boedel, waartoe de minderjarige gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten.
+
+2.	De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht daaronder begrepen.
+
+3.	Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van artikel 30k, lid 1, onder c, van het Wetboek van Burgerlijke Rechtsvordering of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.
+
+[Red: Voor overige gevallen luidt het artikel als volgt:]
 
 Artikel 345
 
@@ -4305,6 +4330,28 @@ Artikel 440
 2.	Indien het bewind alle goederen betreft die daarvoor krachtens artikel 431, eerste lid, in aanmerking komen, is het eerste lid van overeenkomstige toepassing ten aanzien van ten tijde van de handeling niet onder het bewind staande goederen waarop verhaal mogelijk zou zijn.
 
 Artikel 441
+
+[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
+
+1.	Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende. De bewindvoerder kan voorts voor de rechthebbende alle handelingen verrichten die aan een goed bewind bijdragen.
+
+2.	Hij behoeft echter toestemming van de rechthebbende of, indien deze daartoe niet in staat of weigerachtig is, machtiging van de kantonrechter voor de volgende handelingen:
+	a.	beschikken en aangaan van overeenkomsten tot beschikking over een onder het bewind staand goed, tenzij de handeling als een gewone beheersdaad kan worden beschouwd of krachtens rechterlijk bevel geschiedt;
+	b.	een making of gift waaraan lasten of voorwaarden zijn verbonden, aannemen;
+	c.	geld lenen of de rechthebbende als borg of hoofdelijke medeschuldenaar verbinden;
+	d.	overeenkomen dat een boedel, waartoe de rechthebbende gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten;
+	e.	het aangaan, buiten het geval van artikel 30k, lid 1, onder c van het Wetboek van Burgerlijke Rechtsvordering, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van € 700 niet te boven gaat;
+	f.	andere bij de instelling van het bewind of nadien aangewezen handelingen.
+
+3.	De kantonrechter kan ook aan de bewindvoerder een doorlopende machtiging met zodanige voorwaarden als hij geraden acht, verlenen om handelingen als in het vorige lid bedoeld te verrichten en een verleende machtiging te allen tijde wijzigen of intrekken.
+
+4.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.
+
+5.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen nalatenschap te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.
+
+[Red: Voor overige gevallen luidt het artikel als volgt:]
+
+Artikel 441.
 
 1.	Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende. De bewindvoerder kan voorts voor de rechthebbende alle handelingen verrichten die aan een goed bewind bijdragen.
 
