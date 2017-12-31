@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-09-2017 t/m 31-12-2017
+Geldend van 01-01-2018 t/m 18-09-2018
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -1196,26 +1196,33 @@ Afdeling 1. Algemene bepalingen
 
 Artikel 93
 
-Bij huwelijkse voorwaarden kan uitdrukkelijk of door de aard der bedingen worden afgeweken van bepalingen van deze titel, behalve voorzover bepalingen zich uitdrukkelijk of naar hun aard tegen afwijking verzetten.
+Bij huwelijkse voorwaarden kan uitdrukkelijk of door de aard der bedingen worden afgeweken van bepalingen van deze titel, behalve voor zover bepalingen zich uitdrukkelijk of naar hun aard tegen afwijking verzetten.
 
 Artikel 94
 
-1.	Van het ogenblik der voltrekking van het huwelijk bestaat tussen de echtgenoten van rechtswege een gemeenschap van goederen.
+1.	Van het ogenblik van de voltrekking van het huwelijk bestaat tussen de echtgenoten van rechtswege een gemeenschap van goederen.
 
-2.	De gemeenschap omvat, wat haar baten betreft, alle goederen der echtgenoten, bij aanvang van de gemeenschap aanwezig of nadien, zolang de gemeenschap niet is ontbonden, verkregen, met uitzondering van:
-	a.	goederen ten aanzien waarvan bij uiterste wilsbeschikking van de erflater of bij de gift is bepaald dat zij buiten de gemeenschap vallen;
-	b.	pensioenrechten waarop de Wet verevening pensioenrechten bij scheiding van toepassing is alsmede met die pensioenrechten verband houdende rechten op nabestaandenpensioen;
-	c.	rechten op het vestigen van vruchtgebruik als bedoeld in de artikelen 29 en 30 van Boek 4, vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge artikel 34 van Boek 4.
+2.	De gemeenschap omvat, wat haar baten betreft, alle goederen die reeds vóór de aanvang van de gemeenschap aan de echtgenoten gezamenlijk toebehoorden, en alle overige goederen van de echtgenoten, door ieder van hen afzonderlijk of door hen tezamen vanaf de aanvang van de gemeenschap tot haar ontbinding verkregen, met uitzondering van:
+	a.	krachtens erfopvolging bij versterf, making, lastbevoordeling of gift verkregen goederen;
+	b.	pensioenrechten waarop de Wet verevening pensioenrechten bij scheiding van toepassing is, alsmede met die pensioenrechten verband houdende rechten op nabestaandenpensioen;
+	c.	rechten op het vestigen van vruchtgebruik als bedoeld in de artikelen 29 en 30 van Boek 4, vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge de artikelen 34, 35, 36, 38, 63 tot en met 92 en 126, eerste lid en tweede lid, onderdelen a en c, van Boek 4.
 
-3.	Goederen en schulden die aan een der echtgenoten op enigerlei bijzondere wijze verknocht zijn, vallen slechts in de gemeenschap voor zover die verknochtheid zich hiertegen niet verzet.
+3.	Het tweede lid, aanhef en onderdeel a, is niet van toepassing op:
+	a.	giften van tot de gemeenschap behorende goederen aan de andere echtgenoot;
+	b.	goederen, alsmede de vruchten van die goederen, ten aanzien waarvan bij uiterste wilsbeschikking of bij de gift is bepaald dat zij in de gemeenschap vallen.
 
-4.	Vruchten van goederen die niet in de gemeenschap vallen, vallen evenmin in de gemeenschap. Buiten de gemeenschap valt hetgeen wordt geïnd op een vordering die buiten de gemeenschap valt, alsmede een vordering tot vergoeding die in de plaats van een eigen goed van een echtgenoot treedt, waaronder begrepen een vordering ter zake van waardevermindering van zulk een goed.
+4.	Goederen, alsmede de vruchten van die goederen, ten aanzien waarvan bij uiterste wilsbeschikking of bij de gift is bepaald dat zij buiten de gemeenschap vallen, blijven buiten de gemeenschap, ook al zijn echtgenoten bij huwelijkse voorwaarden overeengekomen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift verkregen goederen dan wel de vruchten daarvan in de gemeenschap vallen.
 
-5.	De gemeenschap omvat, wat haar lasten betreft, alle schulden van ieder der echtgenoten, met uitzondering van schulden:
+5.	Goederen en schulden die aan een van de echtgenoten op enigerlei bijzondere wijze verknocht zijn, vallen slechts in de gemeenschap voor zover die verknochtheid zich hiertegen niet verzet.
+
+6.	Vruchten van goederen die niet in de gemeenschap vallen, vallen evenmin in de gemeenschap. Buiten de gemeenschap valt hetgeen wordt geïnd op een vordering die buiten de gemeenschap valt, alsmede een vordering tot vergoeding die in de plaats van een eigen goed van een echtgenoot treedt, waaronder begrepen een vordering ter zake van waardevermindering van zulk een goed.
+
+7.	De gemeenschap omvat, wat haar lasten betreft, alle vóór het bestaan van de gemeenschap ontstane gemeenschappelijke schulden, alle schulden betreffende goederen die reeds vóór de aanvang van de gemeenschap aan de echtgenoten gezamenlijk toebehoorden, en alle tijdens het bestaan van de gemeenschap ontstane schulden van ieder van de echtgenoten, met uitzondering van schulden:
 	a.	betreffende van de gemeenschap uitgezonderde goederen;
-	b.	uit door een der echtgenoten gedane giften, gemaakte bedingen en aangegane omzettingen als bedoeld in artikel 126, eerste lid, en tweede lid, onder a en c, van Boek 4.
+	b.	die behoren tot een nalatenschap waartoe een echtgenoot is gerechtigd;
+	c.	uit door een van de echtgenoten gedane giften, gemaakte bedingen en aangegane omzettingen als bedoeld in artikel 126, eerste lid en tweede lid, onderdelen a en c, van Boek 4.
 
-6.	Bestaat tussen echtgenoten een geschil aan wie van hen beiden een goed toebehoort en kan geen van beiden zijn recht op dit goed bewijzen, dan wordt dat goed als gemeenschapsgoed aangemerkt. Het vermoeden werkt niet ten nadele van de schuldeisers der echtgenoten.
+8.	Bestaat tussen echtgenoten een geschil aan wie van hen beiden een goed toebehoort en kan geen van beiden zijn recht op dit goed bewijzen, dan wordt dit goed als gemeenschapsgoed aangemerkt. Het vermoeden werkt niet ten nadele van de schuldeisers van de echtgenoten.
 
 Artikel 95
 
@@ -1225,19 +1232,23 @@ Artikel 95
 
 Artikel 95a
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	Indien een onderneming buiten de gemeenschap valt, komt ten bate van de gemeenschap een redelijke vergoeding voor de kennis, vaardigheden en arbeid die een echtgenoot ten behoeve van die onderneming heeft aangewend, voor zover een dergelijke vergoeding niet al op andere wijze ten bate van beide echtgenoten komt of is gekomen.
+
+2.	Ook indien een onderneming op naam en voor rekening van een personenvennootschap of een rechtspersoon wordt uitgeoefend, de gerechtigdheid tot die personenvennootschap of die rechtspersoon buiten de gemeenschap valt en de echtgenoot die daartoe is gerechtigd, in overwegende mate bij machte is te bepalen dat de winsten van die onderneming hem rechtstreeks of middellijk ten goede komen, komt ten bate van de gemeenschap een redelijke vergoeding voor de kennis, vaardigheden en arbeid die een echtgenoot ten behoeve van die onderneming heeft aangewend, voor zover een dergelijke vergoeding niet al op andere wijze ten bate van beide echtgenoten komt of is gekomen.
 
 Artikel 96
 
-1.	Voor een schuld van een echtgenoot kunnen, ongeacht of deze in de gemeenschap is gevallen, zowel de goederen der gemeenschap als zijn eigen goederen worden uitgewonnen.
+1.	Voor een schuld van een echtgenoot kunnen, ongeacht of deze in de gemeenschap is gevallen, zowel de goederen van de gemeenschap als zijn eigen goederen worden uitgewonnen.
 
-2.	Voor een niet in de gemeenschap gevallen schuld van een echtgenoot kunnen de goederen van de gemeenschap niet worden uitgewonnen, indien de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden.
+2.	Voor een niet in de gemeenschap gevallen schuld van een echtgenoot kunnen de goederen van de gemeenschap niet worden uitgewonnen, indien de andere echtgenoot eigen goederen van eerstgenoemde aanwijst, die voldoende verhaal bieden. Voor een in de gemeenschap gevallen schuld van een echtgenoot kunnen de eigen goederen van deze echtgenoot niet worden uitgewonnen, indien hij goederen van de gemeenschap aanwijst, die voldoende verhaal bieden.
 
-3.	De echtgenoot uit wiens eigen goederen een schuld der gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen der gemeenschap. Betreft het een schuld ter zake van een tot de gemeenschap behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig artikel 87, tweede en derde lid.
+3.	Het verhaal op de goederen van de gemeenschap voor een niet tot de gemeenschap behorende schuld van een echtgenoot is beperkt tot de helft van de opbrengst van het uitgewonnen goed. De andere helft komt de andere echtgenoot toe en valt voortaan buiten de gemeenschap. De andere echtgenoot is bevoegd, indien een schuldeiser verhaal op een goed van de gemeenschap zoekt ter zake van een niet tot de gemeenschap behorende schuld, het goed waarop de schuldeiser verhaal zoekt, over te nemen tegen betaling van de helft van de waarde van dat goed uit zijn eigen vermogen. Vanaf het tijdstip van de overneming is dit een eigen goed van deze echtgenoot, dat niet in de gemeenschap valt.
 
-4.	De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen der gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap. Betreft het een schuld ter zake van een tot zijn eigen vermogen behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig artikel 87, tweede en derde lid.
+4.	De echtgenoot uit wiens eigen goederen een schuld van de gemeenschap is voldaan, heeft deswege recht op vergoeding uit de goederen van de gemeenschap. Betreft het een schuld ter zake van een tot de gemeenschap behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig artikel 87, tweede en derde lid.
 
-5.	De echtgenoot die een schuldeiser tegenwerpt dat een goed waarop deze verhaal zoekt niet behoort tot de gemeenschap, draagt daarvan de bewijslast.
+5.	De echtgenoot wiens niet in de gemeenschap gevallen schuld uit goederen van de gemeenschap is voldaan, is deswege gehouden tot vergoeding aan de gemeenschap. Betreft het een schuld ter zake van een tot zijn eigen vermogen behorend goed, dan wordt het beloop van de vergoeding bepaald overeenkomstig artikel 87, tweede en derde lid.
+
+6.	De echtgenoot die een schuldeiser tegenwerpt dat een goed waarop deze verhaal zoekt niet behoort tot de gemeenschap, draagt daarvan de bewijslast.
 
 Artikel 96a
 
@@ -1284,7 +1295,9 @@ Artikel 100
 
 1.	De echtgenoten hebben een gelijk aandeel in de ontbonden gemeenschap, tenzij anders is bepaald bij huwelijkse voorwaarden of bij een overeenkomst die tussen de echtgenoten bij geschrift is gesloten met het oog op de aanstaande ontbinding der gemeenschap anders dan door de dood of ten gevolge van opheffing bij huwelijkse voorwaarden.
 
-2.	Zij die bij de ontbinding van de gemeenschap schuldeiser zijn, behouden het hun toekomende recht van verhaal op de goederen der gemeenschap, zolang deze niet verdeeld zijn.
+2.	Voor zover bij de ontbinding van de gemeenschap de goederen van de gemeenschap niet toereikend zijn om de schulden van de gemeenschap te voldoen, worden deze gedragen door beide echtgenoten ieder voor een gelijk deel, tenzij uit de eisen van redelijkheid en billijkheid, mede in verband met de aard van de schulden, een andere draagplicht voortvloeit.
+
+3.	Zij die bij de ontbinding van de gemeenschap schuldeiser zijn, behouden het hun toekomende recht van verhaal op de goederen der gemeenschap, zolang deze niet verdeeld zijn. Artikel 96, derde lid, blijft van toepassing.
 
 Artikel 101
 
@@ -1444,7 +1457,7 @@ Artikel 129
 
 Artikel 130
 
-Een echtgenoot kan tegen derden zijn aanbreng van bij huwelijkse voorwaarden buiten de gemeenschap gehouden goederen, voor wat betreft rechten aan toonder en zaken die geen registergoederen zijn, slechts bewijzen door hun vermelding in de akte van huwelijkse voorwaarden of in een door de partijen en de notaris ondertekende, aan de minuut van die akte vastgehechte beschrijving. Indien de vermelding van een goed geen afdoende omschrijving daarvan biedt, kan aanvullend bewijs door alle middelen worden geleverd; ten aanzien van goederen die een echtgenoot buiten diens weten opgekomen waren, kan het bewijs door alle middelen worden geleverd.
+[Vervallen per 01-01-2018]
 
 Artikel 131
 
@@ -2273,7 +2286,7 @@ De raad voor de kinderbescherming stelt zich op de hoogte van alle gevallen, waa
 
 Artikel 242a
 
-[Dit onderdeel is nog niet inwerking getreden]
+Indien de ene ouder wordt verdacht van het doden van de andere ouder, of indien de ene ouder is veroordeeld wegens het doden van de andere ouder, stelt de raad voor de kinderbescherming een onderzoek in naar de wenselijkheid van een contact- of omgangsregeling van het kind met de ouder die wordt verdacht van of is veroordeeld wegens het doden van de andere ouder, zodra hij van de verdenking of veroordeling in kennis is gesteld. Op basis van dit onderzoek verzoekt de raad voor de kinderbescherming de kinderrechter om een contact- of omgangsregeling vast te stellen of om het contact of de omgang te ontzeggen. Een verzoek om het contact of de omgang te ontzeggen vermeldt tevens de duur van de verzochte ontzegging.
 
 Artikel 243
 
@@ -2343,7 +2356,9 @@ De minderjarige dient rekening te houden met de aan de ouder of voogd in het kad
 
 Artikel 250
 
-Wanneer in aangelegenheden betreffende diens verzorging en opvoeding, dan wel het vermogen van de minderjarige, de belangen van de met het gezag belaste ouders of een van hen dan wel van de voogd of de beide voogden in strijd zijn met die van de minderjarige, benoemt de rechtbank, danwel, indien het een aangelegenheid inzake het vermogen van de minderjarige betreft, de kantonrechter, of, indien de zaak reeds aanhangig is, de desbetreffende rechter, indien hij dit in het belang van de minderjarige noodzakelijk acht, daarbij in het bijzonder de aard van deze belangenstrijd in aanmerking genomen, op verzoek van een belanghebbende of ambtshalve een bijzondere curator om de minderjarige ter zake, zowel in als buiten rechte, te vertegenwoordigen.
+1.	Wanneer in aangelegenheden betreffende diens verzorging en opvoeding, dan wel het vermogen van de minderjarige, de belangen van de met het gezag belaste ouders of een van hen dan wel van de voogd of de beide voogden in strijd zijn met die van de minderjarige, benoemt de rechtbank, danwel, indien het een aangelegenheid inzake het vermogen van de minderjarige betreft, de kantonrechter, of, indien de zaak reeds aanhangig is, de desbetreffende rechter, indien hij dit in het belang van de minderjarige noodzakelijk acht, daarbij in het bijzonder de aard van deze belangenstrijd in aanmerking genomen, op verzoek van een belanghebbende of ambtshalve een bijzondere curator om de minderjarige ter zake, zowel in als buiten rechte, te vertegenwoordigen.
+
+2.	In geval van een verzoek van de raad voor de kinderbescherming als bedoeld in artikel 242a benoemt de kinderrechter bij de aanvang van het geding een bijzondere curator om de minderjarige, zowel in als buiten rechte, te vertegenwoordigen.
 
 Afdeling 2. Ouderlijk gezag
 
@@ -3682,7 +3697,11 @@ Artikel 377d
 
 Artikel 377e
 
-De rechtbank kan op verzoek van de ouders of van een van hen of van degene die in een nauwe persoonlijke betrekking staat tot het kind een beslissing inzake de omgang alsmede een door de ouders onderling getroffen omgangsregeling wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+1.	De rechtbank kan op verzoek van de ouders of van een van hen of van degene die in een nauwe persoonlijke betrekking staat tot het kind een beslissing inzake de omgang alsmede een door de ouders onderling getroffen omgangsregeling wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+
+2.	De rechtbank kan op verzoek van een ouder, of van een biologische ouder die in een nauwe persoonlijke betrekking staat tot het kind, een beslissing waarbij de omgang is ontzegd tevens wijzigen na verloop van een periode van een jaar nadat de eerdere beschikking in kracht van gewijsde is gegaan.
+
+3.	Indien de ene ouder wordt verdacht van het doden van de andere ouder, of indien de ene ouder is veroordeeld wegens het doden van de andere ouder, en de rechter heeft de omgang ontzegd voor een duur van twee jaar of meer, dan kan de rechter, in afwijking van het tweede lid, de beslissing waarbij de omgang is ontzegd, onverminderd het eerste lid, niet eerder wijzigen op verzoek van de ouder dan na verloop van een periode van twee jaar nadat de eerdere beschikking in kracht van gewijsde is gegaan.
 
 Artikel 377f
 
