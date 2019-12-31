@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 29-01-2019 t/m 31-12-2019
+Geldend van 01-01-2020 t/m 31-12-2020
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -146,9 +146,9 @@ Afdeling 1. De ambtenaar van de burgerlijke stand
 
 Artikel 16
 
-1.	In elke gemeente zijn twee, of, naar goedvinden van burgemeester en wethouders, meer ambtenaren van de burgerlijke stand. Daarenboven kunnen een of meer ambtenaren van de burgerlijke stand worden belast met het verrichten van bepaalde taken. Deze dragen de titel van buitengewoon ambtenaar van de burgerlijke stand. Een ambtenaar van de burgerlijke stand, die niet voldoet aan het in het tweede lid bedoelde benoembaarheidsvereiste, wordt niet in aanmerking genomen voor de berekening van het in de eerste zin genoemde aantal.
+1.	In elke gemeente zijn twee, of, naar goedvinden van burgemeester en wethouders, meer ambtenaren van de burgerlijke stand. Daarenboven kunnen een of meer ambtenaren van de burgerlijke stand worden belast met het verrichten van bepaalde taken. Deze dragen de titel van buitengewoon ambtenaar van de burgerlijke stand. Een ambtenaar van de burgerlijke stand, die niet voldoet aan het in het tweede lid bedoelde vereiste van aanwijsbaarheid, wordt niet in aanmerking genomen voor de berekening van het in de eerste zin genoemde aantal.
 
-2.	De in het eerste lid bedoelde ambtenaren worden door burgemeester en wethouders benoemd, geschorst of ontslagen. Een benoeming kan voor een bepaalde tijdsduur geschieden. Als ambtenaar of buitengewoon ambtenaar van de burgerlijke stand is slechts benoembaar de persoon die in de uitoefening van zijn ambt geen onderscheid maakt als bedoeld in artikel 1 van de Algemene wet gelijke behandeling, tenzij het onderscheid is gebaseerd op een wettelijk voorschrift.
+2.	De in het eerste lid bedoelde ambtenaren worden door burgemeester en wethouders aangewezen. Een aanwijzing kan voor een bepaalde tijdsduur geschieden. De aanwijzing eindigt van rechtswege met ingang van de datum waarop de uitoefening van de functie van ambtenaar van de burgerlijke stand of buitengewoon ambtenaar van de burgerlijke stand eindigt. Als ambtenaar of buitengewoon ambtenaar van de burgerlijke stand is slechts aanwijsbaar de persoon die in de uitoefening van zijn ambt geen onderscheid maakt als bedoeld in artikel 1 van de Algemene wet gelijke behandeling, tenzij het onderscheid is gebaseerd op een wettelijk voorschrift.
 
 3.	Ambtenaar van de burgerlijke stand van een gemeente kan slechts zijn een ambtenaar in dienst van die gemeente of een andere gemeente. Buitengewoon ambtenaar van de burgerlijke stand kan mede zijn een persoon die geen ambtenaar in gemeentelijke dienst is.
 
@@ -290,25 +290,40 @@ Artikel 19d
 
 Artikel 19e
 
-1.	Tot de aangifte van een geboorte is bevoegd de moeder uit wie het kind is geboren.
+1.	De aangifte van een geboorte kan in persoon of, als deze weg is geopend, elektronisch worden gedaan. Tot elektronische aangifte zijn uitsluitend bevoegd de moeder uit wie het kind is geboren en de vader van het kind.
 
-2.	Tot de aangifte is verplicht de vader of de moeder uit wie het kind niet is geboren.
+2.	Tot de aangifte in persoon van een geboorte is bevoegd de moeder uit wie het kind is geboren.
 
-3.	Wanneer de persoon genoemd in het tweede lid ontbreekt of verhinderd is de aangifte te doen, is tot aangifte verplicht:
+3.	Tot de aangifte in persoon is verplicht de vader of de moeder uit wie het kind niet is geboren.
+
+4.	Wanneer de persoon genoemd in het tweede lid ontbreekt of verhinderd is de aangifte te doen, is tot aangifte verplicht:
 	a.	ieder die bij het ter wereld komen van het kind tegenwoordig is geweest;
 	b.	de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks is geschied in een inrichting tot verpleging of verzorging bestemd, in een gevangenis of in een soortgelijke inrichting, het hoofd van die inrichting of een door hem bij onderhandse akte bijzonderlijk tot het doen van de aangifte aangewezen ondergeschikte.
 
-4.	Voor een in het derde lid, onder b, genoemde persoon bestaat de verplichting alleen indien een onder a genoemde persoon ontbreekt of verhinderd is.
+5.	Voor een in het vierde lid, onder b, genoemde persoon bestaat de verplichting alleen indien een onder a genoemde persoon ontbreekt of verhinderd is.
 
-5.	Wanneer tot de aangifte bevoegde of verplichte personen ontbreken of nalaten de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de geboorteakte moet worden opgemaakt.
+6.	Wanneer tot de aangifte bevoegde of verplichte personen ontbreken of nalaten de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de geboorteakte moet worden opgemaakt.
 
-6.	De verplichting tot aangifte moet worden vervuld binnen drie dagen na de dag der bevalling. Van een aangifte later dan de derde dag, bedoeld in de eerste zin van dit lid, wordt door de ambtenaar van de burgerlijke stand mededeling gedaan aan het openbaar ministerie.
+7.	De verplichting tot aangifte moet worden vervuld binnen drie dagen na de dag der bevalling. Van een aangifte later dan de derde dag, bedoeld in de eerste zin van dit lid, wordt door de ambtenaar van de burgerlijke stand mededeling gedaan aan het openbaar ministerie.
 
-7.	De ambtenaar van de burgerlijke stand stelt de identiteit van de aangever vast aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht.
+8.	De ambtenaar van de burgerlijke stand stelt de identiteit van de aangever vast aan de hand van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht, dan wel op bij algemene maatregel van bestuur te bepalen andere wijze.
 
-8.	Bij de aangifte kan de ambtenaar van de burgerlijke stand zich doen overleggen een door de arts of de verloskundige die bij het ter wereld komen van het kind tegenwoordig was, opgemaakte verklaring dat het kind uit de als moeder opgegeven persoon is geboren. Is het kind buiten de tegenwoordigheid van een arts of verloskundige ter wereld gekomen, dan kan hij zich een door een zodanige hulpverlener nadien opgemaakte verklaring doen overleggen.
+9.	De aangever verstrekt in ieder geval de volgende gegevens:
+	a.	de dag, de plaats en het tijdstip van de geboorte;
+	b.	het geslacht van het kind;
+	c.	de voornamen van het kind;
+	d.	de geslachtsnaam, de voornamen, de dag van geboorte, de woonplaats, het woonadres en
+	e.	zo mogelijk, het burgerservicenummer van de moeder uit wie het kind is geboren.
 
-9.	Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het achtste lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is artikel 19b van toepassing.
+10.	Bij elektronische aangifte dient de moeder uit wie het kind is geboren haar burgerservicenummer op te geven en dient de vader zowel zijn burgerservicenummer als dat van de moeder uit wie het kind is geboren op te geven. Tevens dient de moeder uit wie het kind is geboren of de vader de juistheid van de in het negende lid, onder a, b en d genoemde gegevens te laten bevestigen door de betrokken arts of verloskundige.
+
+11.	Bij de aangifte kan de ambtenaar van de burgerlijke stand zich doen overleggen een door de arts of de verloskundige die bij het ter wereld komen van het kind tegenwoordig was, opgemaakte verklaring dat het kind uit de als moeder opgegeven persoon is geboren. Is het kind buiten de tegenwoordigheid van een arts of verloskundige ter wereld gekomen, dan kan hij zich een door een zodanige hulpverlener nadien opgemaakte verklaring doen overleggen.
+
+12.	Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het elfde lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is artikel 19b van toepassing.
+
+13.	In het derde en vierde lid wordt met «de vader» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren.
+
+14.	Voor de elektronische aangifte, geregeld in het eerste en tiende lid, wordt met «de vader» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren.
 
 Artikel 19f
 
@@ -1049,13 +1064,13 @@ Artikel 80d
 	c.	de verdeling van enige gemeenschap waarin de partners de registratie zijn aangegaan dan wel de verrekening die bij voorwaarden als bedoeld in titel 8 is overeengekomen;
 	d.	de verevening of verrekening van pensioenrechten.
 
-2.	Op een beëindiging van het geregistreerd partnerschap met wederzijds goedvinden zijn de artikelen 155, 157, vierde en zesde lid, 158, 159, eerste en derde lid, 159a, 160 en 164 van overeenkomstige toepassing.
+2.	Op een beëindiging van het geregistreerd partnerschap met wederzijds goedvinden zijn de artikelen 155, 157, eerste tot en met zesde lid, 158, 159, eerste en derde lid, 159a, 160 en 164 van overeenkomstige toepassing.
 
 3.	De verklaring, bedoeld in artikel 80c, onder c, wordt slechts ingeschreven in de registers van de burgerlijke stand, indien zij de ambtenaar van de burgerlijke stand uiterlijk drie maanden na het sluiten van de overeenkomst heeft bereikt.
 
 Artikel 80e
 
-1.	Op een ontbinding van een geregistreerd partnerschap als bedoeld in artikel 80c, onder d, zijn de artikelen 151, 153, 155, 157 tot en met 160, 164 en 165 van overeenkomstige toepassing.
+1.	Op een ontbinding van een geregistreerd partnerschap als bedoeld in artikel 80c, onder d, zijn de artikelen 151, 153, 155, 156 tot en met 160, 164 en 165 van overeenkomstige toepassing.
 
 2.	De ontbinding komt tot stand door inschrijving van een rechterlijke uitspraak op verzoek van partijen of van één van hen in de registers van de burgerlijke stand. Artikel 163, derde lid, is van overeenkomstige toepassing.
 
@@ -1643,25 +1658,31 @@ In geval van echtscheiding en voor zover de ene echtgenoot na de huwelijkssluiti
 
 Artikel 156
 
-[Vervallen per 01-01-1993]
-
-Artikel 157
-
-1.	De rechter kan bij de echtscheidingsbeschikking of bij latere uitspraak aan de echtgenoot die niet voldoende inkomsten tot zijn levensonderhoud heeft, noch zich in redelijkheid kan verwerven, op diens verzoek ten laste van de andere echtgenoot een uitkering tot levensonderhoud toekennen.
+1.	De rechter kan bij de echtscheidingsbeschikking of bij latere uitspraak aan de echtgenoot die niet voldoende inkomsten tot zijn levensonderhoud heeft, noch zich in redelijkheid kan verwerven op diens verzoek ten laste van de andere echtgenoot een uitkering tot levensonderhoud toekennen.
 
 2.	Bij de vaststelling van de uitkering kan de rechter rekening houden met de behoefte aan een voorziening in het levensonderhoud voor het geval van overlijden van degene die tot de uitkering is gehouden.
 
-3.	De rechter kan op verzoek van één van de echtgenoten de uitkering toekennen onder vaststelling van voorwaarden en van een termijn. Deze vaststelling kan niet ten gevolge hebben dat de uitkering later eindigt dan twaalf jaren na de datum van inschrijving van de beschikking in de registers van de burgerlijke stand.
+3.	De rechter kan op verzoek van een van de echtgenoten de uitkering toekennen onder de vaststelling van voorwaarden en van een termijn. Deze vaststelling kan niet tot gevolg hebben dat de uitkering later eindigt dan op grond van de toepasselijke termijn, bedoeld in artikel 157.
 
-4.	Indien de rechter geen termijn heeft vastgesteld, eindigt de verplichting tot levensonderhoud van rechtswege na het verstrijken van een termijn van twaalf jaren, die aanvangt op de datum van inschrijving van de beschikking in de registers van de burgerlijke stand.
+Artikel 157
 
-5.	Indien de beëindiging van de uitkering ten gevolge van het verstrijken van de in het vierde lid bedoelde termijn van zo ingrijpende aard is dat ongewijzigde handhaving van die termijn naar maatstaven van redelijkheid en billijkheid van degene die tot de uitkering gerechtigd is niet kan worden gevergd, kan de rechter op diens verzoek alsnog een termijn vaststellen. Het verzoek daartoe dient te worden ingediend voordat drie maanden sinds de beëindiging zijn verstreken. De rechter bepaalt bij de uitspraak of verlenging van de termijn na ommekomst daarvan al dan niet mogelijk is.
+1.	Indien de rechter geen termijn heeft vastgesteld, eindigt de verplichting tot het verstrekken van levensonderhoud van rechtswege na het verstrijken van een termijn die gelijk is aan de helft van de duur van het huwelijk met een maximum van vijf jaren.
 
-6.	Indien de duur van het huwelijk niet meer bedraagt dan vijf jaren en uit dit huwelijk geen kinderen zijn geboren, eindigt de verplichting tot levensonderhoud van rechtswege na het verstrijken van een termijn die gelijk is aan de duur van het huwelijk en die aanvangt op de datum van inschrijving van de beschikking in de registers van de burgerlijke stand. Indien de rechter een termijn vaststelt, kan deze vaststelling niet ten gevolge hebben dat de uitkering op een later tijdstip eindigt dan ingevolge de vorige zin het geval zou zijn. Het vijfde lid is van overeenkomstige toepassing met dien verstande dat in de eerste zin in plaats van "de in het vierde lid bedoelde termijn" wordt gelezen: de in de eerste zin bedoelde termijn.
+2.	Indien op het tijdstip van indiening van het verzoek tot echtscheiding de duur van het huwelijk langer is dan vijftien jaren en de leeftijd van de echtgenoot die recht heeft op een uitkering tot levensonderhoud, ten hoogste tien jaren lager is dan de leeftijd, bedoeld in artikel 7a van de Algemene Ouderdomswet, eindigt de verplichting tot het verstrekken van levensonderhoud, in afwijking van het eerste lid, niet eerder dan op het tijdstip, waarop die echtgenoot deze leeftijd heeft bereikt.
+
+3.	Indien op het tijdstip van indiening van het verzoek tot echtscheiding de duur van het huwelijk langer is dan vijftien jaren en de echtgenoot die recht heeft op een uitkering tot levensonderhoud geboren is op of voor 1 januari 1970 en diens leeftijd meer dan tien jaren lager is dan de leeftijd bedoeld in artikel 7a van de Algemene Ouderdomswet, eindigt de verplichting tot het verstrekken van levensonderhoud, in afwijking van het eerste lid, na tien jaren.
+
+4.	In afwijking van het eerste tot en met derde lid eindigt de verplichting tot het verstrekken van levensonderhoud niet eerder dan op het tijdstip waarop de uit het huwelijk van de echtgenoten geboren kinderen de leeftijd van twaalf jaren hebben bereikt.
+
+5.	Bij samenloop van de omstandigheden, bedoeld in het eerste tot en met vierde lid, geldt de langste termijn.
+
+6.	De termijn voor het verstrekken van levensonderhoud vangt aan op de datum van inschrijving van de echtscheidingsbeschikking in de registers van de burgerlijke stand.
+
+7.	Indien ongewijzigde handhaving van de beëindiging van de uitkering ten gevolge van het verstrijken van de in het eerste tot en met vierde lid bedoelde termijn, gelet op alle omstandigheden van het geval, naar maatstaven van redelijkheid en billijkheid niet kan worden gevergd van degene die recht heeft op die uitkering, kan de rechter op diens verzoek alsnog een termijn vaststellen. Het verzoek daartoe wordt ingediend voordat drie maanden sinds de beëindiging van de uitkering zijn verstreken. De rechter bepaalt bij de uitspraak of verlenging van de termijn na ommekomst daarvan al dan niet mogelijk is.
 
 Artikel 158
 
-Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenkomst bepalen of, en zo ja tot welk bedrag, na de echtscheiding de één tegenover de ander tot een uitkering tot diens levensonderhoud zal zijn gehouden. Indien in de overeenkomst geen termijn is opgenomen, is artikel 157, vierde tot en met zesde lid, van overeenkomstige toepassing.
+Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenkomst bepalen of, en zo ja tot welk bedrag, na de echtscheiding de één tegenover de ander tot een uitkering tot diens levensonderhoud zal zijn gehouden. Indien in de overeenkomst geen termijn is opgenomen, is artikel 157, eerste tot en met vijfde lid en zevende lid, van overeenkomstige toepassing.
 
 Artikel 159
 
@@ -1737,7 +1758,7 @@ Artikel 169
 
 1.	Scheiding van tafel en bed kan worden verzocht op dezelfde grond en op dezelfde wijze als echtscheiding.
 
-2.	De artikelen 151, 154 tot en met 159a zijn van overeenkomstige toepassing, met dien verstande dat de termijnen, bedoeld in artikel 157, derde tot en met zesde lid, aanvangen op de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116, en dat de duur van het huwelijk wordt berekend tot die dag.
+2.	De artikelen 151, 154 tot en met 159a zijn van overeenkomstige toepassing, met dien verstande dat de termijnen, bedoeld in artikel 156, derde lid, en artikel 157, eerste tot en met vijfde lid, aanvangen op de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116, en dat de duur van het huwelijk wordt berekend tot die dag.
 
 3.	Een verplichting van een echtgenoot om uit hoofde van scheiding van tafel en bed levensonderhoud te verschaffen aan de andere echtgenoot, eindigt bij ontbinding van het huwelijk.
 
@@ -1817,7 +1838,7 @@ Ontbinding van het huwelijk van echtgenoten die van tafel en bed gescheiden zijn
 
 Artikel 182
 
-De artikelen 154, tweede lid, en 157 tot en met 160 van dit boek zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 157, derde tot en met zesde lid, bedoelde termijnen worden verminderd met de tijd gedurende welke tijdens de scheiding van tafel en bed een verplichting tot levensonderhoud jegens de andere echtgenoot bestond en dat de duur van het huwelijk wordt berekend tot de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116.
+De artikelen 154, tweede lid, en 156 tot en met 160 van dit boek zijn van overeenkomstige toepassing, met dien verstande dat de in de artikelen 156, derde lid, en 157, eerste tot en met vijfde lid en zevende lid, bedoelde termijnen worden verminderd met de tijd gedurende welke tijdens de scheiding van tafel en bed een verplichting tot levensonderhoud jegens de andere echtgenoot bestond en dat de duur van het huwelijk wordt berekend tot de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116.
 
 Artikel 183
 
@@ -3733,7 +3754,7 @@ en een voldoende behartiging van die belangen niet met een meer passende en mind
 
 2.	Indien te verwachten is dat ten aanzien van een minderjarige op het tijdstip waarop hij meerderjarig zal worden, van een der in het vorige lid genoemde gronden voor curatele sprake zal zijn, kan de curatele reeds voor de meerderjarigheid worden uitgesproken.
 
-3.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot ondercuratelestelling.
+3.	De rechter bij wie een verzoek tot het verlenen van een rechterlijke machtiging als bedoeld in de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten dan wel een zorgmachtiging of een machtiging tot voorzetting van de crisismaatregel als bedoeld in de Wet verplichte geestelijke gezondheidszorg aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot ondercuratelestelling.
 
 Artikel 379
 
@@ -3953,11 +3974,11 @@ Artikel 400
 
 Artikel 401
 
-1.	Een rechterlijke uitspraak of een overeenkomst betreffende levensonderhoud kan bij latere rechterlijke uitspraak worden gewijzigd of ingetrokken, wanneer zij nadien door wijziging van omstandigheden ophoudt aan de wettelijke maatstaven te voldoen. De voorafgaande zin is niet van toepassing op een verzoek tot wijziging van een termijn die de rechter heeft vastgesteld op grond van artikel 157 of die is opgenomen in een overeenkomst als bedoeld in artikel 158.
+1.	Een rechterlijke uitspraak of een overeenkomst betreffende levensonderhoud kan bij latere rechterlijke uitspraak worden gewijzigd of ingetrokken, wanneer zij nadien door wijziging van omstandigheden ophoudt aan de wettelijke maatstaven te voldoen. De voorgaande zin is niet van toepassing op een verzoek tot wijziging van een termijn die de rechter heeft vastgesteld op grond van artikel 156, derde lid, of artikel 157, zevende lid, of die is opgenomen in een overeenkomst als bedoeld in artikel 158.
 
-2.	De termijn die de rechter heeft vastgesteld op grond van het derde of vijfde lid dan wel zesde lid, tweede zin van artikel 157 of die is opgenomen in een overeenkomst als bedoeld in artikel 158, kan op verzoek van een van de gewezen echtgenoten worden gewijzigd in geval van zo ingrijpende wijziging van omstandigheden dat ongewijzigde handhaving van de termijn naar maatstaven van redelijkheid en billijkheid niet van de verzoeker kan worden gevergd.
+2.	De termijn die de rechter heeft vastgesteld op grond van artikel 156, derde lid, of artikel 157, zevende lid, of die is opgenomen in een overeenkomst als bedoeld in artikel 158, kan op verzoek van een van de gewezen echtgenoten worden gewijzigd in geval van zo ingrijpende wijziging van omstandigheden dat ongewijzigde handhaving van de termijn naar maatstaven van redelijkheid en billijkheid niet van de verzoeker kan worden gevergd.
 
-Verlenging is niet mogelijk indien de rechter zulks ingevolge artikel 157, vijfde lid, heeft bepaald. Op een verzoek tot verlenging is het vijfde lid, tweede en derde zin, van artikel 157 van overeenkomstige toepassing.
+Verlenging is niet mogelijk indien de rechter zulks ingevolge artikel 157, zevende lid, heeft bepaald. Op een verzoek tot verlenging is artikel 157, zevende lid, tweede en derde zin, van overeenkomstige toepassing.
 
 3.	Partijen kunnen schriftelijk overeenkomen dat het eerste lid, eerste zin, van toepassing is op een verzoek tot wijziging van een termijn die is opgenomen in een overeenkomst als bedoeld in artikel 158.
 
@@ -4243,7 +4264,7 @@ kan de kantonrechter een bewind instellen over één of meer van de goederen, di
 
 3.	Het bewind kan eveneens worden ingesteld indien te verwachten is dat de rechthebbende binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.
 
-4.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
+4.	De rechter bij wie een verzoek tot het verlenen van een rechterlijke machtiging als bedoeld in de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten dan wel een zorgmachtiging of een machtiging tot voorzetting van de crisismaatregel als bedoeld in de Wet verplichte geestelijke gezondheidszorg aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
 
 Artikel 432
 
@@ -4473,7 +4494,7 @@ Artikel 450
 
 3.	Het mentorschap kan eveneens worden ingesteld, indien te verwachten is dat een meerderjarige binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.
 
-4.	De rechter bij wie een verzoek tot het verlenen van een voorlopige of voorwaardelijke machtiging, een observatiemachtiging of een machtiging tot voortgezet verblijf als bedoeld in de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, dan wel een machtiging als bedoeld in artikel 33, eerste lid, van die wet aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.
+4.	De rechter bij wie een verzoek tot het verlenen van een rechterlijke machtiging als bedoeld in de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten dan wel een zorgmachtiging of een machtiging tot voorzetting van de crisismaatregel als bedoeld in de Wet verplichte geestelijke gezondheidszorg aanhangig is, is tevens bevoegd tot kennisneming van een verzoek tot instelling van een mentorschap.
 
 Artikel 451
 
