@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2020 t/m 31-12-2020
+Geldend van 01-01-2021 t/m 30-09-2022
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -4254,17 +4254,17 @@ Titel 19. Onderbewindstelling ter bescherming van meerderjarigen
 
 Artikel 431
 
-1.	Indien een meerderjarige tijdelijk of duurzaam niet in staat is ten volle zijn vermogensrechtelijke belangen behoorlijk waar te nemen, als gevolg van
-	a.	zijn lichamelijke of geestelijke toestand, dan wel
-	b.	verkwisting of het hebben van problematische schulden,
-
-kan de kantonrechter een bewind instellen over één of meer van de goederen, die hem als rechthebbende toebehoren of zullen toebehoren. Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot zijn huwelijksgemeenschap of gemeenschap van geregistreerd partnerschap en die niet uitsluitend onder het bestuur van zijn echtgenoot dan wel geregistreerd partner staan.
+1.	De kantonrechter kan een bewind instellen over één of meer van de goederen die een meerderjarige als rechthebbende toebehoren of zullen toebehoren
+	a.	voor een bepaalde of onbepaalde tijdsduur indien de meerderjarige tijdelijk of duurzaam niet in staat is ten volle zijn vermogensrechtelijke belangen behoorlijk waar te nemen als gevolg van zijn lichamelijke of geestelijke toestand, dan wel
+	b.	voor een bepaalde tijdsduur indien de meerderjarige tijdelijk niet in staat is ten volle zijn vermogensrechtelijke belangen behoorlijk waar te nemen als gevolg van verkwisting of het hebben van problematische schulden.
 
 2.	Indien te verwachten is dat een minderjarige op het tijdstip waarop hij meerderjarig zal worden, in de in het vorige lid bedoelde toestand zal verkeren, kan het bewind reeds voor de meerderjarigheid worden ingesteld.
 
 3.	Het bewind kan eveneens worden ingesteld indien te verwachten is dat de rechthebbende binnen afzienbare tijd in de in het eerste lid bedoelde toestand zal verkeren.
 
 4.	De rechter bij wie een verzoek tot het verlenen van een rechterlijke machtiging als bedoeld in de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten dan wel een zorgmachtiging of een machtiging tot voorzetting van de crisismaatregel als bedoeld in de Wet verplichte geestelijke gezondheidszorg aanhangig is, is tevens bevoegd tot de kennisneming van een verzoek tot instelling van het bewind.
+
+5.	Onder aan de meerderjarige toebehorende goederen zijn in deze titel begrepen goederen die behoren tot zijn huwelijksgemeenschap of gemeenschap van geregistreerd partnerschap en die niet uitsluitend onder het bestuur van zijn echtgenoot dan wel geregistreerd partner staan.
 
 Artikel 432
 
@@ -4277,6 +4277,22 @@ Artikel 432
 4.	Een verzoek tot instelling van een bewind ten behoeve van een rechthebbende die onder curatele is gesteld, wordt aanhangig gemaakt bij de rechter die bevoegd is over opheffing van de curatele te beslissen. Deze rechter kan, bij opheffing van een curatele, ook ambtshalve overgaan tot instelling van het bewind.
 
 5.	In geval van een bestuursopdracht, of een verzoek daartoe, als bedoeld in artikel 91 van dit boek, zijn het derde en het vierde lid van overeenkomstige toepassing.
+
+Artikel 432a
+
+1.	Dit artikel is van toepassing indien het college van burgemeester en wethouders van de gemeente waar de rechthebbende woonplaats heeft, schriftelijk aan de griffier van de ingevolge artikel 266 van het Wetboek van Burgerlijke Rechtsvordering bevoegde rechtbank kenbaar heeft gemaakt dat het advies wenst uit te brengen over de vraag of een voldoende behartiging van de belangen van rechthebbenden kan worden bewerkstelligd met een meer passende en minder verstrekkende voorziening dan met de voortzetting van bewind, totdat het college deze verklaring schriftelijk intrekt.
+
+2.	De rechter verplicht de bewindvoerder binnen drie maanden na de instelling van een bewind wegens verkwisting of het hebben van problematische schulden afschrift van de boedelbeschrijving, bedoeld in artikel 436, eerste lid, en een plan van aanpak te zenden aan het college.
+
+3.	De rechter kan de bewindvoerder verplichten binnen drie maanden na de instelling van een bewind wegens een lichamelijke of geestelijke toestand afschrift van de bescheiden, bedoeld in het tweede lid, te zenden aan het college indien tevens sprake is van problematische schulden.
+
+4.	Indien de rechter de bewindvoerder verplicht de bescheiden, bedoeld in het tweede lid, te zenden aan het college, kan het college aan de rechter een advies als bedoeld in het eerste lid uitbrengen. De bewindvoerder bericht het college binnen twee weken na de instelling van het bewind over de instelling.
+
+5.	Het college verstrekt het advies aan de griffier, de rechthebbende en de bewindvoerder binnen vier weken na ontvangst van de bescheiden, bedoeld in het tweede lid.
+
+6.	Indien het college adviseert dat een voldoende behartiging van de belangen van de rechthebbende kan worden bewerkstelligd met een meer passende en minder verstrekkende voorziening, beslist de rechter of het bewind wordt voortgezet dan wel beëindigd. De griffier zendt afschrift van de beschikking aan het college. In afwijking van artikel 806, eerste lid, onderdeel a, van het Wetboek van Burgerlijke Rechtsvordering staat voor het college geen hoger beroep open tegen de beschikking.
+
+7.	Gelet op artikel 9, tweede lid, onderdeel b, van de Algemene Verordening Gegevensverwerking is het verbod om gegevens over de gezondheid van de rechthebbende te verwerken niet van toepassing indien de verwerking noodzakelijk is in het kader van het verstrekken van een advies als bedoeld in het eerste lid.
 
 Artikel 433
 
