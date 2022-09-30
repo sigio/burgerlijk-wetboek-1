@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2021 t/m 30-09-2022
+Geldend van 01-10-2022 t/m 31-12-2022
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -842,9 +842,9 @@ Een huwelijk kan worden gestuit, wanneer partijen niet de vereisten in zich vere
 
 Artikel 51
 
-1.	Bevoegd tot stuiting, wanneer partijen niet de vereisten in zich verenigen om een huwelijk aan te gaan, zijn bloedverwanten in de rechte lijn, broeders, zusters, voogden en curatoren van een der aanstaande echtgenoten.
+1.	Bevoegd tot stuiting, wanneer partijen niet de vereisten in zich verenigen om een huwelijk aan te gaan, zijn bloedverwanten in de rechte lijn, broeders, zusters en curatoren van een der aanstaande echtgenoten.
 
-2.	De in het vorige lid genoemde personen zijn ook bevoegd een huwelijk te stuiten, wanneer de andere aanstaande echtgenoot onder curatele staat, en het huwelijk klaarblijkelijk het ongeluk zou veroorzaken van de partij, waarvan zij bloedverwant, voogd of curator zijn.
+2.	De in het vorige lid genoemde personen zijn ook bevoegd een huwelijk te stuiten, wanneer de andere aanstaande echtgenoot onder curatele staat, en het huwelijk klaarblijkelijk het ongeluk zou veroorzaken van de partij, waarvan zij bloedverwant of curator zijn.
 
 Artikel 52
 
@@ -2404,6 +2404,10 @@ Artikel 251a
 3.	Indien een beslissing op grond van het eerste lid niet alle kinderen der echtgenoten betrof, vult de rechtbank haar aan op verzoek van een van de ouders, van de raad voor de kinderbescherming of ambtshalve.
 
 4.	De rechter kan, indien hem blijkt dat de minderjarige van twaalf jaar of ouder hierop prijs stelt, ambtshalve een beslissing geven op de voet van het eerste lid. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaren nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.
+
+Artikel 251b
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 252
 
@@ -4292,7 +4296,7 @@ Artikel 432a
 
 6.	Indien het college adviseert dat een voldoende behartiging van de belangen van de rechthebbende kan worden bewerkstelligd met een meer passende en minder verstrekkende voorziening, beslist de rechter of het bewind wordt voortgezet dan wel beëindigd. De griffier zendt afschrift van de beschikking aan het college. In afwijking van artikel 806, eerste lid, onderdeel a, van het Wetboek van Burgerlijke Rechtsvordering staat voor het college geen hoger beroep open tegen de beschikking.
 
-7.	Gelet op artikel 9, tweede lid, onderdeel b, van de Algemene Verordening Gegevensverwerking is het verbod om gegevens over de gezondheid van de rechthebbende te verwerken niet van toepassing indien de verwerking noodzakelijk is in het kader van het verstrekken van een advies als bedoeld in het eerste lid.
+7.	Gelet op artikel 9, tweede lid, onderdeel b, van de Algemene verordening gegevensverwerking is het verbod om gegevens over de gezondheid van de rechthebbende te verwerken niet van toepassing indien de verwerking noodzakelijk is in het kader van het verstrekken van een advies als bedoeld in het eerste lid.
 
 Artikel 433
 
