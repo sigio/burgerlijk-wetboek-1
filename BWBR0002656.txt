@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-10-2022 t/m 31-12-2022
+Geldend van 01-01-2023 t/m 30-04-2023
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -1045,7 +1045,7 @@ Artikel 80c
 
 1.	Het geregistreerd partnerschap eindigt:
 	a.	door de dood;
-	b.	indien de vermiste, die overeenkomstig de bepalingen van de tweede of derde afdeling van de achttiende titel van dit boek vermoedelijk overleden dan wel overleden is verklaard, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
+	b.	indien degene ten aanzien van wie, overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de achttiende titel van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven geregistreerde partner een nieuw geregistreerd partnerschap of huwelijk is aangegaan: door de voltrekking van dit geregistreerd partnerschap of huwelijk;
 	c.	met wederzijds goedvinden door inschrijving door de ambtenaar van de burgerlijke stand van een door beide partners en een of meer advocaten of notarissen ondertekende en gedateerde verklaring waaruit blijkt dat en op welk tijdstip de partners omtrent de beëindiging van het geregistreerd partnerschap een overeenkomst hebben gesloten.
 	d.	door ontbinding op verzoek van de partners of een van hen;
 	e.	door omzetting van een geregistreerd partnerschap in een huwelijk.
@@ -1620,7 +1620,7 @@ Artikel 149
 
 Het huwelijk eindigt:
 	a.	door de dood;
-	b.	indien de vermiste, die overeenkomstig de bepalingen van de tweede of derde afdeling van de achttiende titel van dit boek vermoedelijk overleden dan wel overleden is verklaard, nog in leven is op de dag waarop de achtergebleven echtgenoot een nieuw huwelijk of geregistreerd partnerschap is aangegaan: door de voltrekking van dit huwelijk of geregistreerd partnerschap;
+	b.	indien degene ten aanzien van wie overeenkomstig de bepalingen van de tweede afdeling van de achttiende titel van dit boek de vermissing is vastgesteld, dan wel overeenkomstig de bepalingen van de derde afdeling van de achttiende titel van dit boek het overlijden is vastgesteld, nog in leven is op de dag waarop de achtergebleven echtgenoot een nieuw huwelijk of geregistreerd partnerschap is aangegaan: door de voltrekking van dit huwelijk of geregistreerd partnerschap;
 	c.	door echtscheiding, overeenkomstig de bepalingen van de tweede afdeling van deze titel;
 	d.	door ontbinding van het huwelijk na scheiding van tafel en bed, overeenkomstig de bepalingen van de tweede afdeling van de tiende titel van dit boek.
 
@@ -2361,13 +2361,13 @@ Artikel 247
 
 3.	Het ouderlijk gezag omvat mede de verplichting van de ouder om de ontwikkeling van de banden van zijn kind met de andere ouder te bevorderen.
 
-4.	Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.
+4.	Een kind over wie de ouders gezamenlijk het gezag uitoefenen, behoudt na ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, na de ontbinding van het geregistreerd partnerschap anders dan door de dood, of na het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van artikel 251b, eerste lid, of een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, recht op een gelijkwaardige verzorging en opvoeding door beide ouders.
 
-5.	Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, de ontbinding van het geregistreerd partnerschap anders dan door de dood, of het beëindigen van de samenleving indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan.
+5.	Ouders kunnen ter uitvoering van het vierde lid in een overeenkomst of ouderschapsplan rekening houden met praktische belemmeringen die ontstaan in verband met de ontbinding van het huwelijk anders dan door de dood of na scheiding van tafel en bed, de ontbinding van het geregistreerd partnerschap anders dan door de dood, of het beëindigen van de samenleving indien de ouders het gezag gezamenlijk uitoefenen op grond van artikel 251b, eerste lid, of een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst, echter uitsluitend voor zover en zolang de desbetreffende belemmeringen bestaan.
 
 Artikel 247a
 
-Indien een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering.
+Indien de ouders het gezag gezamenlijk uitoefenen op grond van artikel 251b, eerste lid, of een aantekening als bedoeld in artikel 252, eerste lid, is geplaatst en de ouders hun samenleving beëindigen, stellen zij een ouderschapsplan op als bedoeld in artikel 815, tweede en derde lid, van het Wetboek van Burgerlijke Rechtsvordering.
 
 Artikel 248
 
@@ -2407,11 +2407,21 @@ Artikel 251a
 
 Artikel 251b
 
-[Dit onderdeel is nog niet inwerking getreden]
+1.	De moeder en de persoon die een kind heeft erkend oefenen het gezag over hun kind gezamenlijk uit, tenzij:
+	a.	een voogd met de voogdij over het kind is belast;
+	b.	de voorziening in het gezag over het kind is komen te ontbreken;
+	c.	de ouder die het gezag heeft, dit gezamenlijk met een ander dan een ouder uitoefent; of
+	d.	de erkenner eerder het gezag over het kind heeft uitgeoefend.
+
+2.	De moeder oefent het gezag over haar kind alleen uit, indien uit de akte, bedoeld in artikel 203, eerste lid, onderdeel a of b, blijkt dat:
+	a.	de moeder en de erkenner hebben verklaard dat het gezag alleen door de moeder wordt uitgeoefend; of
+	b.	de rechtbank vervangende toestemming voor de erkenning heeft verleend als bedoeld in artikel 204, derde en vierde lid.
+
+De ambtenaar van de burgerlijke stand doet onverwijld na de erkenning of, in geval van een erkenning voor de geboorte van het kind, na de aangifte van de geboorte, mededeling aan de griffier van de verklaring, bedoeld onder a, of de erkenning met vervangende toestemming, bedoeld onder b, ter aantekening in het register, bedoeld in artikel 244.
 
 Artikel 252
 
-1.	De ouders die niet met elkaar zijn gehuwd of een geregistreerd partnerschap zijn aangegaan oefenen het gezag over hun minderjarige kinderen gezamenlijk uit, indien dit op hun beider verzoek in het register, bedoeld in artikel 244, is aangetekend. Een verzoek als bedoeld in de eerste volzin kan niet worden gedaan ten aanzien van de kinderen over wie zij het gezag gezamenlijk hebben uitgeoefend.
+1.	De ouders die niet met elkaar zijn gehuwd of een geregistreerd partnerschap zijn aangegaan en niet het gezamenlijk gezag uitoefenen op grond van artikel 251b, eerste lid, oefenen het gezag over hun minderjarige kinderen gezamenlijk uit, indien dit op hun beider verzoek in het register, bedoeld in artikel 244, is aangetekend. Een verzoek als bedoeld in de eerste volzin kan niet worden gedaan ten aanzien van de kinderen over wie zij het gezag gezamenlijk hebben uitgeoefend.
 
 2.	De aantekening wordt door de griffier geweigerd, indien op het tijdstip van het verzoek:
 	a.	één of beide ouders onbevoegd is tot het gezag; of
@@ -2579,7 +2589,7 @@ Afdeling 3. Gemeenschappelijke bepalingen betreffende de gezagsuitoefening door 
 
 Artikel 253n
 
-1.	Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de artikelen 251, tweede lid, 252, eerste lid, 253q, vijfde lid, of 277, eerste lid, beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.
+1.	Op verzoek van de niet met elkaar gehuwde ouders of een van hen kan de rechtbank het gezamenlijk gezag, bedoeld in de artikelen 251, tweede lid, 251b, eerste lid, 252, eerste lid, 253q, vijfde lid, of 277, eerste lid, beëindigen, indien nadien de omstandigheden zijn gewijzigd of bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan. Alsdan bepaalt de rechtbank aan wie van de ouders voortaan het gezag over ieder der minderjarige kinderen toekomt.
 
 2.	Het eerste en derde lid van artikel 251a zijn van overeenkomstige toepassing.
 
@@ -2808,11 +2818,9 @@ Artikel 265b
 
 1.	Indien dit noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot onderzoek van diens geestelijke of lichamelijke gesteldheid, kan de kinderrechter de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die belast is met de uitvoering van de ondertoezichtstelling op haar verzoek machtigen de minderjarige gedurende dag en nacht uit huis te plaatsen.
 
-2.	De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of op verzoek van het openbaar ministerie. De raad voor de kinderbescherming of het openbaar ministerie legt bij het verzoek, bedoeld in het eerste lid, het besluit van het college van burgemeester en wethouders, bedoeld in artikel 2.3, eerste lid, van de Jeugdwet over.
+2.	De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of op verzoek van het openbaar ministerie.
 
-3.	De kinderrechter kan in afwijking van het tweede lid een machtiging tot uithuisplaatsing verlenen zonder dat het college van burgemeester en wethouders een daartoe strekkend besluit heeft genomen, indien het belang van het kind dit vergt.
-
-4.	Voor opneming en verblijf als bedoeld in artikel 6.1.2, eerste lid, of 6.1.3, eerste lid, van de Jeugdwet is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van artikel 265a als een machtiging als bedoeld in het eerste lid.
+3.	Voor opneming en verblijf als bedoeld in artikel 6.1.2, eerste lid, of 6.1.3, eerste lid, van de Jeugdwet is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van artikel 265a als een machtiging als bedoeld in het eerste lid.
 
 Artikel 265c
 
@@ -2872,7 +2880,7 @@ Artikel 265h
 
 Artikel 265i
 
-1.	De gecertificeerde instelling behoeft de toestemming van de kinderrechter voor wijziging in het verblijf van een minderjarige die ten minste een jaar door een ander als de ouder is opgevoed en verzorgd als behorende tot zijn gezin.
+1.	De gecertificeerde instelling behoeft de toestemming van de kinderrechter voor wijziging in het verblijf van een minderjarige die ten minste een jaar door een ander dan de ouder is opgevoed en verzorgd als behorende tot zijn gezin.
 
 2.	De toestemming wordt door de kinderrechter op verzoek van de gecertificeerde instelling verleend en slechts afgewezen indien de kinderrechter dit in het belang van de minderjarige noodzakelijk oordeelt.
 
@@ -4119,29 +4127,31 @@ Artikel 412
 
 2.	De rechtbank kan zo nodig, openbare oproepingen bevelen en behoedmiddelen ten behoeve van de belanghebbenden voorschrijven.
 
-3.	Indien na het verlenen van de machtiging mocht blijken, dat de vermiste op de dag van het openvallen der nalatenschap heeft bestaan, kan de teruggave van de in bezit gekomen goederen en van de vruchten worden gevorderd, op de voet en onder de beperkingen als hierna bij de verklaring van vermoedelijk overlijden is aangegeven.
+3.	Indien na het verlenen van de machtiging mocht blijken, dat de vermiste op de dag van het openvallen der nalatenschap heeft bestaan, kan de teruggave van de in bezit gekomen goederen en van de vruchten worden gevorderd, op de voet en onder de beperkingen als hierna bij de vaststelling van vermissing is aangegeven.
 
 4.	Het eerste tot en met derde lid is van overeenkomstige toepassing op een uitkering uit levensverzekering, waartoe de persoon wiens bestaan onzeker is de eerstgeroepen begunstigde is.
 
 Artikel 413
 
-1.	Is het bestaan van een persoon onzeker en is de in het volgende lid aangegeven tijdruimte verlopen, dan kunnen belanghebbenden de rechtbank verzoeken dat zij hun zal gelasten de vermiste op te roepen ten einde van zijn in leven zijn te doen blijken, en dat zij, zo hiervan niet blijkt, zal verklaren dat er rechtsvermoeden van overlijden van de vermiste bestaat.
+1.	Is het bestaan van een persoon onzeker en is de in het volgende lid aangegeven tijdruimte verlopen, dan kunnen belanghebbenden de rechtbank verzoeken dat zij hun zal gelasten de vermiste op te roepen ten einde van zijn in leven zijn te doen blijken, en dat zij, zo hiervan niet blijkt, de vermissing van de betrokkene zal vaststellen.
 
 2.
 	a.	De in het vorige lid bedoelde tijdruimte beloopt vijf jaren, te rekenen van het vertrek van de vermiste of de laatste tijding van zijn leven.
 	b.	De termijn wordt verkort tot een jaar, indien de betrokkene gedurende die periode wordt vermist en de omstandigheden zijn dood waarschijnlijk maken.
 
-3.	Het gelasten van de oproeping van de vermiste en de verklaring van rechtsvermoeden van overlijden, bedoeld in het eerste lid, kunnen ook worden verzocht door het openbaar ministerie.
+3.	Het gelasten van de oproeping van de vermiste en de vaststelling van vermissing, bedoeld in het eerste lid, kunnen ook worden verzocht door het openbaar ministerie.
 
 Artikel 414
 
 1.	De rechtbank stelt dag en uur vast, waartegen de vermiste moet worden opgeroepen. De oproep loopt op een termijn van een maand of zoveel langer als de rechtbank mocht bevelen. De oproeping geschiedt overeenkomstig de derde afdeling van de derde titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering.
 
-2.	Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, verklaart de rechtbank dat er rechtsvermoeden van overlijden bestaat, onverminderd haar bevoegdheid de beschikking, bedoeld in het eerste lid, eerst nog eenmaal te herhalen alsmede het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die artikel 413 stelt.
+2.	Indien de vermiste niet verschijnt, noch iemand voor hem opkomt die behoorlijk van het in leven zijn van de vermiste doet blijken, stelt de rechtbank de vermissing van de betrokkene vast, onverminderd haar bevoegdheid de beschikking, bedoeld in het eerste lid, eerst nog eenmaal te herhalen alsmede het horen van getuigen en de overlegging van bewijsstukken te gelasten, ten bewijze dat is voldaan aan de vereisten die artikel 413 stelt.
 
-3.	De beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, noemt de dag waarop de vermiste wordt vermoed te zijn overleden; als zodanig geldt de dag volgende op die van de laatste tijding van zijn leven, tenzij voldoende vermoedens bestaan, dat hij daarna nog enige tijd in leven was.
+3.	De beschikking, houdende de vaststelling van vermissing van de betrokkene, vermeldt de dag vanaf welke de vermissing is vastgesteld. Als zodanig geldt de dag volgende op die van het laatste bericht waaruit blijkt dat de vermiste in leven was, tenzij er voldoende aanwijzingen zijn dat hij daarna nog enige tijd in leven was.
 
 4.	De rechtbank kan tevens bepalen, dat de kosten die een verzoeker als bedoeld in artikel 413 lid 1 heeft gemaakt, ten laste van het vermogen van de vermiste worden gebracht.
+
+5.	De vaststelling van vermissing heeft de rechtsgevolgen van een overlijden.
 
 Artikel 415
 
@@ -4153,13 +4163,13 @@ Geen hogere voorziening is toegelaten tegen beschikkingen, houdende bevel tot op
 
 Artikel 417
 
-1.	Zodra de beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, in kracht van gewijsde is gegaan, zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was, een afschrift van de beschikking aan de ambtenaar van de burgerlijke stand van de verlaten woonplaats of, bij gebreke van verlaten woonplaats in Nederland, van de gemeente 's-Gravenhage. Deze ambtenaar maakt van de beschikking een akte van inschrijving op, welke in overeenstemming is met de beschikking en dit uitdrukkelijk vermeldt.
+1.	Zodra de beschikking, houdende vaststelling van vermissing, in kracht van gewijsde is gegaan, zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was, een afschrift van de beschikking aan de ambtenaar van de burgerlijke stand van de verlaten woonplaats of, bij gebreke van verlaten woonplaats in Nederland, van de gemeente 's-Gravenhage. Deze ambtenaar maakt van de beschikking een akte van inschrijving op, welke in overeenstemming is met de beschikking en dit uitdrukkelijk vermeldt.
 
 2.	Deze akte van overlijden bewijst ten aanzien van een ieder dwingend, dat de vermiste op de in de akte vermelde dag is overleden.
 
 Artikel 418
 
-1.	Erfgenamen en legatarissen van hem, die vermoedelijk overleden is verklaard, zijn verplicht alvorens zij de goederen der nalatenschap in bezit nemen, ten genoegen van de kantonrechter zekerheid te stellen voor hetgeen zij aan de vermoedelijk overleden verklaarde, mocht deze terugkeren, of aan erfgenamen of legatarissen die een beter recht mochten hebben, moeten afdragen.
+1.	Erfgenamen en legatarissen van degene ten aanzien van wie de vermissing is vastgesteld, zijn verplicht alvorens zij de goederen van de nalatenschap in bezit nemen, ten genoegen van de kantonrechter zekerheid te stellen voor hetgeen zij aan degene wiens vermissing is vastgesteld, mocht deze terugkeren, of aan erfgenamen of legatarissen die een beter recht mochten hebben, moeten afdragen.
 
 2.	De erfgenamen zijn verplicht na de inbezitneming een behoorlijke boedelbeschrijving op te maken.
 
@@ -4171,7 +4181,7 @@ Artikel 418
 
 6.	Erfgenamen en legatarissen zijn verplicht desgevraagd aan de kantonrechter de nodige inlichtingen te geven.
 
-7.	De in dit artikel genoemde verplichtingen vervallen op het door de kantonrechter bepaalde tijdstip, en uiterlijk na verloop van vijf jaren na de dag waarop de akte van overlijden overeenkomstig artikel 417 is opgemaakt. De rechtbank die de beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, geeft kan, gelet op de omstandigheden van het geval, daarbij tevens bepalen dat een of meer der in dit artikel genoemde verplichtingen niet zullen bestaan.
+7.	De in dit artikel genoemde verplichtingen vervallen op het door de kantonrechter bepaalde tijdstip, en uiterlijk na verloop van vijf jaren na de dag waarop de akte van overlijden overeenkomstig artikel 417 is opgemaakt. De rechtbank die de beschikking, houdende vaststelling van vermissing geeft kan, gelet op de omstandigheden van het geval, daarbij tevens bepalen dat een of meer der in dit artikel genoemde verplichtingen niet zullen bestaan.
 
 Artikel 419
 
@@ -4215,7 +4225,7 @@ Artikel 425
 
 1.	Indien de achtergebleven echtgenote van een vermiste een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig artikel 417 van dit boek opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag.
 
-2.	De vermoedelijk overleden verklaarde voor wie bij diens terugkeer het gezag over zijn minderjarige kind niet is herleefd, kan de rechtbank verzoeken hem daarmede te belasten. Wanneer deze tezamen met de andere ouder verzoekt in het belang van hun kind hen gezamenlijk met het gezag te belasten, dan wel niet in het gezag is voorzien of een voogd het gezag uitoefent, wordt het verzoek slechts afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd. In de overige gevallen wordt het verzoek slechts ingewilligd indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
+2.	Degene ten aanzien van wie de vermissing is vastgesteld voor wie bij diens terugkeer het gezag over zijn minderjarige kind niet is herleefd, kan de rechtbank verzoeken hem daarmede te belasten. Wanneer deze tezamen met de andere ouder verzoekt in het belang van hun kind hen gezamenlijk met het gezag te belasten, dan wel niet in het gezag is voorzien of een voogd het gezag uitoefent, wordt het verzoek slechts afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd. In de overige gevallen wordt het verzoek slechts ingewilligd indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
 
 Afdeling 3. Vaststelling van overlijden in bepaalde gevallen
 
