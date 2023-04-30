@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-01-2023 t/m 30-04-2023
+Geldend van 01-05-2023 t/m 30-06-2023
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -3460,8 +3460,6 @@ Artikel 344
 
 Artikel 345
 
-[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
-
 1.	De voogd behoeft machtiging van de kantonrechter om de navolgende handelingen voor rekening van de minderjarige te verrichten:
 	a.	aangaan van overeenkomsten strekkende tot beschikking over goederen van de minderjarige, tenzij de handeling geld betreft, als een gewone beheersdaad kan worden beschouwd, of krachtens rechterlijk bevel geschiedt;
 	b.	giften doen, andere dan gebruikelijke, niet bovenmatige;
@@ -3471,22 +3469,7 @@ Artikel 345
 
 2.	De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht daaronder begrepen.
 
-3.	Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van artikel 30k, lid 1, onder c, van het Wetboek van Burgerlijke Rechtsvordering of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.
-
-[Red: Voor overige gevallen luidt het artikel als volgt:]
-
-Artikel 345
-
-1.	De voogd behoeft machtiging van de kantonrechter om de navolgende handelingen voor rekening van de minderjarige te verrichten:
-	a.	aangaan van overeenkomsten strekkende tot beschikking over goederen van de minderjarige, tenzij de handeling geld betreft, als een gewone beheersdaad kan worden beschouwd, of krachtens rechterlijk bevel geschiedt;
-	b.	giften doen, andere dan gebruikelijke, niet bovenmatige;
-	c.	een making of gift, waaraan lasten of voorwaarden zijn verbonden, aannemen;
-	d.	geld lenen of de minderjarige als borg of hoofdelijke medeschuldenaar verbinden;
-	e.	overeenkomen dat een boedel, waartoe de minderjarige gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten.
-
-2.	De kantonrechter kan bepalen dat de voogd zijn machtiging behoeft voor het innen van vorderingen van de minderjarige, het disponeren over saldi bij een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht daaronder begrepen.
-
-3.	Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.
+3.	Voor het aangaan van een overeenkomst tot beëindiging van een geschil waarbij de minderjarige is betrokken, behoeft de voogd geen machtiging in het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering of indien het voorwerp van de onzekerheid of het geschil een waarde van € 700 niet te boven gaat, noch indien de overeenkomst als een beheersdaad is te beschouwen.
 
 Artikel 346
 
@@ -4407,8 +4390,6 @@ Artikel 440
 
 Artikel 441
 
-[Red: Dit artikel is gewijzigd in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.]
-
 1.	Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende. De bewindvoerder kan voorts voor de rechthebbende alle handelingen verrichten die aan een goed bewind bijdragen.
 
 2.	Hij behoeft echter toestemming van de rechthebbende of, indien deze daartoe niet in staat of weigerachtig is, machtiging van de kantonrechter voor de volgende handelingen:
@@ -4416,32 +4397,12 @@ Artikel 441
 	b.	een making of gift waaraan lasten of voorwaarden zijn verbonden, aannemen;
 	c.	geld lenen of de rechthebbende als borg of hoofdelijke medeschuldenaar verbinden;
 	d.	overeenkomen dat een boedel, waartoe de rechthebbende gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten;
-	e.	het aangaan, buiten het geval van artikel 30k, lid 1, onder c van het Wetboek van Burgerlijke Rechtsvordering, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van € 700 niet te boven gaat;
+	e.	het aangaan, buiten het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van € 700 niet te boven gaat;
 	f.	andere bij de instelling van het bewind of nadien aangewezen handelingen.
 
 3.	De kantonrechter kan ook aan de bewindvoerder een doorlopende machtiging met zodanige voorwaarden als hij geraden acht, verlenen om handelingen als in het vorige lid bedoeld te verrichten en een verleende machtiging te allen tijde wijzigen of intrekken.
 
-4.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.
-
-5.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen nalatenschap te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.
-
-[Red: Voor overige gevallen luidt het artikel als volgt:]
-
-Artikel 441.
-
-1.	Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende. De bewindvoerder kan voorts voor de rechthebbende alle handelingen verrichten die aan een goed bewind bijdragen.
-
-2.	Hij behoeft echter toestemming van de rechthebbende of, indien deze daartoe niet in staat of weigerachtig is, machtiging van de kantonrechter voor de volgende handelingen:
-	a.	beschikken en aangaan van overeenkomsten tot beschikking over een onder het bewind staand goed, tenzij de handeling als een gewone beheersdaad kan worden beschouwd of krachtens rechterlijk bevel geschiedt;
-	b.	een making of gift waaraan lasten of voorwaarden zijn verbonden, aannemen;
-	c.	geld lenen of de rechthebbende als borg of hoofdelijke medeschuldenaar verbinden;
-	d.	overeenkomen dat een boedel, waartoe de rechthebbende gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten;
-	e.	het aangaan, buiten het geval van artikel 87 van het Wetboek van Burgerlijke Rechtsvordering, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een waarde van € 700 niet te boven gaat;
-	f.	andere bij de instelling van het bewind of nadien aangewezen handelingen.
-
-3.	De kantonrechter kan ook aan de bewindvoerder een doorlopende machtiging met zodanige voorwaarden als hij geraden acht, verlenen om handelingen als in het vorige lid bedoeld te verrichten en een verleende machtiging te allen tijde wijzigen of intrekken.
-
-4.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.
+4.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen, waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig het tweede lid. De kantonrechter kan, in plaats van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.
 
 5.	De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen nalatenschap te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.
 
