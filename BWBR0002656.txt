@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 1
 Geraadpleegd op 06-08-2023.
-Geldend van 01-05-2023 t/m 30-06-2023
+Geldend van 01-07-2023 t/m heden
 
 Burgerlijk Wetboek Boek 1, Personen- en familierecht
 
@@ -296,7 +296,7 @@ Artikel 19e
 
 3.	Tot de aangifte in persoon is verplicht de vader of de moeder uit wie het kind niet is geboren.
 
-4.	Wanneer de persoon genoemd in het tweede lid ontbreekt of verhinderd is de aangifte te doen, is tot aangifte verplicht:
+4.	Wanneer de persoon genoemd in het derde lid ontbreekt of verhinderd is de aangifte te doen, is tot aangifte verplicht:
 	a.	ieder die bij het ter wereld komen van het kind tegenwoordig is geweest;
 	b.	de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks is geschied in een inrichting tot verpleging of verzorging bestemd, in een gevangenis of in een soortgelijke inrichting, het hoofd van die inrichting of een door hem bij onderhandse akte bijzonderlijk tot het doen van de aangifte aangewezen ondergeschikte.
 
@@ -321,9 +321,7 @@ Artikel 19e
 
 12.	Wordt geen gevolg gegeven aan het verzoek van de ambtenaar van de burgerlijke stand om overlegging van een verklaring als bedoeld in het elfde lid of is in de verklaring vermeld dat de identiteit van de moeder uit wie het kind is geboren onbekend is, dan is artikel 19b van toepassing.
 
-13.	In het derde en vierde lid wordt met «de vader» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren.
-
-14.	Voor de elektronische aangifte, geregeld in het eerste en tiende lid, wordt met «de vader» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren.
+13.	Voor de elektronische aangifte, geregeld in het eerste en tiende lid, wordt met «de vader» gelijkgesteld de moeder die niet de vrouw is uit wie het kind is geboren.
 
 Artikel 19f
 
@@ -362,7 +360,7 @@ Artikel 19i
 
 1.	Wanneer een kind levenloos ter wereld is gekomen, wordt een akte opgemaakt, die in het register van overlijden wordt opgenomen.
 
-2.	Wanneer een kind binnen de in artikel 19e, zesde lid, bepaalde termijn is overleden voordat aangifte van de geboorte is geschied, wordt zowel een akte van geboorte als een akte van overlijden opgemaakt.
+2.	Wanneer een kind binnen de in artikel 19e, zevende lid, bepaalde termijn is overleden voordat aangifte van de geboorte is geschied, wordt zowel een akte van geboorte als een akte van overlijden opgemaakt.
 
 3.	In de in de vorige leden bedoelde gevallen is ten aanzien van de aangifte het bepaalde in artikel 19h van overeenkomstige toepassing. In het in het tweede lid bedoelde geval blijft artikel 19e buiten toepassing.
 
@@ -542,7 +540,7 @@ Artikel 25a
 
 1.	Indien na de inschrijving kennelijke misslagen in de buiten Nederland opgemaakte akte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn verbeterd, wordt de verbetering in de akte van inschrijving aangebracht doordat de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage, aan wie een afschrift van de beslissing tot verbetering en een afschrift van de verbeterde akte zijn overgelegd, een latere vermelding van de verbetering aan de akte van inschrijving toevoegt.
 
-2.	Kennelijke schrijf- en spelfouten, die in de buiten Nederland opgemaakte akte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn verbeterd, kunnen ook zonder toestemming van de officier van justitie, ambtshalve door de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage aan de hand van een afschrift van de verbeterde akte worden verbeterd op de in het eerste lid aangegeven wijze.
+2.	Kennelijke schrijf- en spelfouten, die in de buiten Nederland opgemaakte akte overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn verbeterd, kunnen ambtshalve door de ambtenaar van de burgerlijke stand van de gemeente 's-Gravenhage aan de hand van een afschrift van de verbeterde akte worden verbeterd op de in het eerste lid aangegeven wijze.
 
 Artikel 25b
 
@@ -745,7 +743,7 @@ Artikel 37
 
 Artikel 38
 
-Hij die wegens een zijn lichamelijke of geestelijke toestand onder curatele staat, mag geen huwelijk aangaan zonder toestemming van de kantonrechter.
+Hij die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, mag geen huwelijk aangaan zonder toestemming van de kantonrechter.
 
 Artikel 39
 
@@ -936,7 +934,9 @@ Artikel 67
 
 Artikel 68
 
-Geen godsdienstige plechtigheden zullen mogen plaats hebben, voordat de partijen aan de bedienaar van de eredienst zullen hebben doen blijken, dat het huwelijk ten overstaan van de ambtenaar van de burgerlijke stand is voltrokken.
+1.	Geen godsdienstige plechtigheden zullen mogen plaats hebben, voordat de partijen aan de bedienaar van de eredienst zullen hebben doen blijken, dat het huwelijk ten overstaan van de ambtenaar van de burgerlijke stand is voltrokken.
+
+2.	Een partij bij een religieuze of levensbeschouwelijke verbintenis is gehouden tot het verlenen van medewerking aan het teniet doen gaan van die verbintenis indien een andere partij daarom verzoekt, tenzij dit gelet op zwaarwegende belangen in redelijkheid niet kan worden gevergd.
 
 Afdeling 5. Nietigverklaring van een huwelijk
 
@@ -1031,9 +1031,9 @@ Artikel 80a
 
 4.	Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de artikelen 51, 52, 53, tweede tot en met vierde lid, en 54 tot en met 56 van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de artikelen 31, 32, 41 en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, of wanneer partijen niet beiden hun toestemming tot het geregistreerd partnerschap vrijelijk zullen geven, mag hij niet meewerken aan een registratie of daaraan voorafgaande formaliteiten verrichten, ook al zou geen stuiting hebben plaatsgehad.
 
-5.	Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 37 tot en met 39, 41, 41a, 44 tot en met 49, 58, en 62 tot en met 66 van overeenkomstige toepassing.
+5.	Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 37 tot en met 39, 41, 41a, 44 tot en met 49, 58 en 62 tot en met 66 van overeenkomstige toepassing.
 
-6.	Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de artikelen 69 tot en met 73, 74, 75 tot en met 77, eerste lid en tweede lid.
+6.	Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de artikelen 69 tot en met 77.
 
 7.	Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78, 79 en 80 van overeenkomstige toepassing.
 
@@ -1058,25 +1058,25 @@ Artikel 80c
 
 Artikel 80d
 
-1.	De in artikel 80c, onder c, bedoelde overeenkomst betreft ten minste de verklaring van beide partners dat hun geregistreerd partnerschap duurzaam ontwricht is en dat zij het willen beëindigen. Voorts betreft de overeenkomst, evenwel niet op straffe van nietigheid:
+1.	De in artikel 80c, eerste lid, onder c, bedoelde overeenkomst betreft ten minste de verklaring van beide partners dat hun geregistreerd partnerschap duurzaam ontwricht is en dat zij het willen beëindigen. Voorts betreft de overeenkomst, evenwel niet op straffe van nietigheid:
 	a.	de uitkering tot levensonderhoud ten behoeve van de geregistreerde partner die niet voldoende inkomsten tot zijn levensonderhoud heeft, noch zich in redelijkheid kan verwerven;
-	b.	wie van de geregistreerde partners huurder van de woonruimte die hen tot hoofdverblijf dient, zal zijn of wie van de geregistreerde partners gedurende een bij de overeenkomst te bepalen termijn het gebruik zal hebben van de woning en de inboedel die een van hen of hen beiden toebehoren dan wel ten gebruike toekomen;
+	b.	wie van de geregistreerde partners huurder van de woonruimte die hun tot hoofdverblijf dient, zal zijn of wie van de geregistreerde partners gedurende een bij de overeenkomst te bepalen termijn het gebruik zal hebben van de woning en de inboedel die een van hen of hun beiden toebehoren dan wel ten gebruike toekomen;
 	c.	de verdeling van enige gemeenschap waarin de partners de registratie zijn aangegaan dan wel de verrekening die bij voorwaarden als bedoeld in titel 8 is overeengekomen;
 	d.	de verevening of verrekening van pensioenrechten.
 
 2.	Op een beëindiging van het geregistreerd partnerschap met wederzijds goedvinden zijn de artikelen 155, 157, eerste tot en met zesde lid, 158, 159, eerste en derde lid, 159a, 160 en 164 van overeenkomstige toepassing.
 
-3.	De verklaring, bedoeld in artikel 80c, onder c, wordt slechts ingeschreven in de registers van de burgerlijke stand, indien zij de ambtenaar van de burgerlijke stand uiterlijk drie maanden na het sluiten van de overeenkomst heeft bereikt.
+3.	De verklaring, bedoeld in artikel 80c, eerste lid, onder c, wordt slechts ingeschreven in de registers van de burgerlijke stand, indien zij de ambtenaar van de burgerlijke stand uiterlijk drie maanden na het sluiten van de overeenkomst heeft bereikt.
 
 Artikel 80e
 
-1.	Op een ontbinding van een geregistreerd partnerschap als bedoeld in artikel 80c, onder d, zijn de artikelen 151, 153, 155, 156 tot en met 160, 164 en 165 van overeenkomstige toepassing.
+1.	Op een ontbinding van een geregistreerd partnerschap als bedoeld in artikel 80c, eerste lid, onder d, zijn de artikelen 151, 153 tot en met 160, 164 en 165 van overeenkomstige toepassing.
 
 2.	De ontbinding komt tot stand door inschrijving van een rechterlijke uitspraak op verzoek van partijen of van één van hen in de registers van de burgerlijke stand. Artikel 163, derde lid, is van overeenkomstige toepassing.
 
 Artikel 80f
 
-Indien de partijen wier geregistreerd partnerschap is beëindigd, opnieuw een geregistreerd partnerschap met elkaar aangaan dan wel met elkaar in het huwelijk treden, herleven alle gevolgen van het geregistreerd partnerschap van rechtswege alsof er geen beëindiging heeft plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de inschrijving van de beëindiging en de nieuwe registratie of het huwelijk zijn verricht, beoordeeld naar het tijdstip van de handeling.
+Indien de partijen wier geregistreerd partnerschap is beëindigd, opnieuw een geregistreerd partnerschap met elkaar aangaan dan wel met elkaar in het huwelijk treden, worden alle gevolgen van het geregistreerd partnerschap geacht steeds te hebben bestaan alsof er geen beëindiging heeft plaats gehad. Nochtans wordt de geldigheid van rechtshandelingen die tussen de inschrijving van de beëindiging en de nieuwe registratie of het huwelijk zijn verricht, beoordeeld naar het tijdstip van de handeling.
 
 Artikel 80g
 
@@ -1304,7 +1304,7 @@ Artikel 99
 
 2.	De ontbinding van de gemeenschap door indiening van een verzoek als bedoeld in het eerste lid, onder b, c en d, alsmede door sluiting van een overeenkomst als bedoeld onder e, kan aan derden die daarvan onkundig waren slechts worden tegengeworpen, indien het desbetreffende verzoek dan wel de overeenkomst ingeschreven was in het huwelijksgoederenregister, bedoeld in artikel 116.
 
-3.	Indien vast komt te staan dat een verzoek als bedoeld in het eerste lid, onder b, c en d, dan wel een overeenkomst als bedoeld in het eerste lid, onder e, niet meer kan leiden tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed, opheffing van de gemeenschap door een beschikking, onderscheidenlijk beëindiging van het geregistreerd partnerschap met wederzijds goedvinden, herleven van rechtswege alle gevolgen van de gemeenschap, alsof er geen verzoek was ingediend of overeenkomst was gesloten, tenzij zich inmiddels een andere grond voor ontbinding heeft voorgedaan. Nochtans wordt de geldigheid van rechtshandelingen die zijn verricht tussen het tijdstip van indiening van het verzoek of sluiting van de overeenkomst en het tijdstip waarop komt vast te staan dat het verzoek of de overeenkomst niet meer tot het in de eerste zin bedoelde gevolg kan leiden, beoordeeld naar het tijdstip van de handeling.
+3.	Indien vast komt te staan dat een verzoek als bedoeld in het eerste lid, onder b, c en d, dan wel een overeenkomst als bedoeld in het eerste lid, onder e, niet meer kan leiden tot echtscheiding, ontbinding van het geregistreerd partnerschap, scheiding van tafel en bed, opheffing van de gemeenschap door een beschikking, onderscheidenlijk beëindiging van het geregistreerd partnerschap met wederzijds goedvinden, worden alle gevolgen van de gemeenschap geacht steeds te hebben bestaan, alsof er geen verzoek was ingediend of overeenkomst was gesloten, tenzij zich inmiddels een andere grond voor ontbinding heeft voorgedaan. Nochtans wordt de geldigheid van rechtshandelingen die zijn verricht tussen het tijdstip van indiening van het verzoek of sluiting van de overeenkomst en het tijdstip waarop komt vast te staan dat het verzoek of de overeenkomst niet meer tot het in de eerste zin bedoelde gevolg kan leiden, beoordeeld naar het tijdstip van de handeling.
 
 4.	Tezamen met een verzoek als bedoeld in het eerste lid, onder b, c of d kan reeds overeenkomstig titel 7 van Boek 3 een vordering worden ingesteld tot verdeling van de gemeenschap, tot gelasten van de wijze van verdeling en tot vaststelling van de verdeling.
 
@@ -1496,7 +1496,7 @@ Artikel 133
 
 1.	De verplichting tot verrekening van inkomsten of van vermogen is wederkerig.
 
-2.	De verplichting tot verrekening heeft uitsluitend betrekking op inkomsten die of op vermogen dat de echtgenoten tijdens het bestaan van deze verplichting hebben verkregen. De verplichting tot verrekening heeft geen betrekking op vermogen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift wordt verkregen en ook niet op de vruchten daaruit of de voor dat vermogen of voor die vruchten in de plaats getreden goederen. Evenmin heeft de verplichting tot verrekening betrekking op vermogen dat bestaat uit rechten op het vestigen van vruchtgebruik als bedoeld in de artikelen 29 en 30 van Boek 4, vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge de artikelen 34, 35, 36, 38 en 126, tweede lid, onder a en c, van Boek 4, en afdeling 3 van titel 4 van Boek 4.
+2.	De verplichting tot verrekening heeft uitsluitend betrekking op inkomsten die of op vermogen dat de echtgenoten tijdens het bestaan van deze verplichting hebben verkregen. De verplichting tot verrekening heeft geen betrekking op vermogen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift wordt verkregen en ook niet op de vruchten daaruit of de voor dat vermogen of voor die vruchten in de plaats getreden goederen. Evenmin heeft de verplichting tot verrekening betrekking op vermogen dat bestaat uit rechten op het vestigen van vruchtgebruik als bedoeld in de artikelen 29 en 30 van Boek 4, vruchtgebruik dat op grond van die bepalingen is gevestigd, alsmede hetgeen wordt verkregen ingevolge de artikelen 34, 35, 36, 38, 63 tot en met 92 en 126, eerste lid en tweede lid, onderdelen a en c, van Boek 4.
 
 Artikel 134
 
@@ -1992,7 +1992,7 @@ Artikel 203
 Artikel 204
 
 1.	De erkenning is nietig, indien zij is gedaan:
-	a.	door een persoon die krachtens artikel 41 geen huwelijk met de moeder mag sluiten of krachtens artikel 80a, zesde lid, geen geregistreerd partnerschap met de moeder mag aangaan;
+	a.	door een persoon die krachtens artikel 41 geen huwelijk met de moeder mag sluiten;
 	b.	door een minderjarige die de leeftijd van zestien jaren nog niet heeft bereikt;
 	c.	indien het kind de leeftijd van zestien jaar nog niet heeft bereikt, zonder voorafgaande schriftelijke toestemming van de moeder of de vader;
 	d.	zonder voorafgaande schriftelijke toestemming van het kind van twaalf jaren of ouder;
@@ -2006,7 +2006,7 @@ Artikel 204
 
 4.	De toestemming van de moeder wier kind de leeftijd van zestien jaren nog niet heeft bereikt, dan wel de toestemming van het kind van twaalf jaren of ouder, kan op verzoek van de persoon die als levensgezel van de moeder ingestemd heeft met een daad die de verwekking van het kind tot gevolg kan hebben gehad, door de toestemming van de rechtbank worden vervangen als dit in het belang is van het kind.
 
-5.	Een persoon die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, mag slechts erkennen nadat daartoe toestemming is verkregen van de kantonrechter.
+5.	Een persoon die wegens zijn lichamelijke of geestelijke toestand onder curatele staat, mag slechts erkennen of toestemming verlenen voor erkenning nadat daartoe toestemming is verkregen van de kantonrechter.
 
 Artikel 205
 
@@ -2050,7 +2050,7 @@ Artikel 207
 
 2.	Vaststelling van het ouderschap kan niet geschieden, indien:
 	a.	het kind twee ouders heeft;
-	b.	tussen de in de aanhef van het eerste lid bedoelde persoon en de moeder van het kind krachtens artikel 41 geen huwelijk zou mogen worden gesloten of krachtens artikel 80a, zesde lid, geen partnerschap zou mogen worden geregistreerd;
+	b.	tussen de in de aanhef van het eerste lid bedoelde persoon en de moeder van het kind krachtens artikel 41 geen huwelijk zou mogen worden gesloten;
 	c.	de in de aanhef van het eerste lid bedoelde persoon een minderjarige is die de leeftijd van zestien jaren nog niet heeft bereikt, tenzij hij voordat hij deze leeftijd heeft bereikt is overleden.
 
 3.	Het verzoek wordt door de moeder ingediend binnen vijf jaren na de geboorte van het kind of, in geval van onbekendheid met de identiteit van de vermoedelijke verwekker dan wel van onbekendheid met zijn verblijfplaats, binnen vijf jaren na de dag waarop de identiteit en de verblijfplaats aan de moeder bekend zijn geworden.
@@ -2147,7 +2147,7 @@ Titel 12. Adoptie
 
 Artikel 227
 
-1.	Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens artikel 41 geen huwelijk zouden mogen aangaan of krachtens artikel 80a, zesde lid, geen partnerschap zouden mogen aangaan.
+1.	Adoptie geschiedt door een uitspraak van de rechtbank op verzoek van twee personen tezamen of op verzoek van één persoon alleen. Twee personen tezamen kunnen geen verzoek tot adoptie doen, indien zij krachtens artikel 41 geen huwelijk zouden mogen aangaan.
 
 2.	Het verzoek door twee personen tezamen kan slechts worden gedaan, indien zij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met elkaar hebben samengeleefd. Het verzoek door de adoptant die echtgenoot, geregistreerde partner of andere levensgezel van de ouder is, kan slechts worden gedaan, indien hij ten minste drie aaneengesloten jaren onmiddellijk voorafgaande aan de indiening van het verzoek met die ouder heeft samengeleefd. De in de tweede zin bedoelde voorwaarde geldt evenwel niet indien het kind is of wordt geboren binnen de relatie van de adoptant en die ouder.
 
@@ -2247,7 +2247,7 @@ Artikel 236
 
 Artikel 237
 
-1.	Een beschikking waarbij handlichting is verleend of ingetrokken, moet worden bekend gemaakt in de Staatscourant en in twee in de beschikking aan te wijzen dagbladen.
+1.	Een beschikking waarbij handlichting is verleend of ingetrokken, moet worden bekend gemaakt in de Staatscourant.
 
 2.	In de bekendmaking moet nauwkeurig worden vermeld hoedanig, en tot welk einde zij is verleend. Vóór de bekendmaking werkt zomin de handlichting als haar intrekking tegen derden die hiervan onkundig waren.
 
@@ -2466,7 +2466,7 @@ Artikel 253aa
 
 1.	Gedurende hun geregistreerd partnerschap oefenen de ouders het gezag gezamenlijk uit.
 
-2.	De bepalingen met betrekking tot het gezamenlijk gezag zijn hierop van toepassing, met uitzondering van de artikelen 251, tweede lid, en 251a, tweede en derde lid.
+2.	De bepalingen met betrekking tot het gezamenlijk gezag van gehuwde en gehuwd geweest zijnde ouders zijn van overeenkomstige toepassing, met uitzondering van het omtrent scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed bepaalde. Na ontbinding van het geregistreerd partnerschap als bedoeld in artikel 80c, eerste lid, onderdeel d, blijven de ouders die gezamenlijk het gezag hebben, dit gezag gezamenlijk uitoefenen.
 
 § 2. Het gezag van ouders anders dan na scheiding
 
@@ -2601,9 +2601,7 @@ Artikel 253p
 
 1.	In de gevallen waarin door de rechter het gezag wordt opgedragen aan beide ouders of aan een ouder alleen, neemt dit een aanvang zodra de desbetreffende beschikking in kracht van gewijsde is gegaan, of, indien zij uitvoerbaar bij voorraad is verklaard, daags nadat de beschikking is verstrekt of verzonden.
 
-2.	Na de gerechtelijke ontbinding van het huwelijk of na scheiding van tafel en bed begint het gezag nochtans niet voordat de beschikking houdende ontbinding van het huwelijk is ingeschreven in de registers van de burgerlijke stand of voordat de beschikking houdende scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116.
-
-3.	Indien een aantekening was gedaan als bedoeld in artikel 252, eerste lid, van dit boek, begint het aan één der ouders opgedragen gezag nochtans niet, dan nadat deze aantekening door de griffier is doorgehaald. Van de doorhaling doet de griffier schriftelijk mededeling aan beide ouders.
+2.	Na de gerechtelijke ontbinding van het huwelijk of van het geregistreerd partnerschap of na scheiding van tafel en bed begint het gezag nochtans niet voordat de beschikking houdende ontbinding van het huwelijk of van het geregistreerd partnerschap is ingeschreven in de registers van de burgerlijke stand of voordat de beschikking houdende scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister, aangewezen in artikel 116.
 
 Artikel 253q
 
@@ -2641,7 +2639,7 @@ Artikel 253sa
 
 1.	Over het staande hun huwelijk of geregistreerd partnerschap geboren kind oefenen een ouder en zijn echtgenoot of geregistreerde partner die niet de ouder is, gezamenlijk het gezag uit, tenzij het kind tevens in familierechtelijke betrekking staat tot een andere ouder.
 
-2.	De bepalingen met betrekking tot het gezamenlijk gezag zijn hierop van toepassing, met uitzondering van de artikelen 251, tweede lid, en 251a, tweede en derde lid.
+2.	De bepalingen met betrekking tot het gezamenlijk gezag van gehuwde en gehuwd geweest zijnde ouders zijn van overeenkomstige toepassing, voor wat betreft het in het vorige lid bedoeld geregistreerd partnerschap met uitzondering van het omtrent scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed bepaalde. Na ontbinding van het geregistreerd partnerschap als bedoeld in artikel 80c, eerste lid, onder d, blijven de ouder en zijn geregistreerde partner die niet de ouder is, dit gezag gezamenlijk uitoefenen.
 
 Paragraaf 2. Het gezamenlijk gezag van een ouder tezamen met een ander dan een ouder krachtens rechterlijke beslissing
 
@@ -3971,7 +3969,7 @@ Artikel 401
 
 1.	Een rechterlijke uitspraak of een overeenkomst betreffende levensonderhoud kan bij latere rechterlijke uitspraak worden gewijzigd of ingetrokken, wanneer zij nadien door wijziging van omstandigheden ophoudt aan de wettelijke maatstaven te voldoen. De voorgaande zin is niet van toepassing op een verzoek tot wijziging van een termijn die de rechter heeft vastgesteld op grond van artikel 156, derde lid, of artikel 157, zevende lid, of die is opgenomen in een overeenkomst als bedoeld in artikel 158.
 
-2.	De termijn die de rechter heeft vastgesteld op grond van artikel 156, derde lid, of artikel 157, zevende lid, of die is opgenomen in een overeenkomst als bedoeld in artikel 158, kan op verzoek van een van de gewezen echtgenoten worden gewijzigd in geval van zo ingrijpende wijziging van omstandigheden dat ongewijzigde handhaving van de termijn naar maatstaven van redelijkheid en billijkheid niet van de verzoeker kan worden gevergd.
+2.	De termijn die de rechter heeft vastgesteld op grond van artikel 156, derde lid, of artikel 157, zevende lid, of die is opgenomen in een overeenkomst als bedoeld in artikel 158, kan op verzoek van een van de gewezen echtgenoten of gewezen geregistreerde partners worden gewijzigd in geval van zo ingrijpende wijziging van omstandigheden dat ongewijzigde handhaving van de termijn naar maatstaven van redelijkheid en billijkheid niet van de verzoeker kan worden gevergd.
 
 Verlenging is niet mogelijk indien de rechter zulks ingevolge artikel 157, zevende lid, heeft bepaald. Op een verzoek tot verlenging is artikel 157, zevende lid, tweede en derde zin, van overeenkomstige toepassing.
 
@@ -4206,7 +4204,7 @@ Artikel 424
 
 Artikel 425
 
-1.	Indien de achtergebleven echtgenote van een vermiste een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig artikel 417 van dit boek opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag.
+1.	Indien de achtergebleven echtgenote van een vermiste een nieuw huwelijk is aangegaan, doch de vermiste nog in leven was na de dag die als datum van overlijden was vermeld in de overeenkomstig artikel 417 van dit boek opgemaakte akte, zoals deze bij de voltrekking van het nieuwe huwelijk luidde, wordt niettemin voor de bepaling van de staat van haar kinderen die voor het nieuwe huwelijk zijn geboren, het huwelijk met de vermiste geacht te zijn ontbonden op de in die akte vermelde dag. Dit lid is van overeenkomstige toepassing op de achtergebleven geregistreerde partner en het aangaan van een nieuw geregistreerd partnerschap.
 
 2.	Degene ten aanzien van wie de vermissing is vastgesteld voor wie bij diens terugkeer het gezag over zijn minderjarige kind niet is herleefd, kan de rechtbank verzoeken hem daarmede te belasten. Wanneer deze tezamen met de andere ouder verzoekt in het belang van hun kind hen gezamenlijk met het gezag te belasten, dan wel niet in het gezag is voorzien of een voogd het gezag uitoefent, wordt het verzoek slechts afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd. In de overige gevallen wordt het verzoek slechts ingewilligd indien de rechtbank dit in het belang van het kind wenselijk oordeelt.
 
